@@ -9,6 +9,8 @@ List shared papers in our group
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2021.12.16|1. 李阳   <br>（Transformer） |[《Gaussian Context Transformer》 （CVPR 2021） ](https://openaccess.thecvf.com/content/CVPR2021/papers/Ruan_Gaussian_Context_Transformer_CVPR_2021_paper.pdf )
+|2021.12.16|2. 陈雁    <br>（Semantic Segmentation） |[《Weakly Supervised Semantic Segmentation by Pixel-to-Prototype Contrast》 （arXiv 2021） ](https://arxiv.org/abs/2110.07110)
 |2021.12.9|1. 李胜琦   <br>（Transformer） |[《Demystifying Local Vision Transformer: Sparse Connectivity, Weight Sharing, and Dynamic Weight》 （arXiv 2021） ](https://arxiv.org/abs/2106.04263 )
 |2021.12.9|2. 耿瑞祥    <br>（Knowledge Distillation） |[《Mosaicking to Distill: Knowledge Distillation from Out-of-Domain Data》 （NeurIPS 2021） ](https://arxiv.org/abs/2110.15094)
 |2021.12.2|1. 赵嘉伟   <br>（Continual Learning） |[《Rehearsal Revealed: The Limits and Merits of Revisiting Samples in Continual Learning》 （ICCV 2021） ](https://arxiv.org/abs/2104.07446 )

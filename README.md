@@ -9,8 +9,9 @@ List shared papers in our group
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
-|2021.12.23|1. 冯硕   <br>（Transformer） |[《Anchor DETR: Query Design for Transformer-Based Detector》 （arXiv 2021） ](https://arxiv.org/abs/2109.07107)
-|2021.12.23|2. 刘浩天    <br>（Transformer） |[《SOLQ: Segmenting Objects by Learning Queries》 （NeurlPS 2021） ](https://arxiv.org/abs/2106.02351v3)
+|2021.12.23|1. 刘浩天    <br>（Transformer） |[《SOLQ: Segmenting Objects by Learning Queries》 （NeurlPS 2021） ](https://arxiv.org/abs/2106.02351v3)
+|2021.12.23|2. 冯硕   <br>（Transformer） |[《Anchor DETR: Query Design for Transformer-Based Detector》 （arXiv 2021） ](https://arxiv.org/abs/2109.07107)
+|2021.12.23|3. 冯硕   <br>（Transformer） |[《Conditional DETR for Fast Training Convergence》 （ICCV 2021） ](https://arxiv.org/abs/2108.06152)
 |2021.12.16|1. 李阳   <br>（Transformer） |[《Gaussian Context Transformer》 （CVPR 2021） ](https://openaccess.thecvf.com/content/CVPR2021/papers/Ruan_Gaussian_Context_Transformer_CVPR_2021_paper.pdf )
 |2021.12.16|2. 陈雁    <br>（Semantic Segmentation） |[《Weakly Supervised Semantic Segmentation by Pixel-to-Prototype Contrast》 （arXiv 2021） ](https://arxiv.org/abs/2110.07110)
 |2021.12.9|1. 李胜琦   <br>（Transformer） |[《Demystifying Local Vision Transformer: Sparse Connectivity, Weight Sharing, and Dynamic Weight》 （arXiv 2021） ](https://arxiv.org/abs/2106.04263 )

@@ -9,6 +9,8 @@ List shared papers in our group
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2021.12.30|1. 苑思明    <br>（Semantic Segmentation） |[《Progressive Semantic Segmentation》 （CVPR 2021） ](https://arxiv.org/abs/2104.03778)
+|2021.12.30|2. 曾海龙   <br>（Domain Adaptation） |[《Multi-Source Domain Adaptation with Collaborative Learning for Semantic Segmentation》 （CVPR 2021） ](https://arxiv.org/abs/2103.04717)
 |2021.12.23|1. 刘浩天    <br>（Transformer） |[《SOLQ: Segmenting Objects by Learning Queries》 （NeurlPS 2021） ](https://arxiv.org/abs/2106.02351v3)
 |2021.12.23|2. 冯硕   <br>（Transformer） |[《Anchor DETR: Query Design for Transformer-Based Detector》 （arXiv 2021） ](https://arxiv.org/abs/2109.07107)
 |2021.12.23|3. 冯硕   <br>（Transformer） |[《Conditional DETR for Fast Training Convergence》 （ICCV 2021） ](https://arxiv.org/abs/2108.06152)

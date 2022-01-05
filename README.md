@@ -9,6 +9,8 @@ List shared papers in our group
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2022.1.6|1. 赵杨    <br>（Object Detection） |[《Bootstrap Your Object Detector via Mixed Training》 （NeurlPS 2021） ](https://arxiv.org/abs/2111.03056v1)
+|2022.1.6|2. 耿瑞祥   <br>（Knowledge Distillation） |[《Knowledge Distillation for Object Detection via Rank Mimicking and Prediction-guided Feature Imitation》 （AAAI 2022） ](https://arxiv.org/abs/2112.04840)
 |2021.12.30|1. 苑思明    <br>（Semantic Segmentation） |[《Progressive Semantic Segmentation》 （CVPR 2021） ](https://arxiv.org/abs/2104.03778)
 |2021.12.30|2. 曾海龙   <br>（Domain Adaptation） |[《Multi-Source Domain Adaptation with Collaborative Learning for Semantic Segmentation》 （CVPR 2021） ](https://arxiv.org/abs/2103.04717)
 |2021.12.23|1. 刘浩天    <br>（Transformer） |[《SOLQ: Segmenting Objects by Learning Queries》 （NeurlPS 2021） ](https://arxiv.org/abs/2106.02351v3)

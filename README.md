@@ -9,6 +9,8 @@ List shared papers in our group
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2022.1.13|1. 吕乐乐    <br>（Attention） |[《CoAtNet: Marrying Convolution and Attention for All Data Sizes》 （NeurlPS 2021） ](https://arxiv.org/abs/2106.04803)
+|2022.1.13|2. 王都   <br>（Object Detection） |[《OTA: Optimal Transport Assignment for Object Detection》 （CVPR 2021） ](https://arxiv.org/abs/2103.14259)
 |2022.1.6|1. 赵杨    <br>（Object Detection） |[《Bootstrap Your Object Detector via Mixed Training》 （NeurlPS 2021） ](https://arxiv.org/abs/2111.03056v1)
 |2022.1.6|2. 耿瑞祥   <br>（Knowledge Distillation） |[《Knowledge Distillation for Object Detection via Rank Mimicking and Prediction-guided Feature Imitation》 （AAAI 2022） ](https://arxiv.org/abs/2112.04840)
 |2021.12.30|1. 苑思明    <br>（Semantic Segmentation） |[《Progressive Semantic Segmentation》 （CVPR 2021） ](https://arxiv.org/abs/2104.03778)

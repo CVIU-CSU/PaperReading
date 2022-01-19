@@ -9,6 +9,8 @@ List shared papers in our group
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2022.1.20|1. 赵嘉伟    <br>（Classification） |[《Generalized Category Discovery》 （arXiv 2022） ](https://arxiv.org/abs/2201.02609)
+|2022.1.20|2. 张朝君   <br>（Semantic Segmentation） |[《Embedded Discriminative Attention Mechanism for Weakly Supervised Semantic Segmentation》 （CVPR 2021） ](https://openaccess.thecvf.com/content/CVPR2021/html/Wu_Embedded_Discriminative_Attention_Mechanism_for_Weakly_Supervised_Semantic_Segmentation_CVPR_2021_paper.html)
 |2022.1.13|1. 吕乐乐    <br>（Attention） |[《CoAtNet: Marrying Convolution and Attention for All Data Sizes》 （NeurlPS 2021） ](https://arxiv.org/abs/2106.04803)
 |2022.1.13|2. 王都   <br>（Object Detection） |[《OTA: Optimal Transport Assignment for Object Detection》 （CVPR 2021） ](https://arxiv.org/abs/2103.14259)
 |2022.1.6|1. 赵杨    <br>（Object Detection） |[《Bootstrap Your Object Detector via Mixed Training》 （NeurlPS 2021） ](https://arxiv.org/abs/2111.03056v1)

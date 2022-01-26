@@ -9,6 +9,8 @@ List shared papers in our group
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2022.1.27|1. 张永胜    <br>（Knowledge Distillation） |[《Distilling Knowledge via Knowledge Review》 （CVPR 2021） ](https://arxiv.org/abs/2104.09044)
+|2022.1.27|2. 李胜琦   <br>（Semantic Segmentation） |[《Semi-supervised Semantic Segmentation with Directional Context-aware Consistency》 （CVPR 2021） ](https://arxiv.org/abs/2106.14133)
 |2022.1.20|1. 赵嘉伟    <br>（Classification） |[《Generalized Category Discovery》 （arXiv 2022） ](https://arxiv.org/abs/2201.02609)
 |2022.1.20|2. 张朝君   <br>（Semantic Segmentation） |[《Embedded Discriminative Attention Mechanism for Weakly Supervised Semantic Segmentation》 （CVPR 2021） ](https://openaccess.thecvf.com/content/CVPR2021/html/Wu_Embedded_Discriminative_Attention_Mechanism_for_Weakly_Supervised_Semantic_Segmentation_CVPR_2021_paper.html)
 |2022.1.13|1. 吕乐乐    <br>（Attention） |[《CoAtNet: Marrying Convolution and Attention for All Data Sizes》 （NeurlPS 2021） ](https://arxiv.org/abs/2106.04803)

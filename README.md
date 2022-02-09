@@ -9,6 +9,8 @@ List shared papers in our group
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2022.2.10|1. 曾海龙    <br>（Transformer） |[《Masked-attention Mask Transformer for Universal Image Segmentation》 （arXiv 2021） ](https://arxiv.org/abs/2112.01527)
+|2022.2.10|2. 陈雁   <br>（Semantic Segmentation） |[《Group-Wise Learning for Weakly Supervised Semantic Segmentation》 （TIP） ](https://ieeexplore.ieee.org/document/9652068)
 |2022.1.27|1. 张永胜    <br>（Knowledge Distillation） |[《Distilling Knowledge via Knowledge Review》 （CVPR 2021） ](https://arxiv.org/abs/2104.09044)
 |2022.1.27|2. 李胜琦   <br>（Semantic Segmentation） |[《Semi-supervised Semantic Segmentation with Directional Context-aware Consistency》 （CVPR 2021） ](https://arxiv.org/abs/2106.14133)
 |2022.1.20|1. 赵嘉伟    <br>（Classification） |[《Generalized Category Discovery》 （arXiv 2022） ](https://arxiv.org/abs/2201.02609)

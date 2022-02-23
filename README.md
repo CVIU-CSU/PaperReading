@@ -9,6 +9,8 @@ List shared papers in our group
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2022.2.24|1. 冯硕    <br>（Object Detection） |[《GiraffeDet: A Heavy-Neck Paradigm for Object Detection》 （ICLR 2022） ](https://arxiv.org/abs/2202.04256)
+|2022.2.24|2. 吕乐乐   <br>（Transformer） |[《Combiner: Full Attention Transformer with Sparse Computation Cost》 （NeurIPS 2021） ](http://proceedings.neurips.cc/paper/2021/file/bd4a6d0563e0604510989eb8f9ff71f5-Paper.pdf)
 |2022.2.17|1. 张永胜    <br>（Semantic Segmentation） |[《BOOTSTRAPPING SEMANTIC SEGMENTATION WITH REGIONAL CONTRAST》 （ICLR 2022） ](https://openreview.net/pdf?id=6u6N8WWwYSM)
 |2022.2.17|2. 张朝君   <br>（Instance Segmentation） |[《BoxInst: High-Performance Instance Segmentation with Box Annotations》 （CVPR 2021） ](https://arxiv.org/abs/2012.02310)
 |2022.2.10|1. 曾海龙    <br>（Transformer） |[《Masked-attention Mask Transformer for Universal Image Segmentation》 （arXiv 2021） ](https://arxiv.org/abs/2112.01527)

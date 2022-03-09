@@ -9,6 +9,8 @@ List shared papers in our group
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2022.3.10|1. 曾海龙    <br>（Semantic Segmentation） |[《Learning Semantic Segmentation from Multiple Datasets with Label Shifts》 （arXiv 2022） ](https://arxiv.org/abs/2202.14030)
+|2022.3.10|2. 李胜琦   <br>（semantic segmentation） |[《GuidedMix-Net: Learning to Improve Pseudo Masks Using Labeled Images as Reference》 （AAAI 2022） ](https://arxiv.org/abs/2106.15064)
 |2022.3.3|1. 陈雁    <br>（Semantic Segmentation） |[《Single-Stage Semantic Segmentation from Image Labels》 （CVPR 2020） ](https://arxiv.org/abs/2005.08104)
 |2022.3.3|2. 耿瑞祥   <br>（Knowledge Distillation） |[《Distilling Object Detectors with Feature Richness》 （NeurIPS 2021） ](https://arxiv.org/abs/2111.00674)
 |2022.2.24|1. 冯硕    <br>（Object Detection） |[《GiraffeDet: A Heavy-Neck Paradigm for Object Detection》 （ICLR 2022） ](https://arxiv.org/abs/2202.04256)

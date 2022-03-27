@@ -9,6 +9,8 @@ List shared papers in our group
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2022.3.28|1. 吕乐乐    <br>（Semantic Segmentation） |[《GroupViT: Semantic Segmentation Emerges from Text Supervision》 （arXiv 2022） ](https://arxiv.org/pdf/2202.11094v1.pdf)
+|2022.3.28|2. 陈雁   <br>（Semantic Segmentation） |[《Multi-class Token Transformer for Weakly Supervised Semantic Segmentation》 （CVPR 2022） ](https://arxiv.org/abs/2203.02891)
 |2022.3.17|1. 张永胜    <br>（Semantic Segmentation） |[《UNSUPERVISED SEMANTIC SEGMENTATION BY DISTILLING FEATURE CORRESPONDENCES》 （ICLR 2022） ](https://openreview.net/pdf?id=SaKO6z6Hl0c)
 |2022.3.17|2. 张朝君   <br>（Instance Segmentation） |[《Weakly-supervised Instance Segmentation via Class-agnostic Learning with Salient Images》 （CVPR 2021） ](https://arxiv.org/abs/2104.01526)
 |2022.3.10|1. 曾海龙    <br>（Semantic Segmentation） |[《Learning Semantic Segmentation from Multiple Datasets with Label Shifts》 （arXiv 2022） ](https://arxiv.org/abs/2202.14030)

@@ -9,6 +9,8 @@ List shared papers in our group
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2022.4.4|1. 耿瑞祥    <br>（Knowledge Distillation） |[《Decoupled Knowledge Distillation》 （CVPR 2022） ](https://arxiv.org/abs/2203.08679)
+|2022.4.4|2. 李胜琦   <br>（Contrastive Learning） |[《Crafting Better Contrastive Views for Siamese Representation Learning》 （CVPR 2022） ](https://arxiv.org/abs/2202.03278)
 |2022.3.28|1. 吕乐乐    <br>（Semantic Segmentation） |[《GroupViT: Semantic Segmentation Emerges from Text Supervision》 （arXiv 2022） ](https://arxiv.org/pdf/2202.11094v1.pdf)
 |2022.3.28|2. 陈雁   <br>（Semantic Segmentation） |[《Multi-class Token Transformer for Weakly Supervised Semantic Segmentation》 （CVPR 2022） ](https://arxiv.org/abs/2203.02891)
 |2022.3.17|1. 张永胜    <br>（Semantic Segmentation） |[《UNSUPERVISED SEMANTIC SEGMENTATION BY DISTILLING FEATURE CORRESPONDENCES》 （ICLR 2022） ](https://openreview.net/pdf?id=SaKO6z6Hl0c)

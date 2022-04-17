@@ -9,6 +9,8 @@ List shared papers in our group
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2022.4.18|1. 张永胜    <br>（Semantic Segmentation） |[《Rethinking Semantic Segmentation: A Prototype View》 （CVPR 2022 Oral） ](https://arxiv.org/abs/2203.15102)
+|2022.4.18|2. 吕乐乐   <br>（网络结构） |[《MixFormer: Mixing Features across Windows and Dimensions》 （CVPR 2022 Oral） ](https://arxiv.org/pdf/2204.02557v2.pdf)
 |2022.4.11|1. 曾海龙    <br>（Semantic Segmentation） |[《Semi-Supervised Semantic Segmentation Using Unreliable Pseudo-Labels》 （CVPR 2022） ](https://arxiv.org/abs/2203.03884)
 |2022.4.11|2. 张朝君   <br>（Semantic Segmentation） |[《Self-supervised Image-specific Prototype Exploration for Weakly Supervised Semantic Segmentation》 （CVPR 2022） ](https://arxiv.org/abs/2203.02909)
 |2022.4.4|1. 耿瑞祥    <br>（Knowledge Distillation） |[《Decoupled Knowledge Distillation》 （CVPR 2022） ](https://arxiv.org/abs/2203.08679)

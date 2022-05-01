@@ -9,6 +9,8 @@ List shared papers in our group
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2022.5.2|1. 刘浩天    <br>（Object Detection） |[《AdaMixer: A Fast-Converging Query-Based Object Detector》 （CVPR 2022 Oral） ](https://arxiv.org/abs/2203.16507v2)
+|2022.5.2|2. 郭杰   <br>（Object Detection） |[《Progressive End-to-End Object Detection in Crowded Scenes》 （CVPR 2022） ](https://arxiv.org/abs/2203.07669)
 |2022.4.25|1. 陈雁    <br>（Semantic Segmentation） |[《Context Decoupling Augmentation for Weakly Supervised Semantic Segmentation》 （ICCV 2021） ](https://arxiv.org/abs/2103.01795)
 |2022.4.25|2. 耿瑞祥   <br>（Knowledge Distillation） |[《Self-Distillation from the Last Mini-Batch for Consistency Regularization》 （CVPR 2022） ](https://arxiv.org/abs/2203.16172)
 |2022.4.18|1. 张永胜    <br>（Semantic Segmentation） |[《Rethinking Semantic Segmentation: A Prototype View》 （CVPR 2022 Oral） ](https://arxiv.org/abs/2203.15102)

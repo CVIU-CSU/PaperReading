@@ -9,6 +9,8 @@ List shared papers in our group
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2022.5.16|1. 曾海龙    <br>（Semantic Segmentation） |[《Domain-Agnostic Prior for Transfer Semantic Segmentation》 （CVPR 2022） ](https://arxiv.org/abs/2204.02684)
+|2022.5.16|2. 丁梓原   <br>（Semantic Segmentation） |[《Semantic-Aware Domain Generalized Segmentation》 （CVPR 2022 Oral） ](https://arxiv.org/pdf/2204.00822.pdf)
 |2022.5.9|1. 李胜琦    <br>（Knowledge Distillation） |[《Generalized Knowledge Distillation via Relationship Matching》 （TPAMI） ](https://arxiv.org/abs/2205.01915)
 |2022.5.9|2. 赵嘉伟   <br>（Continual Learning） |[《Re-examining Distillation For Continual Object Detection》 （arXiv 2022） ](https://arxiv.org/abs/2204.01407)
 |2022.5.2|1. 刘浩天    <br>（Object Detection） |[《AdaMixer: A Fast-Converging Query-Based Object Detector》 （CVPR 2022 Oral） ](https://arxiv.org/abs/2203.16507v2)

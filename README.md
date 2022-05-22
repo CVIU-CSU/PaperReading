@@ -9,6 +9,8 @@ List shared papers in our group
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2022.5.23|1. 张永胜    <br>（Self-supervised Learning） |[《DiRA: Discriminative, Restorative, and Adversarial Learning for Self-supervised Medical Image Analysis》 （CVPR 2022） ](https://arxiv.org/abs/2204.10437)
+|2022.5.23|2. 张朝君   <br>（Semantic Segmentation） |[《Background-Aware Pooling and Noise-Aware Loss for Weakly-Supervised Semantic Segmentation》 （CVPR 2021） ](https://arxiv.org/abs/2104.00905)
 |2022.5.16|1. 曾海龙    <br>（Semantic Segmentation） |[《Domain-Agnostic Prior for Transfer Semantic Segmentation》 （CVPR 2022） ](https://arxiv.org/abs/2204.02684)
 |2022.5.16|2. 丁梓原   <br>（Semantic Segmentation） |[《Semantic-Aware Domain Generalized Segmentation》 （CVPR 2022 Oral） ](https://arxiv.org/pdf/2204.00822.pdf)
 |2022.5.9|1. 李胜琦    <br>（Knowledge Distillation） |[《Generalized Knowledge Distillation via Relationship Matching》 （TPAMI） ](https://arxiv.org/abs/2205.01915)

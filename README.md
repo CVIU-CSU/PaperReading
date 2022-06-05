@@ -9,6 +9,8 @@ List shared papers in our group
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2022.6.6|1. 刘宇帆    <br>（Domain Adaptive） |[《Class-Balanced Pixel-Level Self-Labeling for Domain Adaptive Semantic Segmentation》 （CVPR 2022） ](https://arxiv.org/abs/2203.09744)
+|2022.6.6|2. 耿瑞祥   <br>（Knowledge Distillation） |[《Knowledge distillation: A good teacher is patient and consistent》 （CVPR 2022 Oral） ](https://arxiv.org/abs/2106.05237)
 |2022.5.30|1. 范筱峰    <br>（View Synthesis） |[《NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis》 （ECCV 2020） ](https://arxiv.org/pdf/2003.08934.pdf)
 |2022.5.30|2. 吕乐乐   <br>（Contrastive Learning） |[《Dual Temperature Helps Contrastive Learning Without Many Negative Samples: Towards Understanding and Simplifying MoCo》 （CVPR 2022） ](https://arxiv.org/pdf/2203.17248.pdf)
 |2022.5.23|1. 张永胜    <br>（Self-supervised Learning） |[《DiRA: Discriminative, Restorative, and Adversarial Learning for Self-supervised Medical Image Analysis》 （CVPR 2022） ](https://arxiv.org/abs/2204.10437)

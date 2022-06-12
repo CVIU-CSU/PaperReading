@@ -9,6 +9,8 @@ List shared papers in our group
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2022.6.13|1. 李胜琦    <br>（Semantic Segmentation）  |[《Deep Spectral Methods: A Surprisingly Strong Baseline for Unsupervised Semantic Segmentation and Localization》 （CVPR 2022 Oral）](https://arxiv.org/abs/2205.07839)
+|2022.6.13|2. 陈雁    <br>（Semantic Segmentation）  |[《CLIMS: Cross Language Image Matching for Weakly Supervised Semantic Segmentation》 （CVPR2022）](https://openaccess.thecvf.com/content/CVPR2022/supplemental/Xie_CLIMS_Cross_Language_CVPR_2022_supplemental.pdf)
 |2022.6.6|1. 刘宇帆    <br>（Domain Adaptive） |[《Class-Balanced Pixel-Level Self-Labeling for Domain Adaptive Semantic Segmentation》 （CVPR 2022） ](https://arxiv.org/abs/2203.09744)
 |2022.6.6|2. 耿瑞祥   <br>（Knowledge Distillation） |[《Knowledge distillation: A good teacher is patient and consistent》 （CVPR 2022 Oral） ](https://arxiv.org/abs/2106.05237)
 |2022.5.30|1. 范筱峰    <br>（View Synthesis） |[《NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis》 （ECCV 2020） ](https://arxiv.org/pdf/2003.08934.pdf)

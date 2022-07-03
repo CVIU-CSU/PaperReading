@@ -9,9 +9,11 @@ List shared papers in our group
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
-|2022.6.27|1. 李高杰    <br> (Transformer)  |[《DN-DETR: Accelerate DETR Training by Introducing Query DeNoising》 (CVPR 2022 Oral)](https://arxiv.org/pdf/2203.01305v2.pdf)
-|2022.6.27|2. 张朝君    <br> (Weakly Supervised Learning)  |[《Revisiting Weakly Supervised Pre-Training of Visual Perception Models》 （CVPR 2022）](https://openaccess.thecvf.com/content/CVPR2022/papers/Singh_Revisiting_Weakly_Supervised_Pre-Training_of_Visual_Perception_Models_CVPR_2022_paper.pdf)
-|2022.6.20|1. 曾海龙    <br> (Domain Adaptive)  |[《DAFormer: Improving Network Architectures and Training Strategies for Domain-Adaptive Semantic Segmentation》 （CVPR 2022）](http://openaccess.thecvf.com//content/CVPR2022/papers/Hoyer_DAFormer_Improving_Network_Architectures_and_Training_Strategies_for_Domain-Adaptive_Semantic_CVPR_2022_paper.pdf)
+|2022.7.4|1. 吕乐乐    <br> (Semantic Segmentation)  |[《Unsupervised Hierarchical Semantic Segmentation with Multiview Cosegmentation and Clustering Transformers》 （CVPR 2022）](https://arxiv.org/pdf/2204.11432.pdf ) 
+|2022.7.4|2. 郭杰    <br> （Transformer）  |[《DAB-DETR: Dynamic anchor boxes are better queries for DETR》 （ICLR 2022）](https://arxiv.org/pdf/2201.12329.pdf)
+|2022.6.27|1. 李高杰    <br> （Transformer）  |[《DN-DETR: Accelerate DETR Training by Introducing Query DeNoising》 （CVPR 2022 Oral）](https://arxiv.org/pdf/2203.01305v2.pdf)
+|2022.6.27|2. 张朝君    <br> （Weakly Supervised Learning）  |[《Revisiting Weakly Supervised Pre-Training of Visual Perception Models》 （CVPR 2022）](https://openaccess.thecvf.com/content/CVPR2022/papers/Singh_Revisiting_Weakly_Supervised_Pre-Training_of_Visual_Perception_Models_CVPR_2022_paper.pdf)
+|2022.6.20|1. 曾海龙    <br> （Domain Adaptive）  |[《DAFormer: Improving Network Architectures and Training Strategies for Domain-Adaptive Semantic Segmentation》 （CVPR 2022）](http://openaccess.thecvf.com//content/CVPR2022/papers/Hoyer_DAFormer_Improving_Network_Architectures_and_Training_Strategies_for_Domain-Adaptive_Semantic_CVPR_2022_paper.pdf)
 |2022.6.13|1. 李胜琦    <br>（Semantic Segmentation）  |[《Deep Spectral Methods: A Surprisingly Strong Baseline for Unsupervised Semantic Segmentation and Localization》 （CVPR 2022 Oral）](https://arxiv.org/abs/2205.07839)
 |2022.6.13|2. 陈雁    <br>（Semantic Segmentation）  |[《CLIMS: Cross Language Image Matching for Weakly Supervised Semantic Segmentation》 （CVPR 2022）](https://arxiv.org/pdf/2203.02668v2.pdf)
 |2022.6.6|1. 刘宇帆    <br>（Domain Adaptive） |[《Class-Balanced Pixel-Level Self-Labeling for Domain Adaptive Semantic Segmentation》 （CVPR 2022） ](https://arxiv.org/abs/2203.09744)

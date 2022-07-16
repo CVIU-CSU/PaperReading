@@ -9,6 +9,8 @@ List shared papers in our group
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2022.7.18|1. 李胜琦    <br>（Semantic Segmentation）  |[《ReCo: Retrieve and Co-segment for Zero-shot Transfer》 （arXiv 2022）](https://arxiv.org/pdf/2206.07045.pdf)
+|2022.7.18|2. 刘宇帆    <br>（Semantic Segmentation）  |[《Representation Compensation Networks for Continual Semantic Segmentation》 （CVPR 2022）](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_Representation_Compensation_Networks_for_Continual_Semantic_Segmentation_CVPR_2022_paper.pdf)
 |2022.7.11|1. 陈雁    <br>（Semantic Segmentation）  |[《Regional Semantic Contrast and Aggregation for Weakly Supervised Semantic Segmentation》 （CVPR 2022）](https://arxiv.org/pdf/2203.09653v2.pdf)
 |2022.7.11|2. 丁梓原    <br> （Domain Adaptive）  |[《ADAS: A Direct Adaptation Strategy for Multi-Target Domain Adaptive Semantic Segmentation》 （CVPR 2022）](https://arxiv.org/pdf/2203.06811v1.pdf)
 |2022.7.4|1. 吕乐乐    <br> （Semantic Segmentation）  |[《Unsupervised Hierarchical Semantic Segmentation with Multiview Cosegmentation and Clustering Transformers》 （CVPR 2022）](https://arxiv.org/pdf/2204.11432.pdf ) 

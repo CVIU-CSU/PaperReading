@@ -9,6 +9,8 @@ List shared papers in our group
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2022.8.1|1. 曾海龙    <br>  （Transformer）  |[《MetaFormer Is Actually What You Need for Vision》 （CVPR 2022 Oral）](https://arxiv.org/pdf/2111.11418.pdf )
+|2022.8.1|2. 李高杰    <br>  （Transformer）  |[《DINO: DETR with Improved DeNoising Anchor Boxes for End-to-End Object Detection》 （arXiv 2022）](https://arxiv.org/pdf/2203.03605.pdf)
 |2022.7.25|1. 陈雁    <br> （Semantic Segmentation）  |图像级标注弱监督语义分割串讲
 |2022.7.18|1. 李胜琦    <br>（Semantic Segmentation）  |[《ReCo: Retrieve and Co-segment for Zero-shot Transfer》 （arXiv 2022）](https://arxiv.org/pdf/2206.07045.pdf)
 |2022.7.18|2. 刘宇帆    <br>（Semantic Segmentation）  |[《Representation Compensation Networks for Continual Semantic Segmentation》 （CVPR 2022）](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_Representation_Compensation_Networks_for_Continual_Semantic_Segmentation_CVPR_2022_paper.pdf)

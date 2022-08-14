@@ -9,8 +9,10 @@ List shared papers in our group
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2022.8.15|1.  吕乐乐    <br>  （Semantic Segmentation）  |[《Multi-scale and Cross-scale Contrastive Learning for Semantic Segmentation》 （ECCV 2022）](https://arxiv.org/abs/2203.13409v2)
+|2022.8.15|2.  郭杰    <br>  （object detection）  |[《Dense Teacher: Dense Pseudo-Labels for Semi-supervised Object Detection》 （ECCV 2022）](https://arxiv.org/abs/2207.02541)
 |2022.8.8|1. 张朝君    <br>  （Weakly Supervised Learning）  |[《Box-supervised Instance Segmentation with Level Set Evolution》 （ECCV 2022）](https://arxiv.org/abs/2207.09055v1 )
-|2022.8.8|2. 范筱峰    <br>  （object detection）  |[《An end-to-end transformer model for 3d object detection》 （ICCV 2021）](https://openaccess.thecvf.com/content/ICCV2021/papers/Misra_An_End-to-End_Transformer_Model_for_3D_Object_Detection_ICCV_2021_paper.pdf )
+|2022.8.8|2. 范筱峰    <br>  （3D object detection）  |[《An end-to-end transformer model for 3d object detection》 （ICCV 2021）](https://openaccess.thecvf.com/content/ICCV2021/papers/Misra_An_End-to-End_Transformer_Model_for_3D_Object_Detection_ICCV_2021_paper.pdf )
 |2022.8.1|1. 曾海龙    <br>  （Transformer）  |[《MetaFormer Is Actually What You Need for Vision》 （CVPR 2022 Oral）](https://arxiv.org/pdf/2111.11418.pdf )
 |2022.8.1|2. 李高杰    <br>  （Transformer）  |[《DINO: DETR with Improved DeNoising Anchor Boxes for End-to-End Object Detection》 （arXiv 2022）](https://arxiv.org/pdf/2203.03605.pdf)
 |2022.7.25|1. 陈雁    <br> （Semantic Segmentation）  |图像级标注弱监督语义分割串讲

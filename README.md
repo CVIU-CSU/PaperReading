@@ -9,6 +9,8 @@ List shared papers in our group
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2022.8.29|1.  李胜琦    <br>  （Semantic Segmentation）  |[《TransFGU: A Top-down Approach to Fine-Grained Unsupervised Semantic Segmentation》 （ECCV 2022 oral）](https://arxiv.org/abs/2112.01515)
+|2022.8.29|2.  丁梓原    <br>  （Domain Adaptation）  |[《Category Contrast for Unsupervised Domain Adaptation in Visual Tasks》 （CVPR 2022）](https://arxiv.org/abs/2106.02885)
 |2022.8.15|1.  吕乐乐    <br>  （Semantic Segmentation）  |[《Multi-scale and Cross-scale Contrastive Learning for Semantic Segmentation》 （ECCV 2022）](https://arxiv.org/abs/2203.13409v2)
 |2022.8.15|2.  郭杰    <br>  （object detection）  |[《Dense Teacher: Dense Pseudo-Labels for Semi-supervised Object Detection》 （ECCV 2022）](https://arxiv.org/abs/2207.02541)
 |2022.8.8|1. 张朝君    <br>  （Weakly Supervised Learning）  |[《Box-supervised Instance Segmentation with Level Set Evolution》 （ECCV 2022）](https://arxiv.org/abs/2207.09055v1 )

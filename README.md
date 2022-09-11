@@ -9,6 +9,8 @@ List shared papers in our group
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2022.9.14|1. 张朝君    <br>  （Instance Segmentation）  |[《Mask Transfiner for High-Quality Instance Segmentation》 （CVPR 2022）](https://arxiv.org/abs/2111.13673)
+|2022.9.14|2. 刘宇帆    <br>  （Semantic Segmentation）  |[《RBC:Rectifying the Biased Context in Continual Semantic Segmentation》 （ECCV 2022）](https://arxiv.org/abs/2203.08404)
 |2022.9.5|1. 曾海龙    <br>  （Domain Adaptivation）  |[《DecoupleNet: Decoupled Network for Domain Adaptive Semantic Segmentation》（ECCV 2022）](https://arxiv.org/abs/2207.09988)
 |2022.9.5|2. 李高杰    <br>  （Object Detection）  |[《Exploring Plain Vision Transformer Backbones for Object Detection》（ECCV 2022）](https://arxiv.org/abs/2203.16527)
 |2022.8.29|1. 李胜琦    <br>  （Semantic Segmentation）  |[《TransFGU: A Top-down Approach to Fine-Grained Unsupervised Semantic Segmentation》 （ECCV 2022 oral）](https://arxiv.org/abs/2112.01515)

@@ -9,6 +9,8 @@ List shared papers in our group
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2022.10.15|1. 曾海龙    <br>  （Semantic Segmentation）  |[《Learning from Future: A Novel Self-Training Framework for Semantic Segmentation》 （NeurIPS 2022）](https://arxiv.org/abs/2209.06993)
+|2022.10.15|2. 李高杰    <br>  （Object Detection）  |[《Open-Vocabulary DETR with Conditional Matching》 （ECCV 2022）](https://arxiv.org/abs/2203.11876)
 |2022.10.5|1. 李胜琦    <br>  （Semantic Segmentation）  |[《Discovering Object Masks with Transformers for Unsupervised Semantic Segmentation》 （arXiv 2022）](https://arxiv.org/abs/2206.06363)
 |2022.10.5|2. 丁梓原    <br>  （Domain Adaptivation）  |[《HRDA: Context-Aware High-Resolution Domain-Adaptive Semantic Segmentation》 （ECCV 2022）](https://arxiv.org/abs/2204.13132)
 |2022.9.28|1. 吕乐乐    <br>  （Semantic Segmentation）  |[《SegNeXt: Rethinking Convolutional Attention Design for Semantic Segmentation》 （NeurIPS 2022）](https://arxiv.org/abs/2209.08575)

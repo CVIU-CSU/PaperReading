@@ -1,7 +1,7 @@
 # 组内资料分享
 
 - [组内资料分享](#组内资料分享)
-	- [0. Paper-Reading-Group (论文分享)](#Paper-Reading-Group)
+	- [Paper-Reading-Group](#paper-reading-group)
   
 ## Paper-Reading-Group
 
@@ -9,6 +9,9 @@ List shared papers in our group
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2022.10.29|1. 范筱峰     <br>  （3D object detection）  | 3D目标检测 串讲 
+|2022.10.22|1. 张朝君    <br>  （Semantic Segmentation）  |[《Learning Equivariant Segmentation with Instance-Unique Querying》 （NeurIPS 2022）](https://arxiv.org/abs/2210.00911)
+|2022.10.22|2. 刘宇帆     <br>  （Continual Learning）  |[《Continual Learning with Lifelong Vision Transformer》 （CVPR 2022）](https://openaccess.thecvf.com/content/CVPR2022/html/Wang_Continual_Learning_With_Lifelong_Vision_Transformer_CVPR_2022_paper.html )
 |2022.10.15|1. 曾海龙    <br>  （Semantic Segmentation）  |[《Learning from Future: A Novel Self-Training Framework for Semantic Segmentation》 （NeurIPS 2022）](https://arxiv.org/abs/2209.06993)
 |2022.10.15|2. 李高杰    <br>  （Object Detection）  |[《Open-Vocabulary DETR with Conditional Matching》 （ECCV 2022）](https://arxiv.org/abs/2203.11876)
 |2022.10.5|1. 李胜琦    <br>  （Semantic Segmentation）  |[《Discovering Object Masks with Transformers for Unsupervised Semantic Segmentation》 （arXiv 2022）](https://arxiv.org/abs/2206.06363)

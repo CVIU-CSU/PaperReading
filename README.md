@@ -9,7 +9,8 @@ List shared papers in our group
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
-|2022.10.29|1. 范筱峰     <br>  （3D object detection）  | 3D目标检测 串讲 
+|2022.11.5|1. 郭杰    <br>  （Object Detection）  |[《Obj2Seq: Formatting Objects as Sequences with Class Prompt for Visual Tasks》 （NeurIPS 2022）](https://arxiv.org/abs/2209.13948)
+|2022.11.4|1. 范筱峰     <br>  （3D object detection）  | 3D目标检测 串讲 
 |2022.10.22|1. 张朝君    <br>  （Semantic Segmentation）  |[《Learning Equivariant Segmentation with Instance-Unique Querying》 （NeurIPS 2022）](https://arxiv.org/abs/2210.00911)
 |2022.10.22|2. 刘宇帆     <br>  （Continual Learning）  |[《Continual Learning with Lifelong Vision Transformer》 （CVPR 2022）](https://openaccess.thecvf.com/content/CVPR2022/html/Wang_Continual_Learning_With_Lifelong_Vision_Transformer_CVPR_2022_paper.html )
 |2022.10.15|1. 曾海龙    <br>  （Semantic Segmentation）  |[《Learning from Future: A Novel Self-Training Framework for Semantic Segmentation》 （NeurIPS 2022）](https://arxiv.org/abs/2209.06993)

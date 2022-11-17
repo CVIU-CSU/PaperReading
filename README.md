@@ -14,7 +14,7 @@ List shared papers in our group
 |2022.11.12|1. 李胜琦    <br>  （Semantic Segmentation）  |[《NamedMask: Distilling Segmenters from Complementary Foundation Models》 （arXiv 2022）](https://arxiv.org/abs/2209.11228)
 |2022.11.12|2. 李高杰    <br>  （Object Detection）  |[《Group DETR: Fast DETR Training with Group-Wise One-to-Many Assignment》 （arXiv 2022）](https://arxiv.org/abs/2207.13085)
 |2022.11.5|1. 郭杰    <br>  （Object Detection）  |[《Obj2Seq: Formatting Objects as Sequences with Class Prompt for Visual Tasks》 （NeurIPS 2022）](https://arxiv.org/abs/2209.13948)
-|2022.11.4|1. 范筱峰     <br>  （3D object detection）  | 3D目标检测 串讲 
+|2022.11.4|1. 范筱峰     <br>  （3D Object Detection）  | 3D目标检测 串讲 
 |2022.10.22|1. 张朝君    <br>  （Semantic Segmentation）  |[《Learning Equivariant Segmentation with Instance-Unique Querying》 （NeurIPS 2022）](https://arxiv.org/abs/2210.00911)
 |2022.10.22|2. 刘宇帆     <br>  （Continual Learning）  |[《Continual Learning with Lifelong Vision Transformer》 （CVPR 2022）](https://openaccess.thecvf.com/content/CVPR2022/html/Wang_Continual_Learning_With_Lifelong_Vision_Transformer_CVPR_2022_paper.html )
 |2022.10.15|1. 曾海龙    <br>  （Semantic Segmentation）  |[《Learning from Future: A Novel Self-Training Framework for Semantic Segmentation》 （NeurIPS 2022）](https://arxiv.org/abs/2209.06993)
@@ -24,7 +24,7 @@ List shared papers in our group
 |2022.9.28|1. 吕乐乐    <br>  （Semantic Segmentation）  |[《SegNeXt: Rethinking Convolutional Attention Design for Semantic Segmentation》 （NeurIPS 2022）](https://arxiv.org/abs/2209.08575)
 |2022.9.28|2. 郭杰    <br>  （Object Detection）  |[《ObjectBox: From Centers to Boxes for Anchor-Free Object Detection》 （ECCV 2022）](https://arxiv.org/abs/2207.06985 )
 |2022.9.21|1. 陈雁    <br>  （Semantic Segmentation）  |[《L2G: A Simple Local-to-Global Knowledge Transfer Framework for Weakly Supervised Semantic Segmentation》（CVPR 2022）](https://arxiv.org/abs/2204.03206)
-|2022.9.21|2. 范筱峰    <br>  （3D object detection）  |[《MonoDETR: Depth-guided Transformer for Monocular 3D Object Detection》 （CVPR 2022）](https://arxiv.org/abs/2203.13310)
+|2022.9.21|2. 范筱峰    <br>  （3D Object Detection）  |[《MonoDETR: Depth-guided Transformer for Monocular 3D Object Detection》 （CVPR 2022）](https://arxiv.org/abs/2203.13310)
 |2022.9.14|1. 张朝君    <br>  （Instance Segmentation）  |[《Mask Transfiner for High-Quality Instance Segmentation》 （CVPR 2022）](https://arxiv.org/abs/2111.13673)
 |2022.9.14|2. 刘宇帆    <br>  （Semantic Segmentation）  |[《RBC:Rectifying the Biased Context in Continual Semantic Segmentation》 （ECCV 2022）](https://arxiv.org/abs/2203.08404)
 |2022.9.5|1. 曾海龙    <br>  （Domain Adaptivation）  |[《DecoupleNet: Decoupled Network for Domain Adaptive Semantic Segmentation》 （ECCV 2022）](https://arxiv.org/abs/2207.09988)
@@ -34,7 +34,7 @@ List shared papers in our group
 |2022.8.15|1. 吕乐乐    <br>  （Semantic Segmentation）  |[《Multi-scale and Cross-scale Contrastive Learning for Semantic Segmentation》 （ECCV 2022）](https://arxiv.org/abs/2203.13409v2)
 |2022.8.15|2. 郭杰    <br>  （object detection）  |[《Dense Teacher: Dense Pseudo-Labels for Semi-supervised Object Detection》 （ECCV 2022）](https://arxiv.org/abs/2207.02541)
 |2022.8.8|1. 张朝君    <br>  （Weakly Supervised Learning）  |[《Box-supervised Instance Segmentation with Level Set Evolution》 （ECCV 2022）](https://arxiv.org/abs/2207.09055v1 )
-|2022.8.8|2. 范筱峰    <br>  （3D object detection）  |[《An end-to-end transformer model for 3d object detection》 （ICCV 2021）](https://openaccess.thecvf.com/content/ICCV2021/papers/Misra_An_End-to-End_Transformer_Model_for_3D_Object_Detection_ICCV_2021_paper.pdf )
+|2022.8.8|2. 范筱峰    <br>  （3D Object Detection）  |[《An end-to-end transformer model for 3d object detection》 （ICCV 2021）](https://openaccess.thecvf.com/content/ICCV2021/papers/Misra_An_End-to-End_Transformer_Model_for_3D_Object_Detection_ICCV_2021_paper.pdf )
 |2022.8.1|1. 曾海龙    <br>  （Transformer）  |[《MetaFormer Is Actually What You Need for Vision》 （CVPR 2022 Oral）](https://arxiv.org/pdf/2111.11418.pdf )
 |2022.8.1|2. 李高杰    <br>  （Transformer）  |[《DINO: DETR with Improved DeNoising Anchor Boxes for End-to-End Object Detection》 （arXiv 2022）](https://arxiv.org/pdf/2203.03605.pdf)
 |2022.7.25|1. 陈雁    <br> （Semantic Segmentation）  |图像级标注弱监督语义分割串讲

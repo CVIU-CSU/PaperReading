@@ -9,6 +9,8 @@ List shared papers in our group
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2022.11.26|1. 吕乐乐    <br>  （Transformer）  |[《GPViT: A High Resolution Non-Hierarchical Vision Transformer with Group Propagation》 （ICLR 2023审稿中）](https://openreview.net/forum?id=IowKt5rYWsK)
+|2022.11.26|2. 刘宇帆    <br>  （Continual Learning）  |[《Decomposed Knowledge Distillation for Class-Incremental Semantic Segmentation》 （NeurIPS 2022）](https://arxiv.org/abs/2210.05941)
 |2022.11.19|1. 陈雁    <br>  （Semantic Segmentation）  |[《Weakly-Supervised Semantic Segmentation with Visual Words Learning and Hybrid Pooling》 （IJCV 2022）](https://link.springer.com/article/10.1007/s11263-022-01586-9)
 |2022.11.19|2. 丁梓原    <br>  （Domain Adaptation）  |[《Deliberated Domain Bridging for Domain Adaptive Semantic Segmentation》 （NeurIPS 2022）](https://openreview.net/forum?id=ievxJqXwPCm)
 |2022.11.12|1. 李胜琦    <br>  （Semantic Segmentation）  |[《NamedMask: Distilling Segmenters from Complementary Foundation Models》 （arXiv 2022）](https://arxiv.org/abs/2209.11228)

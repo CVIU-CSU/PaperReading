@@ -9,7 +9,7 @@ List shared papers in our group
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
-|2022.12.10|1. 耿瑞祥   <br>  （Domain Adaptivation）  |[《Grounding Visual Representations with Texts for Domain Generalization》 （ECCV 2022）](https://arxiv.org/abs/2207.10285v2)
+|2022.12.10|1. 耿瑞祥   <br>  （Domain Adaptation）  |[《Grounding Visual Representations with Texts for Domain Generalization》 （ECCV 2022）](https://arxiv.org/abs/2207.10285v2)
 |2022.12.10|2. 郭杰    <br>  （Object Detection）  |[《DETRs with Hybrid Matching》 （arXiv 2022）](https://arxiv.org/abs/2207.13080)
 |2022.12.3|1. 曾海龙    <br>  （Semantic Segmentation）  |[《Semi-supervised Semantic Segmentation with Prototype-based Consistency Regularization》 （NeurIPS 2022）](https://arxiv.org/abs/2210.04388)
 |2022.12.3|2. 范筱峰    <br>  （6D Pose Estimation）  |[《PoET: Pose Estimation Transformer for Single-View, Multi-Object 6D Pose Estimation》 （CoRL 2022）](https://arxiv.org/abs/2211.14125)
@@ -26,14 +26,14 @@ List shared papers in our group
 |2022.10.15|1. 曾海龙    <br>  （Semantic Segmentation）  |[《Learning from Future: A Novel Self-Training Framework for Semantic Segmentation》 （NeurIPS 2022）](https://arxiv.org/abs/2209.06993)
 |2022.10.15|2. 李高杰    <br>  （Object Detection）  |[《Open-Vocabulary DETR with Conditional Matching》 （ECCV 2022）](https://arxiv.org/abs/2203.11876)
 |2022.10.5|1. 李胜琦    <br>  （Semantic Segmentation）  |[《Discovering Object Masks with Transformers for Unsupervised Semantic Segmentation》 （arXiv 2022）](https://arxiv.org/abs/2206.06363)
-|2022.10.5|2. 丁梓原    <br>  （Domain Adaptivation）  |[《HRDA: Context-Aware High-Resolution Domain-Adaptive Semantic Segmentation》 （ECCV 2022）](https://arxiv.org/abs/2204.13132)
+|2022.10.5|2. 丁梓原    <br>  （Domain Adaptation）  |[《HRDA: Context-Aware High-Resolution Domain-Adaptive Semantic Segmentation》 （ECCV 2022）](https://arxiv.org/abs/2204.13132)
 |2022.9.28|1. 吕乐乐    <br>  （Semantic Segmentation）  |[《SegNeXt: Rethinking Convolutional Attention Design for Semantic Segmentation》 （NeurIPS 2022）](https://arxiv.org/abs/2209.08575)
 |2022.9.28|2. 郭杰    <br>  （Object Detection）  |[《ObjectBox: From Centers to Boxes for Anchor-Free Object Detection》 （ECCV 2022）](https://arxiv.org/abs/2207.06985 )
 |2022.9.21|1. 陈雁    <br>  （Semantic Segmentation）  |[《L2G: A Simple Local-to-Global Knowledge Transfer Framework for Weakly Supervised Semantic Segmentation》（CVPR 2022）](https://arxiv.org/abs/2204.03206)
 |2022.9.21|2. 范筱峰    <br>  （3D Object Detection）  |[《MonoDETR: Depth-guided Transformer for Monocular 3D Object Detection》 （CVPR 2022）](https://arxiv.org/abs/2203.13310)
 |2022.9.14|1. 张朝君    <br>  （Instance Segmentation）  |[《Mask Transfiner for High-Quality Instance Segmentation》 （CVPR 2022）](https://arxiv.org/abs/2111.13673)
 |2022.9.14|2. 刘宇帆    <br>  （Semantic Segmentation）  |[《RBC:Rectifying the Biased Context in Continual Semantic Segmentation》 （ECCV 2022）](https://arxiv.org/abs/2203.08404)
-|2022.9.5|1. 曾海龙    <br>  （Domain Adaptivation）  |[《DecoupleNet: Decoupled Network for Domain Adaptive Semantic Segmentation》 （ECCV 2022）](https://arxiv.org/abs/2207.09988)
+|2022.9.5|1. 曾海龙    <br>  （Domain Adaptation）  |[《DecoupleNet: Decoupled Network for Domain Adaptive Semantic Segmentation》 （ECCV 2022）](https://arxiv.org/abs/2207.09988)
 |2022.9.5|2. 李高杰    <br>  （Object Detection）  |[《Exploring Plain Vision Transformer Backbones for Object Detection》 （ECCV 2022）](https://arxiv.org/abs/2203.16527)
 |2022.8.29|1. 李胜琦    <br>  （Semantic Segmentation）  |[《TransFGU: A Top-down Approach to Fine-Grained Unsupervised Semantic Segmentation》 （ECCV 2022 oral）](https://arxiv.org/abs/2112.01515)
 |2022.8.29|2. 丁梓原    <br>  （Domain Adaptation）  |[《Category Contrast for Unsupervised Domain Adaptation in Visual Tasks》 （CVPR 2022）](https://arxiv.org/abs/2106.02885)

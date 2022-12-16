@@ -9,7 +9,9 @@ List shared papers in our group
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
-|2022.12.10|1. 耿瑞祥   <br>  （Domain Generalization）  |[《Grounding Visual Representations with Texts for Domain Generalization》 （ECCV 2022）](https://arxiv.org/abs/2207.10285v2)
+|2022.12.17|1. 张永胜    <br>  （网络结构）  |[《On the Integration of Self-Attention and Convolution》 （CVPR 2022）](https://openaccess.thecvf.com/content/CVPR2022/html/Pan_On_the_Integration_of_Self-Attention_and_Convolution_CVPR_2022_paper.html)
+|2022.12.17|2. 丁梓原    <br>  （Domain Adaptation）  |[《MIC: Masked Image Consistency for Context-Enhanced Domain Adaptation》 （arXiv 2022）](https://arxiv.org/abs/2212.01322)
+|2022.12.10|1. 耿瑞祥    <br>  （Domain Generalization）  |[《Grounding Visual Representations with Texts for Domain Generalization》 （ECCV 2022）](https://arxiv.org/abs/2207.10285v2)
 |2022.12.10|2. 郭杰    <br>  （Object Detection）  |[《DETRs with Hybrid Matching》 （arXiv 2022）](https://arxiv.org/abs/2207.13080)
 |2022.12.3|1. 曾海龙    <br>  （Semantic Segmentation）  |[《Semi-supervised Semantic Segmentation with Prototype-based Consistency Regularization》 （NeurIPS 2022）](https://arxiv.org/abs/2210.04388)
 |2022.12.3|2. 范筱峰    <br>  （6D Pose Estimation）  |[《PoET: Pose Estimation Transformer for Single-View, Multi-Object 6D Pose Estimation》 （CoRL 2022）](https://arxiv.org/abs/2211.14125)

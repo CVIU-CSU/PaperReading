@@ -9,8 +9,7 @@ List shared papers in our group
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
-|2022.12.31|1. 李高杰    <br>  （Object Detection）  |[《Towards Efficient Use of Multi-Scale Features in Transformer-Based 
-Object Detectors》 （arXiv 2022）](https://arxiv.org/abs/2208.11356)
+|2022.12.31|1. 李高杰    <br>  （Object Detection）  |[《Towards Efficient Use of Multi-Scale Features in Transformer-Based Object Detectors》 （arXiv 2022）](https://arxiv.org/abs/2208.11356)
 |2022.12.31|2. 刘宇帆    <br>  （Semi-supervised Learning）  |[《Deep semi-supervised multiple instance learning with self-correction for DME classification from OCT images》 （Medical Image Analysis 2023）](https://www.sciencedirect.com/science/article/abs/pii/S1361841522003012)
 |2022.12.17|1. 张永胜    <br>  （网络结构）  |[《On the Integration of Self-Attention and Convolution》 （CVPR 2022）](https://openaccess.thecvf.com/content/CVPR2022/html/Pan_On_the_Integration_of_Self-Attention_and_Convolution_CVPR_2022_paper.html)
 |2022.12.17|2. 丁梓原    <br>  （Domain Adaptation）  |[《MIC: Masked Image Consistency for Context-Enhanced Domain Adaptation》 （arXiv 2022）](https://arxiv.org/abs/2212.01322)

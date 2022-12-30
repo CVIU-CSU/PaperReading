@@ -9,6 +9,9 @@ List shared papers in our group
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2022.12.31|1. 李高杰    <br>  （Object Detection）  |[《Towards Efficient Use of Multi-Scale Features in Transformer-Based 
+Object Detectors》 （arXiv 2022）](https://arxiv.org/abs/2208.11356)
+|2022.12.31|2. 刘宇帆    <br>  （Semi-supervised Learning）  |[《Deep semi-supervised multiple instance learning with self-correction for DME classification from OCT images》 （Medical Image Analysis 2023）](https://www.sciencedirect.com/science/article/abs/pii/S1361841522003012)
 |2022.12.17|1. 张永胜    <br>  （网络结构）  |[《On the Integration of Self-Attention and Convolution》 （CVPR 2022）](https://openaccess.thecvf.com/content/CVPR2022/html/Pan_On_the_Integration_of_Self-Attention_and_Convolution_CVPR_2022_paper.html)
 |2022.12.17|2. 丁梓原    <br>  （Domain Adaptation）  |[《MIC: Masked Image Consistency for Context-Enhanced Domain Adaptation》 （arXiv 2022）](https://arxiv.org/abs/2212.01322)
 |2022.12.10|1. 耿瑞祥    <br>  （Domain Generalization）  |[《Grounding Visual Representations with Texts for Domain Generalization》 （ECCV 2022）](https://arxiv.org/abs/2207.10285v2)
@@ -40,7 +43,7 @@ List shared papers in our group
 |2022.8.29|1. 李胜琦    <br>  （Semantic Segmentation）  |[《TransFGU: A Top-down Approach to Fine-Grained Unsupervised Semantic Segmentation》 （ECCV 2022 oral）](https://arxiv.org/abs/2112.01515)
 |2022.8.29|2. 丁梓原    <br>  （Domain Adaptation）  |[《Category Contrast for Unsupervised Domain Adaptation in Visual Tasks》 （CVPR 2022）](https://arxiv.org/abs/2106.02885)
 |2022.8.15|1. 吕乐乐    <br>  （Semantic Segmentation）  |[《Multi-scale and Cross-scale Contrastive Learning for Semantic Segmentation》 （ECCV 2022）](https://arxiv.org/abs/2203.13409v2)
-|2022.8.15|2. 郭杰    <br>  （object detection）  |[《Dense Teacher: Dense Pseudo-Labels for Semi-supervised Object Detection》 （ECCV 2022）](https://arxiv.org/abs/2207.02541)
+|2022.8.15|2. 郭杰    <br>  （Object Detection）  |[《Dense Teacher: Dense Pseudo-Labels for Semi-supervised Object Detection》 （ECCV 2022）](https://arxiv.org/abs/2207.02541)
 |2022.8.8|1. 张朝君    <br>  （Weakly Supervised Learning）  |[《Box-supervised Instance Segmentation with Level Set Evolution》 （ECCV 2022）](https://arxiv.org/abs/2207.09055v1 )
 |2022.8.8|2. 范筱峰    <br>  （3D Object Detection）  |[《An end-to-end transformer model for 3d object detection》 （ICCV 2021）](https://openaccess.thecvf.com/content/ICCV2021/papers/Misra_An_End-to-End_Transformer_Model_for_3D_Object_Detection_ICCV_2021_paper.pdf )
 |2022.8.1|1. 曾海龙    <br>  （Transformer）  |[《MetaFormer Is Actually What You Need for Vision》 （CVPR 2022 Oral）](https://arxiv.org/pdf/2111.11418.pdf )

@@ -9,6 +9,8 @@ List shared papers in our group
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2023.1.14|1. 吕乐乐    <br>  （Semantic Segmentation）  |[《Head-Free Lightweight Semantic Segmentation with Linear Transformer》 （AAAI 2023）](https://arxiv.org/abs/2301.04648)
+|2023.1.14|2. 李胜琦    <br>  （Semantic Segmentation）  |[《Self-Supervised Visual Representation Learning with Semantic Grouping》 （NeurIPS 2022）](https://arxiv.org/abs/2205.15288)
 |2023.1.7|1. 张朝君    <br>  （Instance Segmentation）  |[《AsyInst: Asymmetric Affinity with DepthGrad and Color for Box-Supervised Instance Segmentation》 （arXiv 2022）](https://arxiv.org/abs/2212.03517)
 |2023.1.7|2. 陈雁    <br>  （Semantic Segmentation）  |[《Expansion and Shrinkage of Localization for Weakly-Supervised Semantic Segmentation》 （NeurIPS 2022）](https://arxiv.org/abs/2209.07761)
 |2022.12.31|1. 李高杰    <br>  （Object Detection）  |[《Towards Efficient Use of Multi-Scale Features in Transformer-Based Object Detectors》 （arXiv 2022）](https://arxiv.org/abs/2208.11356)

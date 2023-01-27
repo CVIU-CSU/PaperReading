@@ -9,6 +9,7 @@ List shared papers in our group
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2023.1.28|1. 范筱峰    <br>  （6D Pose Estimation）  |[《CRT-6D: Fast 6D Object Pose Estimation with Cascaded Refinement Transformers》 （WACV 2023）](https://openaccess.thecvf.com/content/WACV2023/html/Castro_CRT-6D_Fast_6D_Object_Pose_Estimation_With_Cascaded_Refinement_Transformers_WACV_2023_paper.html)
 |2023.1.14|1. 吕乐乐    <br>  （Semantic Segmentation）  |[《Head-Free Lightweight Semantic Segmentation with Linear Transformer》 （AAAI 2023）](https://arxiv.org/abs/2301.04648)
 |2023.1.14|2. 李胜琦    <br>  （Semantic Segmentation）  |[《Self-Supervised Visual Representation Learning with Semantic Grouping》 （NeurIPS 2022）](https://arxiv.org/abs/2205.15288)
 |2023.1.7|1. 张朝君    <br>  （Instance Segmentation）  |[《AsyInst: Asymmetric Affinity with DepthGrad and Color for Box-Supervised Instance Segmentation》 （arXiv 2022）](https://arxiv.org/abs/2212.03517)

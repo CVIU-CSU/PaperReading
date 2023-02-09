@@ -9,6 +9,8 @@ List shared papers in our group
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2023.2.11|1. 张朝君    <br>  （Transformer）  |[《Mask DINO: Towards A Unified Transformer-based Framework for Object Detection and Segmentation》 （arXiv 2022）](https://arxiv.org/abs/2206.02777)
+|2023.2.11|2. 丁梓原    <br>  （Domain Adaptation）  |[《MADAv2: Advanced Multi-Anchor Based Active Domain Adaptation Segmentation》 （arXiv 2023）](https://arxiv.org/abs/2301.07354)
 |2023.2.4|1. 曾海龙    <br>  （Semi-supervised Learning）  |[《Augmentation Matters: A Simple-yet-Effective Approach to Semi-supervised Semantic Segmentation》 （arXiv 2022）](https://arxiv.org/abs/2212.04976)
 |2023.2.4|2. 郭杰    <br>  （Object Detection）  |[《DESTR: Object Detection with Split Transformer》 （CVPR2022）](https://openaccess.thecvf.com/content/CVPR2022/html/He_DESTR_Object_Detection_With_Split_Transformer_CVPR_2022_paper.html)
 |2023.1.28|1. 范筱峰    <br>  （6D Pose Estimation）  |[《CRT-6D: Fast 6D Object Pose Estimation with Cascaded Refinement Transformers》 （WACV 2023）](https://openaccess.thecvf.com/content/WACV2023/html/Castro_CRT-6D_Fast_6D_Object_Pose_Estimation_With_Cascaded_Refinement_Transformers_WACV_2023_paper.html)

@@ -9,6 +9,8 @@ List shared papers in our group
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2023.2.18|1. 吕乐乐    <br>  （Visual Recognition）  |[《Visual Recognition with Deep Nearest Centroids 》 （ICLR 2023）](https://openreview.net/forum?id=CsKwavjr7A)
+|2023.2.18|2. 李高杰    <br>  （Transformer）  |[《Vision Transformer Adapter for Dense Predictions》 （ICLR 2023）](https://openreview.net/forum?id=plKu2GByCNW)
 |2023.2.11|1. 张朝君    <br>  （Transformer）  |[《Mask DINO: Towards A Unified Transformer-based Framework for Object Detection and Segmentation》 （arXiv 2022）](https://arxiv.org/abs/2206.02777)
 |2023.2.11|2. 丁梓原    <br>  （Domain Adaptation）  |[《MADAv2: Advanced Multi-Anchor Based Active Domain Adaptation Segmentation》 （arXiv 2023）](https://arxiv.org/abs/2301.07354)
 |2023.2.4|1. 曾海龙    <br>  （Semi-supervised Learning）  |[《Augmentation Matters: A Simple-yet-Effective Approach to Semi-supervised Semantic Segmentation》 （arXiv 2022）](https://arxiv.org/abs/2212.04976)

@@ -9,6 +9,8 @@ List shared papers in our group
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2023.2.27|1. 李胜琦    <br>  （Semantic Segmentation）  |[《Semantic Segmentation via Pixel-to-Center Similarity Calculation》 （arXiv 2023）](https://arxiv.org/abs/2301.04870)
+|2023.2.27|2. 陈雁    <br>  （Semantic Segmentation）  |[《CLIP is Also an Efficient Segmenter: A Text-Driven Approach for Weakly Supervised Semantic Segmentation》 （arXiv 2023）](https://arxiv.org/abs/2212.09506)
 |2023.2.18|1. 吕乐乐    <br>  （Visual Recognition）  |[《Visual Recognition with Deep Nearest Centroids 》 （ICLR 2023）](https://openreview.net/forum?id=CsKwavjr7A)
 |2023.2.18|2. 李高杰    <br>  （Transformer）  |[《Vision Transformer Adapter for Dense Predictions》 （ICLR 2023）](https://openreview.net/forum?id=plKu2GByCNW)
 |2023.2.11|1. 张朝君    <br>  （Transformer）  |[《Mask DINO: Towards A Unified Transformer-based Framework for Object Detection and Segmentation》 （arXiv 2022）](https://arxiv.org/abs/2206.02777)

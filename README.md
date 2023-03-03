@@ -9,6 +9,8 @@ List shared papers in our group
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2023.3.6|1. 刘宇帆    <br>  （Medical Image Segmentation）  |[《3D UX-Net: A Large Kernel Volumetric ConvNet Modernizing Hierarchical Transformer for Medical Image Segmentation》 （ILCR 2023）](https://openreview.net/forum?id=wsZsjOSytRA)
+|2023.3.6|2. 范晓峰    <br>  （6D Pose Estimation）  |[《OnePose: One-Shot Object Pose Estimation Without CAD Models》 （CVPR 2022）](https://openaccess.thecvf.com/content/CVPR2022/html/Sun_OnePose_One-Shot_Object_Pose_Estimation_Without_CAD_Models_CVPR_2022_paper.html)
 |2023.2.27|1. 李胜琦    <br>  （Semantic Segmentation）  |[《Semantic Segmentation via Pixel-to-Center Similarity Calculation》 （arXiv 2023）](https://arxiv.org/abs/2301.04870)
 |2023.2.27|2. 陈雁    <br>  （Weakly-supervised Learning）  |[《CLIP is Also an Efficient Segmenter: A Text-Driven Approach for Weakly Supervised Semantic Segmentation》 （arXiv 2023）](https://arxiv.org/abs/2212.09506)
 |2023.2.18|1. 吕乐乐    <br>  （Visual Recognition）  |[《Visual Recognition with Deep Nearest Centroids 》 （ICLR 2023）](https://openreview.net/forum?id=CsKwavjr7A)

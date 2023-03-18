@@ -9,6 +9,8 @@ List shared papers in our group
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2023.3.20|1. 张朝君    <br>  （Instance Segmentation）  |[《SIM: Semantic-aware Instance Mask Generation for Box-Supervised Instance Segmentation》 （CVPR 2023）](https://arxiv.org/abs/2303.08578)
+|2023.3.20|2. 丁梓原    <br>  （Domain Adaptation）  |[《Focus on Your Target: A Dual Teacher-Student Framework for Domain-adaptive Semantic Segmentation》 （arXiv 2023）](https://arxiv.org/abs/2303.09083)
 |2023.3.13|1. 曾海龙    <br>  （Semantic Segmentation）  |[《DejaVu: Conditional Regenerative Learning to Enhance Dense Prediction》 （CVPR 2023）](https://arxiv.org/abs/2303.01573)
 |2023.3.13|2. 郭杰    <br>  （Transformer）  |[《Focal Modulation Networks》 （NeurIPS 2022）](https://arxiv.org/abs/2203.11926)
 |2023.3.6|1. 刘宇帆    <br>  （Medical Image Segmentation）  |[《3D UX-Net: A Large Kernel Volumetric ConvNet Modernizing Hierarchical Transformer for Medical Image Segmentation》 （ILCR 2023）](https://openreview.net/forum?id=wsZsjOSytRA)

@@ -9,6 +9,8 @@ List shared papers in our group
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2023.3.27|1. 陈雁    <br>  （Weakly-supervised Learning）  |[《Token Contrast for Weakly-Supervised Semantic Segmentation》 （CVPR 2023）](https://arxiv.org/abs/2303.01267)
+|2023.3.27|2. 李高杰  <br>  （Transformer）  |[《BiFormer: Vision Transformer with Bi-Level Routing Attention》 （CVPR 2023）](https://arxiv.org/abs/2303.08810)
 |2023.3.20|1. 张朝君    <br>  （Instance Segmentation）  |[《SIM: Semantic-aware Instance Mask Generation for Box-Supervised Instance Segmentation》 （CVPR 2023）](https://arxiv.org/abs/2303.08578)
 |2023.3.20|2. 丁梓原    <br>  （Domain Adaptation）  |[《Focus on Your Target: A Dual Teacher-Student Framework for Domain-adaptive Semantic Segmentation》 （arXiv 2023）](https://arxiv.org/abs/2303.09083)
 |2023.3.13|1. 曾海龙    <br>  （Semantic Segmentation）  |[《DejaVu: Conditional Regenerative Learning to Enhance Dense Prediction》 （CVPR 2023）](https://arxiv.org/abs/2303.01573)

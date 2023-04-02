@@ -9,6 +9,8 @@ List shared papers in our group
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2023.4.3|1. 吕乐乐    <br>  （Instance Segmentation）  |[《FastInst: A Simple Query-Based Model for Real-Time Instance Segmentation》 （CVPR 2023）](https://arxiv.org/abs/2303.08594)
+|2023.4.3|2. 刘宇帆  <br>  （Incremental learning）  |[《Foundation Model Drives Weakly Incremental Learning for Semantic Segmentation》 （CVPR 2023）](https://arxiv.org/abs/2302.14250)
 |2023.3.27|1. 陈雁    <br>  （Weakly-supervised Learning）  |[《Token Contrast for Weakly-Supervised Semantic Segmentation》 （CVPR 2023）](https://arxiv.org/abs/2303.01267)
 |2023.3.27|2. 李高杰  <br>  （Transformer）  |[《BiFormer: Vision Transformer with Bi-Level Routing Attention》 （CVPR 2023）](https://arxiv.org/abs/2303.08810)
 |2023.3.20|1. 张朝君    <br>  （Instance Segmentation）  |[《SIM: Semantic-aware Instance Mask Generation for Box-Supervised Instance Segmentation》 （CVPR 2023）](https://arxiv.org/abs/2303.08578)

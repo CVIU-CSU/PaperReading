@@ -9,6 +9,8 @@ List shared papers in our group
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2023.4.10|1. 刘浩天    <br>  （Segmentation）  |[《Segment Anything》 （arXiv 2023）](https://arxiv.org/abs/2304.02643v1)
+|2023.4.10|2. 范晓峰    <br>  （6D Object Pose Estimation）  |[《Self-Supervised Geometric Correspondence for Category-Level 6D Object Pose Estimation in the Wild》 （arXiv 2022）](https://arxiv.org/abs/2210.07199)
 |2023.4.3|1. 吕乐乐    <br>  （Instance Segmentation）  |[《FastInst: A Simple Query-Based Model for Real-Time Instance Segmentation》 （CVPR 2023）](https://arxiv.org/abs/2303.08594)
 |2023.4.3|2. 刘宇帆  <br>  （Incremental learning）  |[《Foundation Model Drives Weakly Incremental Learning for Semantic Segmentation》 （CVPR 2023）](https://arxiv.org/abs/2302.14250)
 |2023.3.27|1. 陈雁    <br>  （Weakly-supervised Learning）  |[《Token Contrast for Weakly-Supervised Semantic Segmentation》 （CVPR 2023）](https://arxiv.org/abs/2303.01267)

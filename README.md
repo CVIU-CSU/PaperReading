@@ -9,6 +9,8 @@ List shared papers in our group
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2023.4.24|1. 李胜琦    <br>  （Semantic Segmentation）  |[《Leveraging Hidden Positives for Unsupervised Semantic Segmentation》 （CVPR 2023）](https://arxiv.org/abs/2303.15014v1)
+|2023.4.24|2. 丁梓原    <br>  （Semantic Segmentation）  |[《Exploring Sparse Visual Prompt for Cross-domain Semantic Segmentation》 （arXiv 2023）](https://arxiv.org/abs/2303.09792)
 |2023.4.17|1. 张朝君    <br>  （Instance Segmentation）  |[《BoxSnake: Polygonal Instance Segmentation with Box Supervision》（arXiv 2023）](https://arxiv.org/abs/2303.11630)
 |2023.4.17|2. 郭杰    <br>  （Object Detection）  |[《Lite DETR : An Interleaved Multi-Scale Encoder for Efficient DETR》 （CVPR 2023）](https://arxiv.org/abs/2303.07335)
 |2023.4.10|1. 刘浩天    <br>  （Segmentation）  |[《Segment Anything》 （arXiv 2023）](https://arxiv.org/abs/2304.02643v1)

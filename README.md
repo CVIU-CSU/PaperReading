@@ -9,6 +9,8 @@ List shared papers in our group
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2023.5.4|1. 曾海龙    <br>  （Semantic Segmentation）  |[《MP-Former: Mask-Piloted Transformer for Image Segmentation》 （CVPR 2023）](https://arxiv.org/abs/2303.07336)
+|2023.5.4|2. 李高杰    <br>  （Open-Set Object Detection）  |[《Grounding DINO: Marrying DINO with Grounded Pre-Training for Open-Set Object Detection》 （arXiv 2023）](https://arxiv.org/abs/2303.05499)
 |2023.4.24|1. 李胜琦    <br>  （Semantic Segmentation）  |[《Leveraging Hidden Positives for Unsupervised Semantic Segmentation》 （CVPR 2023）](https://arxiv.org/abs/2303.15014v1)
 |2023.4.24|2. 丁梓原    <br>  （Semantic Segmentation）  |[《Exploring Sparse Visual Prompt for Cross-domain Semantic Segmentation》 （arXiv 2023）](https://arxiv.org/abs/2303.09792)
 |2023.4.17|1. 张朝君    <br>  （Instance Segmentation）  |[《BoxSnake: Polygonal Instance Segmentation with Box Supervision》（arXiv 2023）](https://arxiv.org/abs/2303.11630)

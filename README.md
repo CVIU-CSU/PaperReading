@@ -9,8 +9,8 @@ List shared papers in our group
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
-|2023.5.15|1. 吕乐乐    <br>  （Segmentation）  [《AutoFocusFormer: Image Segmentation off the Grid》（CVPR 2023）](https://arxiv.org/abs/2304.12406)
-|2023.5.15|2. 范晓峰    <br>  (3D Reconstruction)  [《Anything-3D: Towards Single-view Anything Reconstruction in the Wild》（arXiv 2023）](https://arxiv.org/abs/2304.10261)
+|2023.5.15|1. 吕乐乐    <br>  （Segmentation）  |[《AutoFocusFormer: Image Segmentation off the Grid》（CVPR 2023）](https://arxiv.org/abs/2304.12406)
+|2023.5.15|2. 范晓峰    <br>  (3D Reconstruction)  |[《Anything-3D: Towards Single-view Anything Reconstruction in the Wild》（arXiv 2023）](https://arxiv.org/abs/2304.10261)
 |2023.5.8|1. 陈雁    <br>  （Weakly-supervised Learning）  |[《WeakTr: Exploring Plain Vision Transformer for Weakly-supervised Semantic Segmentation》 （arXiv 2023）](https://arxiv.org/abs/2304.01184)
 |2023.5.8|2. 刘宇帆    <br>  （Continual Learning）  |[《CoMFormer: Continual Learning in Semantic and Panoptic Segmentation》 （CVPR 2023）](https://arxiv.org/abs/2211.13999)
 |2023.5.4|1. 曾海龙    <br>  （Semantic Segmentation）  |[《MP-Former: Mask-Piloted Transformer for Image Segmentation》 （CVPR 2023）](https://arxiv.org/abs/2303.07336)

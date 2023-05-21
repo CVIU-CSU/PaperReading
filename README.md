@@ -9,6 +9,8 @@ List shared papers in our group
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2023.5.22|1. 李胜琦    <br>  （Semantic Segmentation）  |[《Side Adapter Network for Open-Vocabulary Semantic Segmentation》 （CVPR 2023）](https://arxiv.org/abs/2302.12242)
+|2023.5.22|2. 李高杰    <br>  （Object Detection）  |[《DETRs Beat YOLOs on Real-time Object Detection》 （arXiv 2023）](https://arxiv.org/abs/2304.08069)
 |2023.5.15|1. 吕乐乐    <br>  （Segmentation）  |[《AutoFocusFormer: Image Segmentation off the Grid》（CVPR 2023）](https://arxiv.org/abs/2304.12406)
 |2023.5.15|2. 范晓峰    <br>  (3D Reconstruction)  |[《Anything-3D: Towards Single-view Anything Reconstruction in the Wild》（arXiv 2023）](https://arxiv.org/abs/2304.10261)
 |2023.5.8|1. 陈雁    <br>  （Weakly-supervised Learning）  |[《WeakTr: Exploring Plain Vision Transformer for Weakly-supervised Semantic Segmentation》 （arXiv 2023）](https://arxiv.org/abs/2304.01184)

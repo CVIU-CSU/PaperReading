@@ -9,8 +9,10 @@ List shared papers in our group
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
-|2023.5.28|1.  梁毅雄    <br>  （视觉大模型）  |[Visual Foundation Models & Parameter-Efficient Learning]
-|2023.5.28|2.  张朝君    <br>  （Instance Segmentation）  |[《Vision Transformers Are Good Mask Auto-Labelers》 （CVPR 2023）](https://arxiv.org/abs/2301.03992)
+|2023.6.5|1. 丁梓原    <br>  （Domain Adaptation）  |[《Pulling Target to Source: A New Perspective on Domain Adaptive Semantic Segmentation》 （arXiv 2023）](https://arxiv.org/abs/2305.13752)
+|2023.6.5|2. 郭杰    <br>  （Object Detection）  |[《Task-Specific Context Decoupling for Object Detection》 （arXiv 2023）](https://arxiv.org/abs/2303.01047)
+|2023.5.28|1. 梁毅雄    <br>  （视觉大模型）  |[Visual Foundation Models & Parameter-Efficient Learning]
+|2023.5.28|2. 张朝君    <br>  （Instance Segmentation）  |[《Vision Transformers Are Good Mask Auto-Labelers》 （CVPR 2023）](https://arxiv.org/abs/2301.03992)
 |2023.5.22|1. 李胜琦    <br>  （Semantic Segmentation）  |[《Side Adapter Network for Open-Vocabulary Semantic Segmentation》 （CVPR 2023）](https://arxiv.org/abs/2302.12242)
 |2023.5.22|2. 李高杰    <br>  （Object Detection）  |[《DETRs Beat YOLOs on Real-time Object Detection》 （arXiv 2023）](https://arxiv.org/abs/2304.08069)
 |2023.5.15|1. 吕乐乐    <br>  （Segmentation）  |[《AutoFocusFormer: Image Segmentation off the Grid》（CVPR 2023）](https://arxiv.org/abs/2304.12406)

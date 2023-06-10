@@ -9,6 +9,8 @@ List shared papers in our group
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2023.6.12|1. 刘宇帆    <br>  （Incremental Learning）  |[《CODA-Prompt: COntinual Decomposed Attention-based Prompting for Rehearsal-Free Continual Learning》 （CVPR 2023）](https://arxiv.org/abs/2211.13218)
+|2023.6.12|2. 张伊男    <br>  （Object Detection）  |[《One-to-Few Label Assignment for End-to-End Dense Detection》 （CVPR 2023）](https://arxiv.org/abs/2303.11567)
 |2023.6.5|1. 丁梓原    <br>  （Domain Adaptation）  |[《Pulling Target to Source: A New Perspective on Domain Adaptive Semantic Segmentation》 （arXiv 2023）](https://arxiv.org/abs/2305.13752)
 |2023.5.28|1. 梁毅雄    <br>  （视觉大模型）  |[Visual Foundation Models & Parameter-Efficient Learning]
 |2023.5.28|2. 张朝君    <br>  （Instance Segmentation）  |[《Vision Transformers Are Good Mask Auto-Labelers》 （CVPR 2023）](https://arxiv.org/abs/2301.03992)

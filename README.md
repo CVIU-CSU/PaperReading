@@ -9,6 +9,8 @@ List shared papers in our group
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2023.6.26|1. 郭杰    <br>  （Object Detection）  |[《Detection Transformer with Stable Matching》 （arxiv 2023）](https://arxiv.org/abs/2304.04742)
+|2023.6.26|2. 陈琼朴    <br>  （Multimodal Learning）  |[《PMR: Prototypical Modal Rebalance for Multimodal Learning》 （CVPR 2023）](https://openaccess.thecvf.com/content/CVPR2023/html/Fan_PMR_Prototypical_Modal_Rebalance_for_Multimodal_Learning_CVPR_2023_paper.html)
 |2023.6.19|1. 范筱峰    <br>  （6D Object Pose Estimation）  |[《POPE: 6-DoF Promptable Pose Estimation of Any Object, in Any Scene, with One Referenc》 （arxiv 2023）](https://arxiv.org/abs/2305.15727)
 |2023.6.19|2. 黄丽娜    <br>  （Object Detection）  |[《USD: Unknown Sensitive Detector Empowered by Decoupled Objectness and Segment Anything Model》 （arxiv 2023）](https://arxiv.org/abs/2306.02275)
 |2023.6.12|1. 刘宇帆    <br>  （Incremental Learning）  |[《CODA-Prompt: COntinual Decomposed Attention-based Prompting for Rehearsal-Free Continual Learning》 （CVPR 2023）](https://arxiv.org/abs/2211.13218)

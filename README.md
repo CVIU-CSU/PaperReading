@@ -9,6 +9,8 @@ List shared papers in our group
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2023.7.3|1. 丁梓原    <br>  （SAM综述）  |[《A Survey on Segment Anything Model (SAM): Vision Foundation Model Meets Prompt Engineering》 （arxiv 2023）](https://arxiv.org/pdf/2306.06211)
+|2023.7.3|2. 黄佳隆    <br>  （Self-Supervised Learning）  |[《Three Guidelines You Should Know for Universally Slimmable Self-Supervised Learning》 （CVPR 2023）](https://arxiv.org/abs/2303.06870)
 |2023.6.26|1. 郭杰    <br>  （Object Detection）  |[《Detection Transformer with Stable Matching》 （arxiv 2023）](https://arxiv.org/abs/2304.04742)
 |2023.6.26|2. 陈琼朴    <br>  （Multimodal Learning）  |[《PMR: Prototypical Modal Rebalance for Multimodal Learning》 （CVPR 2023）](https://openaccess.thecvf.com/content/CVPR2023/html/Fan_PMR_Prototypical_Modal_Rebalance_for_Multimodal_Learning_CVPR_2023_paper.html)
 |2023.6.19|1. 范筱峰    <br>  （6D Object Pose Estimation）  |[《POPE: 6-DoF Promptable Pose Estimation of Any Object, in Any Scene, with One Referenc》 （arxiv 2023）](https://arxiv.org/abs/2305.15727)

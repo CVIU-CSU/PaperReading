@@ -9,6 +9,10 @@ List shared papers in our group
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2023.7.17|1. 李高杰     <br>  （SAM-like）  |[《Semantic-SAM: Segment and Recognize Anything at Any Granularity》 （arxiv 2023）](https://arxiv.org/abs/2307.04767)
+|2023.7.17|2. 张伊男    <br>  （Object Detection）  |[《Detection Hub:Unifying Object Detection Datasets via Query Adaptation on Language Embedding》 （CVPR 2023）](https://openaccess.thecvf.com/content/CVPR2023/html/Meng_Detection_Hub_Unifying_Object_Detection_Datasets_via_Query_Adaptation_on_CVPR_2023_paper.htm)
+|2023.7.10|1. 刘宇帆    <br>  （Incremental Segmentation）  |[《Endpoints Weight Fusion for Class Incremental Semantic Segmentation》 （CVPR 2023）](https://openaccess.thecvf.com/content/CVPR2023/html/Xiao_Endpoints_Weight_Fusion_for_Class_Incremental_Semantic_Segmentation_CVPR_2023_paper.html)
+|2023.7.10|2. 胡逸琛    <br>  （Multi-Modal Learning）  |[《Multi-Modal Learning With Missing Modality via Shared-Specific Feature Modelling》 （CVPR 2023）](https://openaccess.thecvf.com/content/CVPR2023/html/Wang_Multi-Modal_Learning_With_Missing_Modality_via_Shared-Specific_Feature_Modelling_CVPR_2023_paper.html)
 |2023.7.3|1. 丁梓原    <br>  （SAM综述）  |[《A Survey on Segment Anything Model (SAM): Vision Foundation Model Meets Prompt Engineering》 （arxiv 2023）](https://arxiv.org/pdf/2306.06211)
 |2023.7.3|2. 黄佳隆    <br>  （Self-Supervised Learning）  |[《Three Guidelines You Should Know for Universally Slimmable Self-Supervised Learning》 （CVPR 2023）](https://arxiv.org/abs/2303.06870)
 |2023.6.26|1. 郭杰    <br>  （Object Detection）  |[《Detection Transformer with Stable Matching》 （arxiv 2023）](https://arxiv.org/abs/2304.04742)

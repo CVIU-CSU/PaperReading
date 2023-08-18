@@ -9,6 +9,10 @@ List shared papers in our group
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2023.8.14|1. 黄佳隆     <br>  （Weakly-supervised WSI）  |[《Task-specific Fine-tuning via Variational Information Bottleneck for Weakly-supervised Pathology Whole Slide Image Classification》 （CVPR 2023）](https://arxiv.org/abs/2303.08446)
+|2023.7.31|1. 胡逸琛     <br>  （Multimodal Learning）  |[《Best of Both Worlds: Multimodal Contrastive Learning with Tabular and Imaging Data》 （CVPR 2023）](https://arxiv.org/abs/2303.14080)
+|2023.7.24|1. 范筱峰     <br>  （6D Object Pose Estimation）  |[《TTA-COPE: Test-Time Adaptation for Category-Level Object Pose Estimation》 （CVPR 2023）](https://arxiv.org/abs/2303.16730)
+|2023.7.24|2. 黄丽娜     <br>  （Vision Transformer）  |[《Patch n' Pack: NaViT, a Vision Transformer for any Aspect Ratio and Resolution》 （arxiv 2023）](https://arxiv.org/abs/2307.06304)
 |2023.7.17|1. 李高杰     <br>  （SAM-like）  |[《Semantic-SAM: Segment and Recognize Anything at Any Granularity》 （arxiv 2023）](https://arxiv.org/abs/2307.04767)
 |2023.7.17|2. 张伊男    <br>  （Object Detection）  |[《Detection Hub:Unifying Object Detection Datasets via Query Adaptation on Language Embedding》 （CVPR 2023）](https://openaccess.thecvf.com/content/CVPR2023/html/Meng_Detection_Hub_Unifying_Object_Detection_Datasets_via_Query_Adaptation_on_CVPR_2023_paper.htm)
 |2023.7.10|1. 刘宇帆    <br>  （Incremental Learning）  |[《Endpoints Weight Fusion for Class Incremental Semantic Segmentation》 （CVPR 2023）](https://openaccess.thecvf.com/content/CVPR2023/html/Xiao_Endpoints_Weight_Fusion_for_Class_Incremental_Semantic_Segmentation_CVPR_2023_paper.html)

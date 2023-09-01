@@ -9,6 +9,8 @@ List shared papers in our group
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2023.8.28|1. 郭杰     <br>  （object detection）  |[《Less is More: Focus Attention for Efficient DETR》 （ICCV 2023）](https://arxiv.org/abs/2307.12612)
+|2023.8.21|1. 丁梓原     <br>  （Panoramic Semantic Segmentation）  |[《Look at the Neighbor: Distortion-aware Unsupervised Domain Adaptation for Panoramic Semantic Segmentation》 （ICCV 2023）](https://arxiv.org/abs/2308.05493)
 |2023.8.14|1. 黄佳隆     <br>  （Weakly-supervised WSI）  |[《Task-specific Fine-tuning via Variational Information Bottleneck for Weakly-supervised Pathology Whole Slide Image Classification》 （CVPR 2023）](https://arxiv.org/abs/2303.08446)
 |2023.7.31|1. 胡逸琛     <br>  （Multimodal Learning）  |[《Best of Both Worlds: Multimodal Contrastive Learning with Tabular and Imaging Data》 （CVPR 2023）](https://arxiv.org/abs/2303.14080)
 |2023.7.24|1. 范筱峰     <br>  （6D Object Pose Estimation）  |[《TTA-COPE: Test-Time Adaptation for Category-Level Object Pose Estimation》 （CVPR 2023）](https://arxiv.org/abs/2303.16730)

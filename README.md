@@ -9,6 +9,8 @@ List shared papers in our group
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2023.9.11|1. 丁梓原     <br>  （Test-Time Adaptation）  |[《On the Robustness of Open-World Test-Time Training: Self-Training with Dynamic Prototype Expansion》 （ICCV 2023 oral）](https://arxiv.org/pdf/2308.09942.pdf )
+|2023.9.11|2. 范筱峰     <br>  （3D Open-Vocabulary detection）  |[《Open-Vocabulary Point-Cloud Object Detection Without 3D Annotation》 （CVPR 2023）](https://openaccess.thecvf.com/content/CVPR2023/papers/Lu_Open-Vocabulary_Point-Cloud_Object_Detection_Without_3D_Annotation_CVPR_2023_paper.pdf)
 |2023.8.28|1. 郭杰     <br>  （object detection）  |[《Less is More: Focus Attention for Efficient DETR》 （ICCV 2023）](https://arxiv.org/abs/2307.12612)
 |2023.8.21|1. 丁梓原     <br>  （Panoramic Semantic Segmentation）  |[《Look at the Neighbor: Distortion-aware Unsupervised Domain Adaptation for Panoramic Semantic Segmentation》 （ICCV 2023）](https://arxiv.org/abs/2308.05493)
 |2023.8.14|1. 黄佳隆     <br>  （Weakly-supervised WSI）  |[《Task-specific Fine-tuning via Variational Information Bottleneck for Weakly-supervised Pathology Whole Slide Image Classification》 （CVPR 2023）](https://arxiv.org/abs/2303.08446)

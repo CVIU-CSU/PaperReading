@@ -9,9 +9,13 @@ List shared papers in our group
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2023.9.28|1. 陈琼朴     <br>  （Multimodal Learning）  |[《MMANet: Margin-aware Distillation and Modality-aware Regularization for Incomplete Multimodal Learning》 （CVPR 2023）](https://openaccess.thecvf.com/content/CVPR2023/papers/Wei_MMANet_Margin-Aware_Distillation_and_Modality-Aware_Regularization_for_Incomplete_Multimodal_Learning_CVPR_2023_paper.pdf)
+|2023.9.28|2. 钟晴     <br>  （Domain Adaptation Semantic Segmantation）  |[《To Adapt or Not to Adapt? Real-Time Adaptation for Semantic Segmentation》 （ICCV 2023）](https://arxiv.org/pdf/2307.15063.pdf)
+|2023.9.21|1. 刘宇帆     <br>  （Continual Learning / VLM）  |[《Preventing Zero-Shot Transfer Degradation in Continual Learning of Vision-Language Models》 （ICCV 2023）](https://arxiv.org/pdf/2303.06628.pdf)
+|2023.9.21|2. 李高杰     <br>  （Object Detection）  |[《Enhanced Training of Query-Based Object Detection via Selective Query Recollection》 （CVPR 2023）](https://arxiv.org/pdf/2212.07593.pdf)
 |2023.9.11|1. 丁梓原     <br>  （Test-Time Adaptation）  |[《On the Robustness of Open-World Test-Time Training: Self-Training with Dynamic Prototype Expansion》 （ICCV 2023 oral）](https://arxiv.org/pdf/2308.09942.pdf )
 |2023.9.11|2. 范筱峰     <br>  （3D Open-Vocabulary detection）  |[《Open-Vocabulary Point-Cloud Object Detection Without 3D Annotation》 （CVPR 2023）](https://openaccess.thecvf.com/content/CVPR2023/papers/Lu_Open-Vocabulary_Point-Cloud_Object_Detection_Without_3D_Annotation_CVPR_2023_paper.pdf)
-|2023.8.28|1. 郭杰     <br>  （object detection）  |[《Less is More: Focus Attention for Efficient DETR》 （ICCV 2023）](https://arxiv.org/abs/2307.12612)
+|2023.8.28|1. 郭杰     <br>  （Object Detection）  |[《Less is More: Focus Attention for Efficient DETR》 （ICCV 2023）](https://arxiv.org/abs/2307.12612)
 |2023.8.21|1. 丁梓原     <br>  （Panoramic Semantic Segmentation）  |[《Look at the Neighbor: Distortion-aware Unsupervised Domain Adaptation for Panoramic Semantic Segmentation》 （ICCV 2023）](https://arxiv.org/abs/2308.05493)
 |2023.8.14|1. 黄佳隆     <br>  （Weakly-supervised WSI）  |[《Task-specific Fine-tuning via Variational Information Bottleneck for Weakly-supervised Pathology Whole Slide Image Classification》 （CVPR 2023）](https://arxiv.org/abs/2303.08446)
 |2023.7.31|1. 胡逸琛     <br>  （Multimodal Learning）  |[《Best of Both Worlds: Multimodal Contrastive Learning with Tabular and Imaging Data》 （CVPR 2023）](https://arxiv.org/abs/2303.14080)

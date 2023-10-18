@@ -9,6 +9,12 @@ List shared papers in our group
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2023.10.19|1. 刘宇帆     <br>  （VIT backbone）  |[《Self-regulating Prompts: Foundational Model Adaptation without Forgetting》 （ICCV 2023）](https://openaccess.thecvf.com/content/ICCV2023/papers/Khattak_Self-regulating_Prompts_Foundational_Model_Adaptation_without_Forgetting_ICCV_2023_paper.pdf)
+|2023.10.19|2. 胡逸琛     <br>  （Universal medical segmentation）  |[《Universeg: Universal medical image segmentation》 （ICCV 2023）](https://arxiv.org/pdf/2304.06131.pdf)
+|2023.10.12|1. 黄丽娜     <br>  （VIT backbone）  |[《DiT: Efficient Vision Transformers with Dynamic Token Routing》 （arxiv 2308）](https://arxiv.org/pdf/2308.03409.pdf )
+|2023.10.12|2. 黄佳隆     <br>  （WSI Classification）  |[《Multiple Instance Learning Framework with Masked Hard Instance Mining for Whole Slide Image Classification》 （ICCV 2023）](https://arxiv.org/pdf/2307.15254.pdf)
+|2023.10.5|1. 郭杰     <br>  （Multimodal-LLM）  |[《Cheap and Quick: Efficient Vision-Language Instruction Tuning for Large Language Models》 （NeurIPS 2023）](https://arxiv.org/pdf/2305.15023.pdf )
+|2023.10.5|2. 张伊男     <br>  （Object Detection）  |[《Dense Distinct Query for End-to-End Object Detection》 （CVPR 2023）](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_Dense_Distinct_Query_for_End-to-End_Object_Detection_CVPR_2023_paper.pdf)
 |2023.9.28|1. 陈琼朴     <br>  （Multimodal Learning）  |[《MMANet: Margin-aware Distillation and Modality-aware Regularization for Incomplete Multimodal Learning》 （CVPR 2023）](https://openaccess.thecvf.com/content/CVPR2023/papers/Wei_MMANet_Margin-Aware_Distillation_and_Modality-Aware_Regularization_for_Incomplete_Multimodal_Learning_CVPR_2023_paper.pdf)
 |2023.9.28|2. 钟晴     <br>  （Domain Adaptation Semantic Segmantation）  |[《To Adapt or Not to Adapt? Real-Time Adaptation for Semantic Segmentation》 （ICCV 2023）](https://arxiv.org/pdf/2307.15063.pdf)
 |2023.9.21|1. 刘宇帆     <br>  （Continual Learning / VLM）  |[《Preventing Zero-Shot Transfer Degradation in Continual Learning of Vision-Language Models》 （ICCV 2023）](https://arxiv.org/pdf/2303.06628.pdf)

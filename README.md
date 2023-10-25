@@ -9,6 +9,8 @@ List shared papers in our group
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2023.10.26|1. 范筱峰     <br>  （3D point cloud prompt tuning）  |[《Instance-aware dynamic prompt tuning for pre-trained point cloud models》 （ICCV 2023）](https://arxiv.org/pdf/2304.07221.pdf)
+|2023.10.26|2. 张伊男     <br>  （Open World Object Detection）  |[《Detecting Everything in the Open World: Towards Universal Object Detection》 （CVPR 2023）](https://openaccess.thecvf.com/content/CVPR2023/html/Wang_Detecting_Everything_in_the_Open_World_Towards_Universal_Object_Detection_CVPR_2023_paper.html)
 |2023.10.19|1. 刘宇帆     <br>  （VIT backbone）  |[《Self-regulating Prompts: Foundational Model Adaptation without Forgetting》 （ICCV 2023）](https://openaccess.thecvf.com/content/ICCV2023/papers/Khattak_Self-regulating_Prompts_Foundational_Model_Adaptation_without_Forgetting_ICCV_2023_paper.pdf)
 |2023.10.19|2. 胡逸琛     <br>  （Universal medical segmentation）  |[《Universeg: Universal medical image segmentation》 （ICCV 2023）](https://arxiv.org/pdf/2304.06131.pdf)
 |2023.10.12|1. 黄丽娜     <br>  （VIT backbone）  |[《DiT: Efficient Vision Transformers with Dynamic Token Routing》 （arxiv 2308）](https://arxiv.org/pdf/2308.03409.pdf )

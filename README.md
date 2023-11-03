@@ -10,7 +10,7 @@ List shared papers in our group
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
 |2023.11.2|1. 张浩杰     <br>  （Vision-Language Models）  |[《GraphAdapter: Tuning Vision-Lunguage Models With Dual Knowledge Graph》 （NeurIPS 2023）](https://arxiv.org/pdf/2309.13625.pdf )
-|2023.11.22|2. 王培福     <br>  （Open World LLM-based Agent）  |[《Steve-Eye: Equipping LLM-based Embodied Agents with Visual Perception in Open Worlds》 （arxiv 2310）](https://arxiv.org/pdf/2310.13255.pdf)
+|2023.11.2|2. 王培福     <br>  （Open World LLM-based Agent）  |[《Steve-Eye: Equipping LLM-based Embodied Agents with Visual Perception in Open Worlds》 （arxiv 2310）](https://arxiv.org/pdf/2310.13255.pdf)
 |2023.10.26|1. 范筱峰     <br>  （3D point cloud prompt tuning）  |[《Instance-aware dynamic prompt tuning for pre-trained point cloud models》 （ICCV 2023）](https://arxiv.org/pdf/2304.07221.pdf)
 |2023.10.26|2. 张伊男     <br>  （Open World Object Detection）  |[《Detecting Everything in the Open World: Towards Universal Object Detection》 （CVPR 2023）](https://openaccess.thecvf.com/content/CVPR2023/html/Wang_Detecting_Everything_in_the_Open_World_Towards_Universal_Object_Detection_CVPR_2023_paper.html)
 |2023.10.19|1. 刘宇帆     <br>  （VIT backbone）  |[《Self-regulating Prompts: Foundational Model Adaptation without Forgetting》 （ICCV 2023）](https://openaccess.thecvf.com/content/ICCV2023/papers/Khattak_Self-regulating_Prompts_Foundational_Model_Adaptation_without_Forgetting_ICCV_2023_paper.pdf)

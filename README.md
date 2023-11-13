@@ -9,6 +9,17 @@ List shared papers in our group
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+汇报人：丁梓原 
+《GLaMM : Pixel Grounding Large Multimodal Model》 （arxiv 2311） 
+下载地址：https://arxiv.org/pdf/2311.03356v1.pdf
+汇报人： 黄佳隆 
+《SILC: Improving Vision Language Pretraining with Self-Distillation》 （arxiv 2310） 
+下载地址：https://arxiv.org/pdf/2310.13355.pdf
+
+2023.11.15|1. 丁梓原     <br>  （LMM-based Grounding & Segmentation）  |[《GLaMM : Pixel Grounding Large Multimodal Model》 （arxiv 2311）](https://arxiv.org/pdf/2311.03356v1.pdf)
+|2023.11.15|2. 黄佳隆     <br>  （Vision Language Pretraining）  |[《SILC: Improving Vision Language Pretraining with Self-Distillation》 （arxiv 2310）](https://arxiv.org/pdf/2310.13355.pdf)
+2023.11.9|1. 郭杰     <br>  （LLM-based Object Detection）  |[《CoTDet: Affordance Knowledge Prompting for Task Driven Object Detection》 （ICCV 2023）](https://arxiv.org/pdf/2309.01093.pdf)
+|2023.11.9|2. 黄丽娜     <br>  （VLM-based Incremental Learning）  |[《Class Incremental Learning with Pre-trained Vision-Language Models》 （arxiv 2310）](https://arxiv.org/pdf/2310.20348.pdf)
 |2023.11.2|1. 张浩杰     <br>  （Vision-Language Models）  |[《GraphAdapter: Tuning Vision-Lunguage Models With Dual Knowledge Graph》 （NeurIPS 2023）](https://arxiv.org/pdf/2309.13625.pdf )
 |2023.11.2|2. 王培福     <br>  （Open World LLM-based Agent）  |[《Steve-Eye: Equipping LLM-based Embodied Agents with Visual Perception in Open Worlds》 （arxiv 2310）](https://arxiv.org/pdf/2310.13255.pdf)
 |2023.10.26|1. 范筱峰     <br>  （3D point cloud prompt tuning）  |[《Instance-aware dynamic prompt tuning for pre-trained point cloud models》 （ICCV 2023）](https://arxiv.org/pdf/2304.07221.pdf)
@@ -21,7 +32,7 @@ List shared papers in our group
 |2023.10.5|2. 张伊男     <br>  （Object Detection）  |[《Dense Distinct Query for End-to-End Object Detection》 （CVPR 2023）](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_Dense_Distinct_Query_for_End-to-End_Object_Detection_CVPR_2023_paper.pdf)
 |2023.9.28|1. 陈琼朴     <br>  （Multimodal Learning）  |[《MMANet: Margin-aware Distillation and Modality-aware Regularization for Incomplete Multimodal Learning》 （CVPR 2023）](https://openaccess.thecvf.com/content/CVPR2023/papers/Wei_MMANet_Margin-Aware_Distillation_and_Modality-Aware_Regularization_for_Incomplete_Multimodal_Learning_CVPR_2023_paper.pdf)
 |2023.9.28|2. 钟晴     <br>  （Domain Adaptation Semantic Segmantation）  |[《To Adapt or Not to Adapt? Real-Time Adaptation for Semantic Segmentation》 （ICCV 2023）](https://arxiv.org/pdf/2307.15063.pdf)
-|2023.9.21|1. 刘宇帆     <br>  （Continual Learning / VLM）  |[《Preventing Zero-Shot Transfer Degradation in Continual Learning of Vision-Language Models》 （ICCV 2023）](https://arxiv.org/pdf/2303.06628.pdf)
+|2023.9.21|1. 刘宇帆     <br>  （VLM-based Continual Learning）  |[《Preventing Zero-Shot Transfer Degradation in Continual Learning of Vision-Language Models》 （ICCV 2023）](https://arxiv.org/pdf/2303.06628.pdf)
 |2023.9.21|2. 李高杰     <br>  （Object Detection）  |[《Enhanced Training of Query-Based Object Detection via Selective Query Recollection》 （CVPR 2023）](https://arxiv.org/pdf/2212.07593.pdf)
 |2023.9.11|1. 丁梓原     <br>  （Test-Time Adaptation）  |[《On the Robustness of Open-World Test-Time Training: Self-Training with Dynamic Prototype Expansion》 （ICCV 2023 oral）](https://arxiv.org/pdf/2308.09942.pdf )
 |2023.9.11|2. 范筱峰     <br>  （3D Open-Vocabulary detection）  |[《Open-Vocabulary Point-Cloud Object Detection Without 3D Annotation》 （CVPR 2023）](https://openaccess.thecvf.com/content/CVPR2023/papers/Lu_Open-Vocabulary_Point-Cloud_Object_Detection_Without_3D_Annotation_CVPR_2023_paper.pdf)

@@ -9,13 +9,6 @@ List shared papers in our group
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
-汇报人：丁梓原 
-《GLaMM : Pixel Grounding Large Multimodal Model》 （arxiv 2311） 
-下载地址：https://arxiv.org/pdf/2311.03356v1.pdf
-汇报人： 黄佳隆 
-《SILC: Improving Vision Language Pretraining with Self-Distillation》 （arxiv 2310） 
-下载地址：https://arxiv.org/pdf/2310.13355.pdf
-
 2023.11.15|1. 丁梓原     <br>  （LMM-based Grounding & Segmentation）  |[《GLaMM : Pixel Grounding Large Multimodal Model》 （arxiv 2311）](https://arxiv.org/pdf/2311.03356v1.pdf)
 |2023.11.15|2. 黄佳隆     <br>  （Vision Language Pretraining）  |[《SILC: Improving Vision Language Pretraining with Self-Distillation》 （arxiv 2310）](https://arxiv.org/pdf/2310.13355.pdf)
 2023.11.9|1. 郭杰     <br>  （LLM-based Object Detection）  |[《CoTDet: Affordance Knowledge Prompting for Task Driven Object Detection》 （ICCV 2023）](https://arxiv.org/pdf/2309.01093.pdf)

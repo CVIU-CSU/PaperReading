@@ -9,6 +9,10 @@ List shared papers in our group
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+2023.11.27|1. 刘宇帆     <br>  （Prompt-Based Continual Learning）  |[《Hierarchical Decomposition of Prompt-Based Continual Learning: Rethinking Obscured Sub-optimality》 （NeurIPS 2023）](https://arxiv.org/pdf/2310.07234.pdf)
+|2023.11.27|2. 张伊男     <br>  （Open-Vocabulary Object Detection）  |[《DST-Det: Simple Dynamic Self-Training for Open-Vocabulary Object Detection》 （arxiv 2310）](https://arxiv.org/abs/2310.01393.pdf)
+2023.11.20|1. 李高杰     <br>  （LLM-based Classification）  |[《Towards Open-Ended Visual Recognition with Large Language Model》 （arxiv 2311）](https://arxiv.org/pdf/2311.08400.pdf )
+|2023.11.20|2. 胡逸琛     <br>  （CLIP-prompts）  |[《Waffling around for Performance: Visual Classification with Random Words and Broad Concepts》 （ICCV 2023）](https://arxiv.org/pdf/2306.07282.pdf)
 2023.11.15|1. 丁梓原     <br>  （LMM-based Grounding & Segmentation）  |[《GLaMM : Pixel Grounding Large Multimodal Model》 （arxiv 2311）](https://arxiv.org/pdf/2311.03356v1.pdf)
 |2023.11.15|2. 黄佳隆     <br>  （Vision Language Pretraining）  |[《SILC: Improving Vision Language Pretraining with Self-Distillation》 （arxiv 2310）](https://arxiv.org/pdf/2310.13355.pdf)
 2023.11.9|1. 郭杰     <br>  （LLM-based Object Detection）  |[《CoTDet: Affordance Knowledge Prompting for Task Driven Object Detection》 （ICCV 2023）](https://arxiv.org/pdf/2309.01093.pdf)

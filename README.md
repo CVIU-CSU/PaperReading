@@ -9,13 +9,17 @@ List shared papers in our group
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
-2023.11.27|1. 刘宇帆     <br>  （Prompt-Based Continual Learning）  |[《Hierarchical Decomposition of Prompt-Based Continual Learning: Rethinking Obscured Sub-optimality》 （NeurIPS 2023）](https://arxiv.org/pdf/2310.07234.pdf)
+|2023.12.11|1. 范筱峰     <br>  （Category-Level Pose Estimation）  |[《SecondPose: SE(3)-Consistent Dual-Stream Feature Fusion for Category-Level Pose Estimation》 （arxiv 2311）](https://arxiv.org/pdf/2311.11125.pdf )
+|2023.12.11|2. 黄佳隆     <br>  （Visual In-Context Model）  |[《Sequential Modeling Enables Scalable Learning for Large Vision Models》 （arxiv 2312）](https://arxiv.org/pdf/2312.00785.pdf)
+|2023.12.4|1. 黄丽娜     <br>  （LLM-based Few-shot Segmentation）  |[《LLaFS: When Large-Language Models Meet Few-Shot Segmentation》 （arxiv 2311）](https://arxiv.org/pdf/2311.16926.pdf )
+|2023.12.4|2. 许文卓     <br>  （Open-Vocabulary Segmentation）  |[《CLIPSelf: Vision Transformer Distills Itself for Open-Vocabulary Dense Prediction》 （arxiv 2310）](https://doi.org/10.48550/arXiv.2310.01403)
+|2023.11.27|1. 刘宇帆     <br>  （Prompt-Based Continual Learning）  |[《Hierarchical Decomposition of Prompt-Based Continual Learning: Rethinking Obscured Sub-optimality》 （NeurIPS 2023）](https://arxiv.org/pdf/2310.07234.pdf)
 |2023.11.27|2. 张伊男     <br>  （Open-Vocabulary Object Detection）  |[《DST-Det: Simple Dynamic Self-Training for Open-Vocabulary Object Detection》 （arxiv 2310）](https://arxiv.org/abs/2310.01393.pdf)
-2023.11.20|1. 李高杰     <br>  （LLM-based Classification）  |[《Towards Open-Ended Visual Recognition with Large Language Model》 （arxiv 2311）](https://arxiv.org/pdf/2311.08400.pdf )
+|2023.11.20|1. 李高杰     <br>  （LLM-based Classification）  |[《Towards Open-Ended Visual Recognition with Large Language Model》 （arxiv 2311）](https://arxiv.org/pdf/2311.08400.pdf )
 |2023.11.20|2. 胡逸琛     <br>  （CLIP-prompts）  |[《Waffling around for Performance: Visual Classification with Random Words and Broad Concepts》 （ICCV 2023）](https://arxiv.org/pdf/2306.07282.pdf)
-2023.11.15|1. 丁梓原     <br>  （LMM-based Grounding & Segmentation）  |[《GLaMM : Pixel Grounding Large Multimodal Model》 （arxiv 2311）](https://arxiv.org/pdf/2311.03356v1.pdf)
+|2023.11.15|1. 丁梓原     <br>  （LMM-based Grounding & Segmentation）  |[《GLaMM : Pixel Grounding Large Multimodal Model》 （arxiv 2311）](https://arxiv.org/pdf/2311.03356v1.pdf)
 |2023.11.15|2. 黄佳隆     <br>  （Vision Language Pretraining）  |[《SILC: Improving Vision Language Pretraining with Self-Distillation》 （arxiv 2310）](https://arxiv.org/pdf/2310.13355.pdf)
-2023.11.9|1. 郭杰     <br>  （LLM-based Object Detection）  |[《CoTDet: Affordance Knowledge Prompting for Task Driven Object Detection》 （ICCV 2023）](https://arxiv.org/pdf/2309.01093.pdf)
+|2023.11.9|1. 郭杰     <br>  （LLM-based Object Detection）  |[《CoTDet: Affordance Knowledge Prompting for Task Driven Object Detection》 （ICCV 2023）](https://arxiv.org/pdf/2309.01093.pdf)
 |2023.11.9|2. 黄丽娜     <br>  （VLM-based Incremental Learning）  |[《Class Incremental Learning with Pre-trained Vision-Language Models》 （arxiv 2310）](https://arxiv.org/pdf/2310.20348.pdf)
 |2023.11.2|1. 张浩杰     <br>  （Vision-Language Models）  |[《GraphAdapter: Tuning Vision-Lunguage Models With Dual Knowledge Graph》 （NeurIPS 2023）](https://arxiv.org/pdf/2309.13625.pdf )
 |2023.11.2|2. 王培福     <br>  （Open World LLM-based Agent）  |[《Steve-Eye: Equipping LLM-based Embodied Agents with Visual Perception in Open Worlds》 （arxiv 2310）](https://arxiv.org/pdf/2310.13255.pdf)

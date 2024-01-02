@@ -9,10 +9,12 @@ List shared papers in our group
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2024.1.3|1. 丁梓原     <br>  （VLM-based DG Segmentation）  |[《VLTSeg: Simple Transfer of CLIP-Based Vision-Language Representations for Domain Generalized Semantic Segmentation》 （arxiv 2312）](https://arxiv.org/abs/2312.02021.pdf)
+|2023.12.25|2. 张伊男     <br>  （Large Multi-Modal Model）  |[《NExT-Chat: An LMM for Chat, Detection and Segmentation》 （arxiv 2311）](https://arxiv.org/abs/2311.04498.pdf)
 |2023.12.25|1. 郭杰     <br>  （Foundation model & LLM）  |[《From CLIP to DINO: Visual Encoders Shout in Multi-modal Large Language Models》 （arxiv 2310）](https://arxiv.org/pdf/2310.08825v1.pdf)
 |2023.12.25|2. 胡逸琛     <br>  （Multi-Task Transfer Learning）  |[《VMT-Adapter: Parameter-Efficient Transfer Learning for Multi-Task Dense》 （AAAI 2024）](https://arxiv.org/pdf/2312.08733.pdf)
-|2023.12.18|1. 王培福     <br>  （Large MultiModal Model）  |[《Pixel Aligned Language Models》 （arxiv 2312）](https://arxiv.org/pdf/2312.09237.pdf)
-|2023.12.18|2. 张浩杰     <br>  （Large MultiModal Model）  |[《OneLLM: One Framework to Align All Modalities with Language》 （arxiv 2312）](https://arxiv.org/pdf/2312.03700.pdf)
+|2023.12.18|1. 王培福     <br>  （Large Multi-Modal Model）  |[《Pixel Aligned Language Models》 （arxiv 2312）](https://arxiv.org/pdf/2312.09237.pdf)
+|2023.12.18|2. 张浩杰     <br>  （Large Multi-Modal Model）  |[《OneLLM: One Framework to Align All Modalities with Language》 （arxiv 2312）](https://arxiv.org/pdf/2312.03700.pdf)
 |2023.12.11|1. 范筱峰     <br>  （Category-Level Pose Estimation）  |[《SecondPose: SE(3)-Consistent Dual-Stream Feature Fusion for Category-Level Pose Estimation》 （arxiv 2311）](https://arxiv.org/pdf/2311.11125.pdf )
 |2023.12.11|2. 黄佳隆     <br>  （Visual In-Context Model）  |[《Sequential Modeling Enables Scalable Learning for Large Vision Models》 （arxiv 2312）](https://arxiv.org/pdf/2312.00785.pdf)
 |2023.12.4|1. 黄丽娜     <br>  （LLM-based Few-shot Segmentation）  |[《LLaFS: When Large-Language Models Meet Few-Shot Segmentation》 （arxiv 2311）](https://arxiv.org/pdf/2311.16926.pdf )

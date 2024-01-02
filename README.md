@@ -10,7 +10,7 @@ List shared papers in our group
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
 |2024.1.3|1. 丁梓原     <br>  （VLM-based DG Segmentation）  |[《VLTSeg: Simple Transfer of CLIP-Based Vision-Language Representations for Domain Generalized Semantic Segmentation》 （arxiv 2312）](https://arxiv.org/abs/2312.02021.pdf)
-|2023.12.25|2. 张伊男     <br>  （Large Multi-Modal Model）  |[《NExT-Chat: An LMM for Chat, Detection and Segmentation》 （arxiv 2311）](https://arxiv.org/abs/2311.04498.pdf)
+|2024.1.3|2. 张伊男     <br>  （Large Multi-Modal Model）  |[《NExT-Chat: An LMM for Chat, Detection and Segmentation》 （arxiv 2311）](https://arxiv.org/abs/2311.04498.pdf)
 |2023.12.25|1. 郭杰     <br>  （Foundation model & LLM）  |[《From CLIP to DINO: Visual Encoders Shout in Multi-modal Large Language Models》 （arxiv 2310）](https://arxiv.org/pdf/2310.08825v1.pdf)
 |2023.12.25|2. 胡逸琛     <br>  （Multi-Task Transfer Learning）  |[《VMT-Adapter: Parameter-Efficient Transfer Learning for Multi-Task Dense》 （AAAI 2024）](https://arxiv.org/pdf/2312.08733.pdf)
 |2023.12.18|1. 王培福     <br>  （Large Multi-Modal Model）  |[《Pixel Aligned Language Models》 （arxiv 2312）](https://arxiv.org/pdf/2312.09237.pdf)

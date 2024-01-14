@@ -9,6 +9,10 @@ List shared papers in our group
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2024.1.15|1. 刘宇帆     <br>  （Incremental Learning）  |[《Fine-Grained Knowledge Selection and Restoration for Non-Exemplar Class Incremental Learning》 （AAAI 2024）](https://arxiv.org/pdf/2312.12722.pdf)
+|2024.1.15|2. 黄佳隆     <br>  （VLM Prompting Survey）  |[《A Systematic Survey of Prompt Engineering on Vision-Language Foundation Models》 （arxiv 2307）](https://arxiv.org/pdf/2307.12980.pdf)
+|2024.1.8|1. 李高杰     <br>  （VLM Prompting）  |[《Learning to Prompt with Text Only Supervision for Vision-Language Models》 （arxiv 2401）](https://arxiv.org/pdf/2401.02418.pdf)
+|2024.1.8|2. 黄丽娜     <br>  （Universal Image Segmentation）  |[《Unsupervised Universal Image Segmentation》 （arxiv 2312）](https://arxiv.org/pdf/2312.17243.pdf)
 |2024.1.3|1. 丁梓原     <br>  （VLM-based DG Segmentation）  |[《VLTSeg: Simple Transfer of CLIP-Based Vision-Language Representations for Domain Generalized Semantic Segmentation》 （arxiv 2312）](https://arxiv.org/abs/2312.02021.pdf)
 |2024.1.3|2. 张伊男     <br>  （Large Multi-Modal Model）  |[《NExT-Chat: An LMM for Chat, Detection and Segmentation》 （arxiv 2311）](https://arxiv.org/abs/2311.04498.pdf)
 |2023.12.25|1. 郭杰     <br>  （Foundation model & LLM）  |[《From CLIP to DINO: Visual Encoders Shout in Multi-modal Large Language Models》 （arxiv 2310）](https://arxiv.org/pdf/2310.08825v1.pdf)

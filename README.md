@@ -9,6 +9,8 @@ List shared papers in our group
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2024.1.22|1. 李高杰     <br>  （Open-World Segmentation）  |[《UMG-CLIP: A Unified Multi-Granularity Vision Generalist for Open-World Understanding》 （arxiv 2401）](https://arxiv.org/pdf/2401.06397v1.pdf)
+|2024.1.22|2. 许文卓     <br>  （Open-Vocabulary Segmentation）  |[《Open-Vocabulary SAM: Segment and Recognize Twenty-thousand Classes Interactively》 （arxiv 2401）](https://arxiv.org/abs/2401.02955)
 |2024.1.15|1. 刘宇帆     <br>  （Incremental Learning）  |[《Fine-Grained Knowledge Selection and Restoration for Non-Exemplar Class Incremental Learning》 （AAAI 2024）](https://arxiv.org/pdf/2312.12722.pdf)
 |2024.1.15|2. 黄佳隆     <br>  （VLM Prompting Survey）  |[《A Systematic Survey of Prompt Engineering on Vision-Language Foundation Models》 （arxiv 2307）](https://arxiv.org/pdf/2307.12980.pdf)
 |2024.1.8|1. 李高杰     <br>  （VLM Prompting）  |[《Learning to Prompt with Text Only Supervision for Vision-Language Models》 （arxiv 2401）](https://arxiv.org/pdf/2401.02418.pdf)

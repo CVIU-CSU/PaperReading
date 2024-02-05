@@ -9,6 +9,10 @@ List shared papers in our group
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2024.2.5|1. 范筱峰     <br>  （NeRF / Reconstruction Model）  |[《PF-LRM: Pose-Free Large Reconstruction Model for Joint Pose and Shape Prediction》 （ICLR 2024）](https://arxiv.org/pdf/2311.12024.pdf )
+|2024.2.5|2. 胡逸琛     <br>  （Contrast Learning Regression）  |[《Rank-N-Contrast: Learning Continuous Representations for Regression》 （NeurIPS 2023）](https://openreview.net/pdf?id=WHedsAeatp)
+|2024.1.29|1. 王培福     <br>  （Multi-Modal Video Action Recognition）  |[《M2-CLIP: A Multimodal, Multi-task Adapting Framework for Video Action Recognition》 （AAAI 2024）](https://arxiv.org/pdf/2401.11649.pdf)
+|2024.1.29|2. 张浩杰     <br>  （Multi-Modal Ensemble Learning）  |[《Multimodal Pathway：Improve Transformers with Irrelevant Data from Other Modalities》 （arxiv 2401）](https://arxiv.org/pdf/2401.14405.pdf)
 |2024.1.22|1. 李高杰     <br>  （Open-World Segmentation）  |[《UMG-CLIP: A Unified Multi-Granularity Vision Generalist for Open-World Understanding》 （arxiv 2401）](https://arxiv.org/pdf/2401.06397v1.pdf)
 |2024.1.22|2. 许文卓     <br>  （Open-Vocabulary Segmentation）  |[《Open-Vocabulary SAM: Segment and Recognize Twenty-thousand Classes Interactively》 （arxiv 2401）](https://arxiv.org/abs/2401.02955)
 |2024.1.15|1. 刘宇帆     <br>  （Incremental Learning）  |[《Fine-Grained Knowledge Selection and Restoration for Non-Exemplar Class Incremental Learning》 （AAAI 2024）](https://arxiv.org/pdf/2312.12722.pdf)

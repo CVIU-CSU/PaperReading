@@ -9,6 +9,10 @@ List shared papers in our group
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2024.3.4|1. 李高杰     <br>  （SAM-like）  |[《EfficientSAM: Leveraged Masked Image Pretraining for Efficient Segment Anything》 （CVPR 2024）](https://arxiv.org/pdf/2312.00863.pdf?trk=public_post_comment-text)
+|2024.3.4|2. 黄丽娜     <br>  （WSI Classification）  |[《Feature Re-Embedding: Towards Foundation Model-Level Performance in Computational Pathology》 （CVPR 2024）](https://arxiv.org/pdf/2402.17228.pdf)
+|2024.2.26|1. 郭杰     <br>  （Open-Vocabulary Classification）  |[《TagCLIP: A Local-to-Global Framework to Enhance Open-Vocabulary Multi-Label Classification of CLIP Without Training》 （AAAI 2024）](https://arxiv.org/pdf/2312.12828.pdf)
+|2024.2.26|2. 张伊男     <br>  （MLLM-based Clinical Prediction）  |[《Multimodal Clinical Trial Outcome Prediction with Large Language Models》 （arxiv 2402）](https://arxiv.org/pdf/2402.06512.pdf)
 |2024.2.5|1. 范筱峰     <br>  （NeRF / Reconstruction Model）  |[《PF-LRM: Pose-Free Large Reconstruction Model for Joint Pose and Shape Prediction》 （ICLR 2024）](https://arxiv.org/pdf/2311.12024.pdf )
 |2024.2.5|2. 胡逸琛     <br>  （Contrast Learning Regression）  |[《Rank-N-Contrast: Learning Continuous Representations for Regression》 （NeurIPS 2023）](https://openreview.net/pdf?id=WHedsAeatp)
 |2024.1.29|1. 王培福     <br>  （Multi-Modal Video Action Recognition）  |[《M2-CLIP: A Multimodal, Multi-task Adapting Framework for Video Action Recognition》 （AAAI 2024）](https://arxiv.org/pdf/2401.11649.pdf)

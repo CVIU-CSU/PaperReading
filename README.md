@@ -9,6 +9,12 @@ List shared papers in our group
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2024.3.25|1. 张浩杰     <br>  （MLLM）  |[《Mysterious Projections: Multimodal LLMs Gain Domain-Specific Visual Capabilities Without Richer Cross-Modal Projections》 （arxiv 2402）](https://arxiv.org/pdf/2402.16832.pdf )
+|2024.3.25|2. 王培福     <br>  （MLLM）  |[《UniBind: LLM-Augmented Unified and Balanced Representation Space to Bind Them All》 （CVPR 2024）](https://arxiv.org/pdf/2403.12532.pdf)
+|2024.3.18|1. 刘宇帆     <br>  （Continual Segmentation）  |[《Continual Segmentation with Disentangled Objectness Learning and Class Recognition》 （CVPR 2024）](https://arxiv.org/pdf/2403.03477.pdf )
+|2024.3.18|2. 许文卓     <br>  （Open-Vocabulary Segmentation）  |[《Open-Vocabulary Segmentation with Semantic-Assisted Calibration》 （CVPR 2024）](https://doi.org/10.48550/arXiv.2312.04089)
+|2024.3.11|1. 丁梓原     <br>  （VFM-based DG semantic segmentation）  |[《Stronger, Fewer, & Superior: Harnessing Vision Foundation Models for Domain Generalized Semantic Segmentation》 （CVPR 2024）](https://arxiv.org/pdf/2312.04265.pdf )
+|2024.3.11|2. 黄佳隆     <br>  （Universe Segmentation）  |[《OMG-Seg: Is One Model Good Enough For All Segmentation?》 （CVPR 2024）](https://arxiv.org/pdf/2401.10229.pdf)
 |2024.3.4|1. 李高杰     <br>  （SAM-like）  |[《EfficientSAM: Leveraged Masked Image Pretraining for Efficient Segment Anything》 （CVPR 2024）](https://arxiv.org/pdf/2312.00863.pdf?trk=public_post_comment-text)
 |2024.3.4|2. 黄丽娜     <br>  （WSI Classification）  |[《Feature Re-Embedding: Towards Foundation Model-Level Performance in Computational Pathology》 （CVPR 2024）](https://arxiv.org/pdf/2402.17228.pdf)
 |2024.2.26|1. 郭杰     <br>  （Open-Vocabulary Classification）  |[《TagCLIP: A Local-to-Global Framework to Enhance Open-Vocabulary Multi-Label Classification of CLIP Without Training》 （AAAI 2024）](https://arxiv.org/pdf/2312.12828.pdf)

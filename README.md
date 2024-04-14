@@ -9,6 +9,12 @@ List shared papers in our group
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2024.4.15|1. 丁梓原     <br>  （Domain Generalized Semantic Segmentation）  |[《Collaborating Foundation Models for Domain Generalized Semantic Segmentation》 （CVPR 2024）](https://arxiv.org/pdf/2312.09788.pdf)
+|2024.4.15|2. 黄丽娜     <br>  （Long-Tailed Transformer）  |[《DeiT-LT: Distillation Strikes Back for Vision Transformer Training on Long-Tailed Datasets》 （CVPR 2024）](https://arxiv.org/pdf/2404.02900.pdf)
+|2024.4.8|1. 郭杰     <br>  （Whole Slide Image）  |[《Dynamic Graph Representation with Knowledge-aware Attention for Histopathology Whole Slide Image Analysis》 （CVPR 2024）](https://arxiv.org/pdf/2403.07719pdf)
+|2024.4.8|2. 张伊男     <br>  （Multi-Task LoRA）  |[《MTLoRA: A Low-Rank Adaptation Approach for Efficient Multi-Task Learning》 （CVPR 2024）](https://arxiv.org/pdf/2403.20320.pdf)
+|2024.4.1|1. 范筱峰     <br>  （Multi-Task & Depth Estimation）  |[《Depth anything: Unleashing the power of large-scale unlabeled data》 （arxiv 2401）](https://arxiv.org/pdf/2401.10891.pdf)
+|2024.4.1|2. 胡逸琛     <br>  （Vision Mamba）  |[《Vision Mamba: Efficient Visual Representation Learning with Bidirectional State Space Model》 （arxiv 2401）](https://arxiv.org/pdf/2401.09417.pdf)
 |2024.3.25|1. 张浩杰     <br>  （MLLM）  |[《Mysterious Projections: Multimodal LLMs Gain Domain-Specific Visual Capabilities Without Richer Cross-Modal Projections》 （arxiv 2402）](https://arxiv.org/pdf/2402.16832.pdf )
 |2024.3.25|2. 王培福     <br>  （MLLM）  |[《UniBind: LLM-Augmented Unified and Balanced Representation Space to Bind Them All》 （CVPR 2024）](https://arxiv.org/pdf/2403.12532.pdf)
 |2024.3.18|1. 刘宇帆     <br>  （Continual Segmentation）  |[《Continual Segmentation with Disentangled Objectness Learning and Class Recognition》 （CVPR 2024）](https://arxiv.org/pdf/2403.03477.pdf )

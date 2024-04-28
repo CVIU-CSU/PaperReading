@@ -9,6 +9,10 @@ List shared papers in our group
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2024.4.29|1. 张浩杰     <br>  （Contrastive Learning）  |[《MLIP: Enhancing Medical Visual Representation with Divergence Encoder and Knowledge-guided Contrastive Learning》 （arxiv 2402）](https://arxiv.org/pdf/2402.02045 )
+|2024.4.29|2. 王培福     <br>  （MLLM Segmentation）  |[《GSVA: Generalized Segmentation via Multimodal Large Language Models》 （CVPR 2024）](https://arxiv.org/pdf/2312.10103v3)
+|2024.4.22|1. 黄佳隆     <br>  （Vision-Language Pre-training）  |[《Decomposing Disease Descriptions for Enhanced Pathology Detection: A Multi-Aspect Vision-Language Pre-training Framework》 （CVPR 2024）](https://arxiv.org/pdf/2403.07636.pdf)
+|2024.4.22|2. 许文卓     <br>  （Open-Vocabulary Object Detection）  |[《YOLO-World: Real-Time Open-Vocabulary Object Detection》 （CVPR 2024）](https://arxiv.org/abs/2401.17270)
 |2024.4.15|1. 丁梓原     <br>  （Domain Generalized Semantic Segmentation）  |[《Collaborating Foundation Models for Domain Generalized Semantic Segmentation》 （CVPR 2024）](https://arxiv.org/pdf/2312.09788.pdf)
 |2024.4.15|2. 黄丽娜     <br>  （Long-Tailed Transformer）  |[《DeiT-LT: Distillation Strikes Back for Vision Transformer Training on Long-Tailed Datasets》 （CVPR 2024）](https://arxiv.org/pdf/2404.02900.pdf)
 |2024.4.8|1. 郭杰     <br>  （Whole Slide Image）  |[《Dynamic Graph Representation with Knowledge-aware Attention for Histopathology Whole Slide Image Analysis》 （CVPR 2024）](https://arxiv.org/pdf/2403.07719pdf)

@@ -7,8 +7,20 @@
 
 List shared papers in our group
 
+会议地点：信息楼416 & QQ群视频 
+汇报人：范筱峰
+《OV9D: Open-Vocabulary Category-Level 9D Object Pose and Size Estimation》 （arxiv 2403） 
+下载地址：https://arxiv.org/pdf/2403.12396
+汇报人： 胡逸琛
+《VoCo: A Simple-yet-Effective Volume Contrastive Learning Framework for 3D Medical Image Analysis》 （CVPR 2024） 
+下载地址：https://arxiv.org/pdf/2402.17300
+
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2024.5.13|1. 范筱峰     <br>  （Open-Vocabulary 9D Pose Estimation）  |[《OV9D: Open-Vocabulary Category-Level 9D Object Pose and Size Estimation》 （arxiv 2403）](https://arxiv.org/pdf/2403.12396)
+|2024.5.13|2. 胡逸琛     <br>  （Contrastive Learning）  |[《VoCo: A Simple-yet-Effective Volume Contrastive Learning Framework for 3D Medical Image Analysis》 （CVPR 2024）](https://arxiv.org/pdf/2402.17300)
+|2024.5.6|1. 李高杰     <br>  （WSI Classification）  |[《Generalizable Whole Slide Image Classification with Fine-Grained Visual-Semantic Interaction》 （CVPR 2024）](https://arxiv.org/pdf/2402.19326)
+|2024.5.6|2. 刘宇帆     <br>  （Continual Learning Panoptic Segmentation）  |[《ECLIPSE: Efficient Continual Learning in Panoptic Segmentation with Visual Prompt Tuning》 （CVPR 2024）](https://arxiv.org/pdf/2403.20126)
 |2024.4.29|1. 张浩杰     <br>  （Contrastive Learning）  |[《MLIP: Enhancing Medical Visual Representation with Divergence Encoder and Knowledge-guided Contrastive Learning》 （arxiv 2402）](https://arxiv.org/pdf/2402.02045 )
 |2024.4.29|2. 王培福     <br>  （MLLM Segmentation）  |[《GSVA: Generalized Segmentation via Multimodal Large Language Models》 （CVPR 2024）](https://arxiv.org/pdf/2312.10103v3)
 |2024.4.22|1. 黄佳隆     <br>  （Vision-Language Pre-training）  |[《Decomposing Disease Descriptions for Enhanced Pathology Detection: A Multi-Aspect Vision-Language Pre-training Framework》 （CVPR 2024）](https://arxiv.org/pdf/2403.07636.pdf)

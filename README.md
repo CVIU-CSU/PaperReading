@@ -7,14 +7,6 @@
 
 List shared papers in our group
 
-会议地点：信息楼416 & QQ群视频 
-汇报人：范筱峰
-《OV9D: Open-Vocabulary Category-Level 9D Object Pose and Size Estimation》 （arxiv 2403） 
-下载地址：https://arxiv.org/pdf/2403.12396
-汇报人： 胡逸琛
-《VoCo: A Simple-yet-Effective Volume Contrastive Learning Framework for 3D Medical Image Analysis》 （CVPR 2024） 
-下载地址：https://arxiv.org/pdf/2402.17300
-
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
 |2024.5.13|1. 范筱峰     <br>  （Open-Vocabulary 9D Pose Estimation）  |[《OV9D: Open-Vocabulary Category-Level 9D Object Pose and Size Estimation》 （arxiv 2403）](https://arxiv.org/pdf/2403.12396)

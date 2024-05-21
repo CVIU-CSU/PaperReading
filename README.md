@@ -7,13 +7,6 @@
 
 List shared papers in our group
 
-汇报人：丁梓原 
-《GROUNDHOG: Grounding Large Language Models to Holistic Segmentation》 （CVPR 2024） 
-下载地址：https://arxiv.org/pdf/2402.16846 
-汇报人： 张伊男 
-《MiM: Mask in Mask Self-Supervised Pre-Training for 3D Medical Image Analysis》 （arxiv 2404） 
-下载地址：https://arxiv.org/abs/2404.15580
-
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
 |2024.5.20|1. 丁梓原     <br>  （Grounding MLLM）  |[《GROUNDHOG: Grounding Large Language Models to Holistic Segmentation》 （CVPR 2024）](https://arxiv.org/pdf/2402.16846 )

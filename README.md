@@ -7,8 +7,17 @@
 
 List shared papers in our group
 
+汇报人：丁梓原 
+《GROUNDHOG: Grounding Large Language Models to Holistic Segmentation》 （CVPR 2024） 
+下载地址：https://arxiv.org/pdf/2402.16846 
+汇报人： 张伊男 
+《MiM: Mask in Mask Self-Supervised Pre-Training for 3D Medical Image Analysis》 （arxiv 2404） 
+下载地址：https://arxiv.org/abs/2404.15580
+
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2024.5.20|1. 丁梓原     <br>  （Grounding MLLM）  |[《GROUNDHOG: Grounding Large Language Models to Holistic Segmentation》 （CVPR 2024）](https://arxiv.org/pdf/2402.16846 )
+|2024.5.20|2. 张伊男     <br>  （Self-Supervised Pre-Training）  |[《MiM: Mask in Mask Self-Supervised Pre-Training for 3D Medical Image Analysis》 （arxiv 2404）](https://arxiv.org/abs/2404.15580)
 |2024.5.13|1. 范筱峰     <br>  （Open-Vocabulary 9D Pose Estimation）  |[《OV9D: Open-Vocabulary Category-Level 9D Object Pose and Size Estimation》 （arxiv 2403）](https://arxiv.org/pdf/2403.12396)
 |2024.5.13|2. 胡逸琛     <br>  （Contrastive Learning）  |[《VoCo: A Simple-yet-Effective Volume Contrastive Learning Framework for 3D Medical Image Analysis》 （CVPR 2024）](https://arxiv.org/pdf/2402.17300)
 |2024.5.6|1. 李高杰     <br>  （WSI Classification）  |[《Generalizable Whole Slide Image Classification with Fine-Grained Visual-Semantic Interaction》 （CVPR 2024）](https://arxiv.org/pdf/2402.19326)

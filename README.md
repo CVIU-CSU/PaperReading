@@ -9,6 +9,8 @@ List shared papers in our group
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2024.5.27|1. 张浩杰     <br>  （MLLM）  |[《Libra: Building Decoupled Vision System on Large Language Models》 （ICML 2024）](https://arxiv.org/pdf/2405.10140 )
+|2024.5.27|2. 王培福     <br>  （Video Understanding）  |[《OmniVid: A Generative Framework for Universal Video Understanding》 （CVPR 2024）](https://arxiv.org/pdf/2403.17935)
 |2024.5.20|1. 丁梓原     <br>  （Grounding MLLM）  |[《GROUNDHOG: Grounding Large Language Models to Holistic Segmentation》 （CVPR 2024）](https://arxiv.org/pdf/2402.16846 )
 |2024.5.20|2. 张伊男     <br>  （Self-Supervised Pre-Training）  |[《MiM: Mask in Mask Self-Supervised Pre-Training for 3D Medical Image Analysis》 （arxiv 2404）](https://arxiv.org/abs/2404.15580)
 |2024.5.13|1. 范筱峰     <br>  （Open-Vocabulary 9D Pose Estimation）  |[《OV9D: Open-Vocabulary Category-Level 9D Object Pose and Size Estimation》 （arxiv 2403）](https://arxiv.org/pdf/2403.12396)

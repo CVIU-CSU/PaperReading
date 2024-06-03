@@ -9,6 +9,8 @@ List shared papers in our group
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2024.5.27|1. 郭杰     <br>  （Multimodal Reasoning）  |[《Question Aware Vision Transformer for Multimodal Reasoning》 （arxiv 2402）](https://arxiv.org/pdf/2402.05472)
+|2024.5.27|2. 黄丽娜     <br>  （Visual Representation Learning）  |[《Understanding the Effect of using Semantically Meaningful Tokens for Visual Representation Learning》 （arxiv 2405）](https://arxiv.org/pdf/2405.16401)
 |2024.5.27|1. 张浩杰     <br>  （MLLM）  |[《Libra: Building Decoupled Vision System on Large Language Models》 （ICML 2024）](https://arxiv.org/pdf/2405.10140 )
 |2024.5.27|2. 王培福     <br>  （Video Understanding）  |[《OmniVid: A Generative Framework for Universal Video Understanding》 （CVPR 2024）](https://arxiv.org/pdf/2403.17935)
 |2024.5.20|1. 丁梓原     <br>  （Grounding MLLM）  |[《GROUNDHOG: Grounding Large Language Models to Holistic Segmentation》 （CVPR 2024）](https://arxiv.org/pdf/2402.16846 )

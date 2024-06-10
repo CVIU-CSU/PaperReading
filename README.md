@@ -9,6 +9,8 @@ List shared papers in our group
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2024.6.10|1. 刘宇帆     <br>  （Continual Learning）  |[《Convolutional Prompting meets Language Models for Continual Learning》 （CVPR 2024）](https://arxiv.org/abs/2403.20317)
+|2024.6.10|2. 黄佳隆     <br>  （Slide Representation Learning）  |[《Transcriptomics-guided Slide Representation Learning in Computational Pathology》 （CVPR 2024 Oral）](https://arxiv.org/pdf/2405.11618)
 |2024.6.3|1. 郭杰     <br>  （Multimodal Reasoning）  |[《Question Aware Vision Transformer for Multimodal Reasoning》 （arxiv 2402）](https://arxiv.org/pdf/2402.05472)
 |2024.6.3|2. 黄丽娜     <br>  （Visual Representation Learning）  |[《Understanding the Effect of using Semantically Meaningful Tokens for Visual Representation Learning》 （arxiv 2405）](https://arxiv.org/pdf/2405.16401)
 |2024.5.27|1. 张浩杰     <br>  （MLLM）  |[《Libra: Building Decoupled Vision System on Large Language Models》 （ICML 2024）](https://arxiv.org/pdf/2405.10140 )

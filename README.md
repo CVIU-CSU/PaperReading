@@ -9,6 +9,8 @@ List shared papers in our group
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2024.6.17|1. 范筱峰     <br>  （Object Pose Estimation）  |[《CLIPose: Category-Level Object Pose Estimation with Pre-trained Vision-Language Knowledge》 （TCSVT2024）](http://arxiv.org/pdf/2402.15726v1)
+|2024.6.17|2. 胡逸琛     <br>  （FairCLIP）  |[《FairCLIP: Harnessing Fairness in Vision-Language Learning》 （CVPR 2024）](https://arxiv.org/abs/2403.19949)
 |2024.6.10|1. 刘宇帆     <br>  （Continual Learning）  |[《Convolutional Prompting meets Language Models for Continual Learning》 （CVPR 2024）](https://arxiv.org/abs/2403.20317)
 |2024.6.10|2. 黄佳隆     <br>  （Slide Representation Learning）  |[《Transcriptomics-guided Slide Representation Learning in Computational Pathology》 （CVPR 2024 Oral）](https://arxiv.org/pdf/2405.11618)
 |2024.6.3|1. 郭杰     <br>  （Multimodal Reasoning）  |[《Question Aware Vision Transformer for Multimodal Reasoning》 （arxiv 2402）](https://arxiv.org/pdf/2402.05472)

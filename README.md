@@ -9,6 +9,8 @@ List shared papers in our group
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2024.7.1|1. 黄丽娜     <br>  （Few-shot Detection）  |[《Semantic Enhanced Few-shot Object Detection》 （ICIP 2024）](https://arxiv.org/abs/2406.13498)
+|2024.7.1|2. 张伊男     <br>  （MLLM）  |[《​Uni-MoE: Scaling Unified Multimodal LLMs with Mixture of Experts》 （ARXIV2405）](https://arxiv.org/abs/2405.11273)
 |2024.6.24|1. 许文卓     <br>  （Zero-Shot Classification）  |[《CARZero: Cross-Attention Alignment for Radiology Zero-Shot Classification》 （CVPR2024）](https://arxiv.org/abs/2402.17417)
 |2024.6.24|2. 张骁     <br>  （Model Pruning）  |[《​mlp can be a good transformer learner》 （CVPR 2024）](https://arxiv.org/abs/2404.05657)
 |2024.6.17|1. 范筱峰     <br>  （Object Pose Estimation）  |[《CLIPose: Category-Level Object Pose Estimation with Pre-trained Vision-Language Knowledge》 （TCSVT2024）](http://arxiv.org/pdf/2402.15726v1)

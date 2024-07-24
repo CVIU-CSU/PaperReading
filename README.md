@@ -9,6 +9,7 @@ List shared papers in our group
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2024.7.22|1. Luming Liang    <br>  （NeRF）  |[Motion Representations & CaesarNeRF]
 |2024.7.15|1. 胡逸琛     <br>  （Knowledge Distillation）  |[《Correlation-Decoupled Knowledge Distillation for Multimodal Sentiment Analysis with Incomplete Modalities》 （CVPR 2024）](https://openaccess.thecvf.com/content/CVPR2024/papers/Li_Correlation-Decoupled_Knowledge_Distillation_for_Multimodal_Sentiment_Analysis_with_Incomplete_Modalities_CVPR_2024_paper.pdf)
 |2024.7.15|2. 黄佳隆     <br>  （Prompt Learning）  |[《​Prompting Vision Foundation Models for Pathology Image Analysis》 （CVPR 2024）](https://openaccess.thecvf.com/content/CVPR2024/papers/Yin_Prompting_Vision_Foundation_Models_for_Pathology_Image_Analysis_CVPR_2024_paper.pdf)
 |2024.7.8|1. 张浩杰     <br>  （Report Generation）  |[《InVERGe: Intelligent Visual Encoder for Bridging Modalities in Report Generation》 （CVPR 2024）](https://openaccess.thecvf.com/content/CVPR2024W/MULA/papers/Deria_InVERGe_Intelligent_Visual_Encoder_for_Bridging_Modalities_in_Report_Generation_CVPRW_2024_paper.pdf)

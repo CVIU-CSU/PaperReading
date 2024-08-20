@@ -9,6 +9,8 @@ List shared papers in our group
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2024.8.19|1. 张浩杰     <br>  （Scaling MLLM） |[《SPHINX-X: Scaling Data and Parameters for a Family of Multi-modal Large Language Models》 （ICML 2024）](https://arxiv.org/pdf/2402.05935)
+|2024.8.19|2. 王培福     <br>  （Action Localization）  |[《HAT: History-Augmented Anchor Transformer for Online Temporal Action Localization》 （ECCV2024）](https://arxiv.org/pdf/2408.06437)
 |2024.8.12|1. 张伊男     <br>  （High-Resolution VLM） |[《FlexAttention for Efficient High-Resolution Vision-Language Models》 （ECCV 2024）](https://arxiv.org/abs/2407.20228)
 |2024.8.12|2. 张骁     <br>  （Vision-Language Pretraining）  |[《Modeling Caption Diversity in Contrastive Vision-Language Pretraining》 （ICML2024）](https://arxiv.org/abs/2405.00740)
 |2024.7.29|1. 黄丽娜     <br>  （Domain Generalized Segmentation） |[《Textual Query-Driven Mask Transformer for Domain Generalized Segmentation》 （ECCV 2024）](https://arxiv.org/html/2407.09033v1)

@@ -9,6 +9,8 @@ List shared papers in our group
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2024.8.12|1. 张伊男     <br>  （High-Resolution VLM） |[《FlexAttention for Efficient High-Resolution Vision-Language Models》 （ECCV 2024）](https://arxiv.org/abs/2407.20228)
+|2024.8.12|2. 张骁     <br>  （Vision-Language Pretraining）  |[《Modeling Caption Diversity in Contrastive Vision-Language Pretraining》 （ICML2024）](https://arxiv.org/abs/2405.00740)
 |2024.7.29|1. 黄丽娜     <br>  （Domain Generalized Segmentation） |[《Textual Query-Driven Mask Transformer for Domain Generalized Segmentation》 （ECCV 2024）](https://arxiv.org/html/2407.09033v1)
 |2024.7.29|2. 许文卓     <br>  （Vision-Language Model）  |[《Visual-Text Cross Alignment: Refining the Similarity Score in Vision-Language Models》 （ICML2024）](https://arxiv.org/abs/2406.02915)
 |2024.7.22|1. Luming Liang    <br>  （NeRF）  |[Motion Representations & CaesarNeRF]

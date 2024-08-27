@@ -9,6 +9,8 @@ List shared papers in our group
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2024.8.26|1. 胡逸琛     <br>  （Multimodal Learning） |[《Borrowing Treasures from Neighbors: In-Context Learning for Multimodal Learning with Missing Modalities and Data Scarcity》 （ICML 2024）](http://arxiv.org/pdf/2403.09428v1)
+|2024.8.26|2. 许文卓     <br>  （Ultrasound Image Segmentation）  |[《CC-SAM: SAM with Cross-feature Attention and Context for Ultrasound Image Segmentation》 （ECCV2024）](https://arxiv.org/pdf/2408.00181)
 |2024.8.19|1. 张浩杰     <br>  （Scaling MLLM） |[《SPHINX-X: Scaling Data and Parameters for a Family of Multi-modal Large Language Models》 （ICML 2024）](https://arxiv.org/pdf/2402.05935)
 |2024.8.19|2. 王培福     <br>  （Action Localization）  |[《HAT: History-Augmented Anchor Transformer for Online Temporal Action Localization》 （ECCV2024）](https://arxiv.org/pdf/2408.06437)
 |2024.8.12|1. 张伊男     <br>  （High-Resolution VLM） |[《FlexAttention for Efficient High-Resolution Vision-Language Models》 （ECCV 2024）](https://arxiv.org/abs/2407.20228)

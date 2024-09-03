@@ -10,7 +10,7 @@ List shared papers in our group
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
 |2024.9.2|1. 黄丽娜     <br>  （Semantic Segmentation） |[《MTA-CLIP: Language-Guided Semantic Segmentation with Mask-Text Alignment》 （ECCV 2024）](https://arxiv.org/pdf/2407.21654)
-|2024.9.2|2. 黄佳隆     <br>  （Low-Shot Image Classification）  |[《Large Language Models are Good Prompt Learners for Low-Shot Image Classification》 （ECCV 2024）](https://arxiv.org/abs/2312.04076)
+|2024.9.2|2. 黄佳隆     <br>  （Low-Shot Image Classification）  |[《Large Language Models are Good Prompt Learners for Low-Shot Image Classification》 （CVPR 2024）](https://arxiv.org/abs/2312.04076)
 |2024.8.26|1. 胡逸琛     <br>  （Multimodal Learning） |[《Borrowing Treasures from Neighbors: In-Context Learning for Multimodal Learning with Missing Modalities and Data Scarcity》 （ICML 2024）](http://arxiv.org/pdf/2403.09428v1)
 |2024.8.26|2. 许文卓     <br>  （Ultrasound Image Segmentation）  |[《CC-SAM: SAM with Cross-feature Attention and Context for Ultrasound Image Segmentation》 （ECCV 2024）](https://arxiv.org/pdf/2408.00181)
 |2024.8.19|1. 张浩杰     <br>  （Scaling MLLM） |[《SPHINX-X: Scaling Data and Parameters for a Family of Multi-modal Large Language Models》 （ICML 2024）](https://arxiv.org/pdf/2402.05935)

@@ -9,6 +9,8 @@ List shared papers in our group
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2024.9.9|1. 张浩杰     <br>  （Visual Language Model） |[《CoVLM: Composing Visual Entities and Relationships in Large Language Models Via Communicative Decoding》 （ICLR 2024）](https://openreview.net/pdf?id=PHGxChm1l5)
+|2024.9.9|2. 王培福     <br>  （Video Temporal Grounding）  |[《Training-free Video Temporal Grounding using Large-scale Pre-trained Models》 （ECCV 2024）](https://arxiv.org/abs/2408.16219)
 |2024.9.2|1. 黄丽娜     <br>  （Semantic Segmentation） |[《MTA-CLIP: Language-Guided Semantic Segmentation with Mask-Text Alignment》 （ECCV 2024）](https://arxiv.org/pdf/2407.21654)
 |2024.9.2|2. 黄佳隆     <br>  （Low-Shot Image Classification）  |[《Large Language Models are Good Prompt Learners for Low-Shot Image Classification》 （CVPR 2024）](https://arxiv.org/abs/2312.04076)
 |2024.8.26|1. 胡逸琛     <br>  （Multimodal Learning） |[《Borrowing Treasures from Neighbors: In-Context Learning for Multimodal Learning with Missing Modalities and Data Scarcity》 （ICML 2024）](http://arxiv.org/pdf/2403.09428v1)

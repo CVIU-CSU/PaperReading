@@ -9,6 +9,8 @@ List shared papers in our group
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2024.9.16|1. 张伊男     <br>  （Multimodal Learning） |[《Detached and Interactive Multimodal Learning》 （ACM MM 2024）](https://arxiv.org/abs/2407.19514)
+|2024.9.16|2. 张骁     <br>  （Unified Foundation Model）  |[《VILA-U: a Unified Foundation Model Integrating Visual Understanding and Generation》 （arxiv 2409）](https://arxiv.org/abs/2409.04429)
 |2024.9.9|1. 张浩杰     <br>  （Visual Language Model） |[《CoVLM: Composing Visual Entities and Relationships in Large Language Models Via Communicative Decoding》 （ICLR 2024）](https://openreview.net/pdf?id=PHGxChm1l5)
 |2024.9.9|2. 王培福     <br>  （Video Temporal Grounding）  |[《Training-free Video Temporal Grounding using Large-scale Pre-trained Models》 （ECCV 2024）](https://arxiv.org/abs/2408.16219)
 |2024.9.2|1. 黄丽娜     <br>  （Semantic Segmentation） |[《MTA-CLIP: Language-Guided Semantic Segmentation with Mask-Text Alignment》 （ECCV 2024）](https://arxiv.org/pdf/2407.21654)

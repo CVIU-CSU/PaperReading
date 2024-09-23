@@ -9,6 +9,8 @@ List shared papers in our group
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2024.9.23|1. 胡逸琛     <br>  （Multimodal Learning） |[《Multimodal Representation Learning by Alternating Unimodal Adaptation》 （CVPR2024）](https://arxiv.org/abs/2311.10707)
+|2024.9.23|2. 黄佳隆     <br>  （Vision-Language Models）  |[《PromptKD: Unsupervised Prompt Distillation for Vision-Language Models》 （CVPR 2024）](https://arxiv.org/abs/2403.02781)
 |2024.9.16|1. 张伊男     <br>  （Multimodal Learning） |[《Detached and Interactive Multimodal Learning》 （ACM MM 2024）](https://arxiv.org/abs/2407.19514)
 |2024.9.16|2. 张骁     <br>  （Unified Foundation Model）  |[《VILA-U: a Unified Foundation Model Integrating Visual Understanding and Generation》 （arxiv 2409）](https://arxiv.org/abs/2409.04429)
 |2024.9.9|1. 张浩杰     <br>  （Visual Language Model） |[《CoVLM: Composing Visual Entities and Relationships in Large Language Models Via Communicative Decoding》 （ICLR 2024）](https://openreview.net/pdf?id=PHGxChm1l5)

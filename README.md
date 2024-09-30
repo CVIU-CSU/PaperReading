@@ -9,6 +9,8 @@ List shared papers in our group
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2024.9.30|1. 黄丽娜     <br>  （Medical Foundation Models） |[《Low-Rank Knowledge Decomposition for Medical Foundation Models》 （CVPR2024）](https://arxiv.org/pdf/2404.17184)
+|2024.9.30|2. 许文卓     <br>  （Generic Object Detection）  |[《T-Rex2: Towards Generic Object Detection via Text-Visual Prompt Synergy》 （ECCV2024）](https://arxiv.org/pdf/2403.14610)
 |2024.9.23|1. 胡逸琛     <br>  （Multimodal Learning） |[《Multimodal Representation Learning by Alternating Unimodal Adaptation》 （CVPR2024）](https://arxiv.org/abs/2311.10707)
 |2024.9.23|2. 黄佳隆     <br>  （Vision-Language Models）  |[《PromptKD: Unsupervised Prompt Distillation for Vision-Language Models》 （CVPR 2024）](https://arxiv.org/abs/2403.02781)
 |2024.9.16|1. 张伊男     <br>  （Multimodal Learning） |[《Detached and Interactive Multimodal Learning》 （ACM MM 2024）](https://arxiv.org/abs/2407.19514)

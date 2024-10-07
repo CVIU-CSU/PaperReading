@@ -9,9 +9,11 @@ List shared papers in our group
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
-|2024.9.30|1. 黄丽娜     <br>  （Medical Foundation Models） |[《Low-Rank Knowledge Decomposition for Medical Foundation Models》 （CVPR2024）](https://arxiv.org/pdf/2404.17184)
-|2024.9.30|2. 许文卓     <br>  （Generic Object Detection）  |[《T-Rex2: Towards Generic Object Detection via Text-Visual Prompt Synergy》 （ECCV2024）](https://arxiv.org/pdf/2403.14610)
-|2024.9.23|1. 胡逸琛     <br>  （Multimodal Learning） |[《Multimodal Representation Learning by Alternating Unimodal Adaptation》 （CVPR2024）](https://arxiv.org/abs/2311.10707)
+|2024.10.7|1. 虞昊泽     <br>  （Multimodal Classification） |[《Multimodal Classification via Modal-Aware Interactive Enhancement》 （arxiv 2407）](https://arxiv.org/pdf/2407.04587)
+|2024.10.7|2. 房玮潇     <br>  （Generalist Vision Transformer）  |[《GiT: Towards Generalist Vision Transformer through Universal Language Interface》 （ECCV 2024）](https://arxiv.org/abs/2403.09394)
+|2024.9.30|1. 黄丽娜     <br>  （Medical Foundation Models） |[《Low-Rank Knowledge Decomposition for Medical Foundation Models》 （CVPR 2024）](https://arxiv.org/pdf/2404.17184)
+|2024.9.30|2. 许文卓     <br>  （Generic Object Detection）  |[《T-Rex2: Towards Generic Object Detection via Text-Visual Prompt Synergy》 （ECCV 2024）](https://arxiv.org/pdf/2403.14610)
+|2024.9.23|1. 胡逸琛     <br>  （Multimodal Learning） |[《Multimodal Representation Learning by Alternating Unimodal Adaptation》 （CVPR 2024）](https://arxiv.org/abs/2311.10707)
 |2024.9.23|2. 黄佳隆     <br>  （Vision-Language Models）  |[《PromptKD: Unsupervised Prompt Distillation for Vision-Language Models》 （CVPR 2024）](https://arxiv.org/abs/2403.02781)
 |2024.9.16|1. 张伊男     <br>  （Multimodal Learning） |[《Detached and Interactive Multimodal Learning》 （ACM MM 2024）](https://arxiv.org/abs/2407.19514)
 |2024.9.16|2. 张骁     <br>  （Unified Foundation Model）  |[《VILA-U: a Unified Foundation Model Integrating Visual Understanding and Generation》 （arxiv 2409）](https://arxiv.org/abs/2409.04429)

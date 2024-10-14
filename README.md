@@ -9,6 +9,8 @@ List shared papers in our group
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2024.10.14|1. 张浩杰     <br>  （Continual Learning） |[《InfLoRA: Interference-Free Low-Rank Adaptation for Continual Learning》 （CVPR 2024）](https://openaccess.thecvf.com/content/CVPR2024/papers/Liang_InfLoRA_Interference-Free_Low-Rank_Adaptation_for_Continual_Learning_CVPR_2024_paper.pdf)
+|2024.10.14|2. 王培福     <br>  （Video Moment Retrieval）  |[《Prior Knowledge Integration via LLM Encoding and Pseudo Event Regulation for Video Moment Retrieval》 （ACM MM 2024 Oral）](https://arxiv.org/pdf/2407.15051v3)
 |2024.10.7|1. 虞昊泽     <br>  （Multimodal Classification） |[《Multimodal Classification via Modal-Aware Interactive Enhancement》 （arxiv 2407）](https://arxiv.org/pdf/2407.04587)
 |2024.10.7|2. 房玮潇     <br>  （Generalist Vision Transformer）  |[《GiT: Towards Generalist Vision Transformer through Universal Language Interface》 （ECCV 2024）](https://arxiv.org/abs/2403.09394)
 |2024.9.30|1. 黄丽娜     <br>  （Medical Foundation Models） |[《Low-Rank Knowledge Decomposition for Medical Foundation Models》 （CVPR 2024）](https://arxiv.org/pdf/2404.17184)

@@ -9,6 +9,8 @@ List shared papers in our group
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2024.10.21|1. 黄佳隆     <br>  （Few-Shot Learning） |[《FAST: A Dual-tier Few-Shot Learning Paradigm for Whole Slide Image Classification》 （NeurIPS 2024）](https://arxiv.org/abs/2409.19720)
+|2024.10.21|2. 张骁     <br>  （LMM）  |[《AVG-LLaVA: A Large Multimodal Model with Adaptive Visual Granularity》 （arxiv 2410）](https://arxiv.org/abs/2410.02745)
 |2024.10.14|1. 张浩杰     <br>  （Continual Learning） |[《InfLoRA: Interference-Free Low-Rank Adaptation for Continual Learning》 （CVPR 2024）](https://openaccess.thecvf.com/content/CVPR2024/papers/Liang_InfLoRA_Interference-Free_Low-Rank_Adaptation_for_Continual_Learning_CVPR_2024_paper.pdf)
 |2024.10.14|2. 王培福     <br>  （Video Moment Retrieval）  |[《Prior Knowledge Integration via LLM Encoding and Pseudo Event Regulation for Video Moment Retrieval》 （ACM MM 2024 Oral）](https://arxiv.org/pdf/2407.15051v3)
 |2024.10.7|1. 虞昊泽     <br>  （Multimodal Classification） |[《Multimodal Classification via Modal-Aware Interactive Enhancement》 （arxiv 2407）](https://arxiv.org/pdf/2407.04587)

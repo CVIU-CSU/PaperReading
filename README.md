@@ -9,6 +9,8 @@ List shared papers in our group
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2024.11.4|1. 黄丽娜     <br>  （Open-World Instance Segmentation） |[《SOS: Segment Object System for Open-World Instance Segmentation With Object Priors》 （ECCV 2024）](https://arxiv.org/pdf/2409.14627)
+|2024.11.4|2. 房玮潇     <br>  （Foundation Models）  |[《Frozen-DETR: Enhancing DETR with Image Understanding from Frozen Foundation Models》 （NeurIPS 2024）](https://arxiv.org/pdf/2410.19635)
 |2024.10.28|1. 胡逸琛     <br>  （Multimodal Learning） |[《Robust Multimodal Learning via Representation Decoupling》 （ECCV 2024）](https://arxiv.org/abs/2407.04458)
 |2024.10.28|2. 许文卓     <br>  （LMM）  |[《LLaVA-Grounding: Grounded Visual Chat with Large Multimodal Models》 （ECCV 2024）](https://arxiv.org/pdf/2312.02949)
 |2024.10.21|1. 黄佳隆     <br>  （Few-Shot Learning） |[《FAST: A Dual-tier Few-Shot Learning Paradigm for Whole Slide Image Classification》 （NeurIPS 2024）](https://arxiv.org/abs/2409.19720)

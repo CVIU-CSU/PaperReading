@@ -9,6 +9,8 @@ List shared papers in our group
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2024.11.11|1. 张伊男     <br>  （Missing Modality） |[《Flex-MoE: Modeling Arbitrary Modality Combination via the Flexible Mixture-of-Experts》 （NeurIPS 2024 Spotlight）](https://arxiv.org/html/2410.08245v2)
+|2024.11.11|2. 虞昊泽     <br>  （Missing Modality）  |[《Leveraging Knowledge of Modality Experts for Incomplete Multimodal Learning》 （ACM MM 2024）](https://dl.acm.org/doi/pdf/10.1145/3664647.3681683)
 |2024.11.4|1. 黄丽娜     <br>  （Open-World Instance Segmentation） |[《SOS: Segment Object System for Open-World Instance Segmentation With Object Priors》 （ECCV 2024）](https://arxiv.org/pdf/2409.14627)
 |2024.11.4|2. 房玮潇     <br>  （Foundation Models）  |[《Frozen-DETR: Enhancing DETR with Image Understanding from Frozen Foundation Models》 （NeurIPS 2024）](https://arxiv.org/pdf/2410.19635)
 |2024.10.28|1. 胡逸琛     <br>  （Multimodal Learning） |[《Robust Multimodal Learning via Representation Decoupling》 （ECCV 2024）](https://arxiv.org/abs/2407.04458)

@@ -9,6 +9,8 @@ List shared papers in our group
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2024.11.25|1. 张浩杰     <br>  （Safety of VLM） |[《Enhancing Vision-Language Model Safety through Progressive Concept-Bottleneck-Driven Alignment》 （arXiv 2411）](https://arxiv.org/pdf/2411.11543)
+|2024.11.25|2. 王培福     <br>  （Streaming Video）  |[《VideoLLM-online: Online Video Large Language Model for Streaming Video》 （CVPR 2024）](https://arxiv.org/abs/2406.11816)
 |2024.11.18|1. 张灿     <br>  （Large Multimodal Model） |[《PixelLM: Pixel Reasoning with Large Multimodal Model》 （CVPR 2024）](https://arxiv.org/abs/2312.02228)
 |2024.11.18|2. 胡梦云     <br>  （Generalized Referring Expression Segmentation）  |[《Bring Adaptive Binding Prototypes to Generalized Referring Expression Segmentation》 （arXiv 2405）](https://arxiv.org/pdf/2405.15169v1)
 |2024.11.11|1. 张伊男     <br>  （Missing Modality） |[《Flex-MoE: Modeling Arbitrary Modality Combination via the Flexible Mixture-of-Experts》 （NeurIPS 2024 Spotlight）](https://arxiv.org/html/2410.08245v2)

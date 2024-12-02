@@ -9,6 +9,8 @@ List shared papers in our group
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2024.12.2|1. 黄佳隆     <br>  （WSI Analysis） |[《Rethinking Transformer for Long Contextual Histopathology Whole Slide Image Analysis》 （NeurIPS 2024）](https://arxiv.org/abs/2410.14195)
+|2024.12.2|2. 张骁     <br>  （RL for SAM）  |[《AlignSAM: Aligning Segment Anything Model to Open Context via Reinforcement Learning》 （CVPR 2024）](https://arxiv.org/abs/2406.00480)
 |2024.11.25|1. 张浩杰     <br>  （Safety of VLM） |[《Enhancing Vision-Language Model Safety through Progressive Concept-Bottleneck-Driven Alignment》 （arXiv 2411）](https://arxiv.org/pdf/2411.11543)
 |2024.11.25|2. 王培福     <br>  （Streaming Video）  |[《VideoLLM-online: Online Video Large Language Model for Streaming Video》 （CVPR 2024）](https://arxiv.org/abs/2406.11816)
 |2024.11.18|1. 张灿     <br>  （Large Multimodal Model） |[《PixelLM: Pixel Reasoning with Large Multimodal Model》 （CVPR 2024）](https://arxiv.org/abs/2312.02228)

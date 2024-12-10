@@ -9,6 +9,8 @@ List shared papers in our group
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2024.12.9|1. 胡逸琛     <br>  （Missing Modality） |[《Probabilistic Conformal Distillation for Enhancing Missing Modality Robustness》 （NeurIPS 2024）](https://openreview.net/pdf?id=AVrGtVrx10)
+|2024.12.9|2. 许文卓     <br>  （DI-MaskDINO）  |[《DI-MaskDINO: A Joint Object Detection and Instance Segmentation Model》 （NeurIPS 2024）](https://arxiv.org/pdf/2410.16707)
 |2024.12.2|1. 黄佳隆     <br>  （WSI Analysis） |[《Rethinking Transformer for Long Contextual Histopathology Whole Slide Image Analysis》 （NeurIPS 2024）](https://arxiv.org/abs/2410.14195)
 |2024.12.2|2. 张骁     <br>  （RL for SAM）  |[《AlignSAM: Aligning Segment Anything Model to Open Context via Reinforcement Learning》 （CVPR 2024）](https://arxiv.org/abs/2406.00480)
 |2024.11.25|1. 张浩杰     <br>  （Safety of VLM） |[《Enhancing Vision-Language Model Safety through Progressive Concept-Bottleneck-Driven Alignment》 （arXiv 2411）](https://arxiv.org/pdf/2411.11543)

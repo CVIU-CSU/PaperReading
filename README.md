@@ -9,6 +9,8 @@ List shared papers in our group
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2024.12.16|1. 黄丽娜     <br>  （One-Shot SAM） |[《Med-PerSAM: One-Shot Visual Prompt Tuning for Personalized Segment Anything Model in Medical Domain》 （arXiv 2411）](https://arxiv.org/pdf/2411.16123)
+|2024.12.16|2. 房玮潇     <br>  （Object Counting）  |[《Point, Segment and Count: A Generalized Framework for Object Counting》 （CVPR 2024）](https://arxiv.org/abs/2311.12386)
 |2024.12.9|1. 胡逸琛     <br>  （Missing Modality） |[《Probabilistic Conformal Distillation for Enhancing Missing Modality Robustness》 （NeurIPS 2024）](https://openreview.net/pdf?id=AVrGtVrx10)
 |2024.12.9|2. 许文卓     <br>  （DI-MaskDINO）  |[《DI-MaskDINO: A Joint Object Detection and Instance Segmentation Model》 （NeurIPS 2024）](https://arxiv.org/pdf/2410.16707)
 |2024.12.2|1. 黄佳隆     <br>  （WSI Analysis） |[《Rethinking Transformer for Long Contextual Histopathology Whole Slide Image Analysis》 （NeurIPS 2024）](https://arxiv.org/abs/2410.14195)

@@ -9,6 +9,8 @@ List shared papers in our group
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2024.12.23|1. 张伊男     <br>  （Zero-Shot Visual Recognition） |[《Grounding Descriptions in Images informs Zero-Shot Visual Recognition》 （arXiv 2412）](https://arxiv.org/abs/2412.04429)
+|2024.12.23|2. 虞昊泽     <br>  （Missing Modality）  |[《Missing Modality Prediction for Unpaired Multimodal Learning via Joint Embedding of Unimodal Models》 （ECCV 2024）](https://arxiv.org/pdf/2407.12616)
 |2024.12.16|1. 黄丽娜     <br>  （One-Shot SAM） |[《Med-PerSAM: One-Shot Visual Prompt Tuning for Personalized Segment Anything Model in Medical Domain》 （arXiv 2411）](https://arxiv.org/pdf/2411.16123)
 |2024.12.16|2. 房玮潇     <br>  （Object Counting）  |[《Point, Segment and Count: A Generalized Framework for Object Counting》 （CVPR 2024）](https://arxiv.org/abs/2311.12386)
 |2024.12.9|1. 胡逸琛     <br>  （Missing Modality） |[《Probabilistic Conformal Distillation for Enhancing Missing Modality Robustness》 （NeurIPS 2024）](https://openreview.net/pdf?id=AVrGtVrx10)

@@ -9,6 +9,8 @@ List shared papers in our group
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2025.01.06|1. 刘索妮     <br>  （Unsupervised WSI Representation Learning） |[《Morphological Prototyping for Unsupervised Slide Representation Learning in Computational Pathology》 （CVPR 2024）](https://openaccess.thecvf.com/content/CVPR2024/papers/Song_Morphological_Prototyping_for_Unsupervised_Slide_Representation_Learning_in_Computational_Pathology_CVPR_2024_paper.pdf)
+|2025.01.06|2. 李文杰     <br>  （OVD）  |[《SIA-OVD: Shape-Invariant Adapter for Bridging the Image-Region Gap in Open-Vocabulary Detection》 （ACM MM 2024）](https://arxiv.org/pdf/2410.05650)
 |2024.12.30|1. 张灿     <br>  （Multi-Modality Models） |[《G3: An Effective and Adaptive Framework for Worldwide Geolocalization Using Large Multi-Modality Models》 （NeurIPS 2024）](https://arxiv.org/abs/2405.14702)
 |2024.12.30|2. 胡梦云     <br>  （Generalized Referring Expression Segmentation）  |[《CoHD: A Counting-Aware Hierarchical Decoding Framework for Generalized Referring Expression Segmentation》 （arXiv 2405）](https://arxiv.org/pdf/2405.15658)
 |2024.12.23|1. 张伊男     <br>  （Zero-Shot Visual Recognition） |[《Grounding Descriptions in Images informs Zero-Shot Visual Recognition》 （arXiv 2412）](https://arxiv.org/abs/2412.04429)

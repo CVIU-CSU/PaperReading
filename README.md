@@ -9,6 +9,8 @@ List shared papers in our group
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2025.01.13|1. 张浩杰     <br>  （PEFT） |[《Fira: Can We Achieve Full-rank Training of LLMs Under Low-rank Constraint?》 （arXiv 2410）](https://arxiv.org/pdf/2410.01623)
+|2025.01.13|2. 王培福     <br>  （MLLM）  |[《LLaVA-Mini: Efficient Image and Video Large Multimodal Models with One Vision Token》 （arXiv 2501）](https://arxiv.org/pdf/2501.03895)
 |2025.01.06|1. 刘索妮     <br>  （Unsupervised WSI Representation Learning） |[《Morphological Prototyping for Unsupervised Slide Representation Learning in Computational Pathology》 （CVPR 2024）](https://openaccess.thecvf.com/content/CVPR2024/papers/Song_Morphological_Prototyping_for_Unsupervised_Slide_Representation_Learning_in_Computational_Pathology_CVPR_2024_paper.pdf)
 |2025.01.06|2. 李文杰     <br>  （OVD）  |[《SIA-OVD: Shape-Invariant Adapter for Bridging the Image-Region Gap in Open-Vocabulary Detection》 （ACM MM 2024）](https://arxiv.org/pdf/2410.05650)
 |2024.12.30|1. 张灿     <br>  （Multi-Modality Models） |[《G3: An Effective and Adaptive Framework for Worldwide Geolocalization Using Large Multi-Modality Models》 （NeurIPS 2024）](https://arxiv.org/abs/2405.14702)

@@ -9,6 +9,10 @@ List shared papers in our group
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2025.02.10|1. 胡逸琛     <br>  （Multimodal Classification） |[《Facilitating Multimodal Classification via Dynamically Learning Modality Gap》 （NeurIPS 2024）](https://openreview.net/forum?id=QbsPz0SnyV)
+|2025.02.10|2. 许文卓     <br>  （Open-Ended Object Detection）  |[《Training-Free Open-Ended Object Detection and Segmentation via Attention as Prompts》 （NeurIPS 2024）](https://proceedings.neurips.cc/paper_files/paper/2024/file/80f48ffa8022773973a4a5cec7cce19c-Paper-Conference.pdf)
+|2025.01.20|1. 黄佳隆     <br>  （PATHOLOGY Dataset） |[《PATHGEN-1.6M: 1.6 MILLION PATHOLOGY IMAGETEXT PAIRS GENERATION THROUGH MULTI-AGENT COLLABORATION》 （arXiv 2407）](https://openreview.net/pdf?id=rFpZnn11gj)
+|2025.01.20|2. 张骁     <br>  （Foundational Pretraining）  |[《MM-Retinal: Knowledge-Enhanced Foundational Pretraining with Fundus Image-Text Expertise》 （MICCAI 2024）](https://arxiv.org/abs/2405.11793)
 |2025.01.13|1. 张浩杰     <br>  （PEFT） |[《Fira: Can We Achieve Full-rank Training of LLMs Under Low-rank Constraint?》 （arXiv 2410）](https://arxiv.org/pdf/2410.01623)
 |2025.01.13|2. 王培福     <br>  （MLLM）  |[《LLaVA-Mini: Efficient Image and Video Large Multimodal Models with One Vision Token》 （arXiv 2501）](https://arxiv.org/pdf/2501.03895)
 |2025.01.06|1. 刘索妮     <br>  （Unsupervised WSI Representation Learning） |[《Morphological Prototyping for Unsupervised Slide Representation Learning in Computational Pathology》 （CVPR 2024）](https://openaccess.thecvf.com/content/CVPR2024/papers/Song_Morphological_Prototyping_for_Unsupervised_Slide_Representation_Learning_in_Computational_Pathology_CVPR_2024_paper.pdf)

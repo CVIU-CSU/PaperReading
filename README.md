@@ -9,6 +9,8 @@ List shared papers in our group
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2025.02.17|1. 张浩杰     <br>  （Pretraining for LLM） |[《Not All Tokens Are What You Need for Pretraining》 （NeurIPS 2024）](https://proceedings.neurips.cc/paper_files/paper/2024/file/3322a9a72a1707de14badd5e552ff466-Paper-Conference.pdf)
+|2025.02.17|2. 房玮潇     <br>  （OV Semantic Segmentation）  |[《Image-to-Image Matching via Foundation Models: A New Perspective for Open-Vocabulary Semantic Segmentation》 （CVPR 2024）](https://arxiv.org/pdf/2404.00262)
 |2025.02.10|1. 胡逸琛     <br>  （Multimodal Classification） |[《Facilitating Multimodal Classification via Dynamically Learning Modality Gap》 （NeurIPS 2024）](https://openreview.net/forum?id=QbsPz0SnyV)
 |2025.02.10|2. 许文卓     <br>  （Open-Ended Object Detection）  |[《Training-Free Open-Ended Object Detection and Segmentation via Attention as Prompts》 （NeurIPS 2024）](https://proceedings.neurips.cc/paper_files/paper/2024/file/80f48ffa8022773973a4a5cec7cce19c-Paper-Conference.pdf)
 |2025.01.20|1. 黄佳隆     <br>  （PATHOLOGY Dataset） |[《PATHGEN-1.6M: 1.6 MILLION PATHOLOGY IMAGETEXT PAIRS GENERATION THROUGH MULTI-AGENT COLLABORATION》 （arXiv 2407）](https://openreview.net/pdf?id=rFpZnn11gj)

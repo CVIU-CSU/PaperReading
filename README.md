@@ -9,6 +9,8 @@ List shared papers in our group
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2025.02.28|1. 张伊男     <br>  （MML） |[《Balance-aware Sequence Sampling Makes Multi-modal Learning Better》 （arXiv 2501）](https://arxiv.org/abs/2501.01470)
+|2025.02.28|2. 郭力睿     <br>  （LLM）  |[《DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning》 （arXiv 2501）](https://arxiv.org/abs/2501.12948)
 |2025.02.17|1. 张浩杰     <br>  （Pretraining for LLM） |[《Not All Tokens Are What You Need for Pretraining》 （NeurIPS 2024）](https://proceedings.neurips.cc/paper_files/paper/2024/file/3322a9a72a1707de14badd5e552ff466-Paper-Conference.pdf)
 |2025.02.17|2. 房玮潇     <br>  （OV Semantic Segmentation）  |[《Image-to-Image Matching via Foundation Models: A New Perspective for Open-Vocabulary Semantic Segmentation》 （CVPR 2024）](https://arxiv.org/pdf/2404.00262)
 |2025.02.10|1. 胡逸琛     <br>  （Multimodal Classification） |[《Facilitating Multimodal Classification via Dynamically Learning Modality Gap》 （NeurIPS 2024）](https://openreview.net/forum?id=QbsPz0SnyV)

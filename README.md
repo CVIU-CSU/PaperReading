@@ -9,6 +9,8 @@ List shared papers in our group
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2025.03.14|1. 黄丽娜     <br>  （LMM） |[《LLaVE: Large Language and Vision Embedding Models with Hardness-Weighted Contrastive Learning》 （arXiv 2503）](https://arxiv.org/abs/2503.04812)
+|2025.03.14|2. 刘索妮     <br>  （Medical Report Generation）  |[《PromptMRG: Diagnosis-Driven Prompts for Medical Report Generation》 （AAAI 2024）](https://arxiv.org/pdf/2308.12604)
 |2025.03.07|1. 张灿     <br>  （Image Segmentation） |[《A_Simple_Image_Segmentation_Framework_via_In-Context_Examples》 （NeurlPS 2024）](https://arxiv.org/abs/2410.04842)
 |2025.03.07|2. 张骁     <br>  （Visual RFT）  |[《Visual RFT: Visual Reinforcement Fine Tuning》 （arXiv 2503）](https://arxiv.org/abs/2503.01785)
 |2025.02.28|1. 张伊男     <br>  （MML） |[《Balance-aware Sequence Sampling Makes Multi-modal Learning Better》 （arXiv 2501）](https://arxiv.org/abs/2501.01470)

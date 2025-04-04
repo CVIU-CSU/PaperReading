@@ -9,6 +9,8 @@ List shared papers in our group
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2025.04.04|1. 胡逸琛     <br>  （KD for VLMs） |[《MoVE-KD: Knowledge Distillation for VLMs with Mixture of Visual Encoders》 （CVPR 2025）](https://arxiv.org/abs/2501.01709)
+|2025.04.04|2. 房玮潇     <br>  （Object Detection）  |[《DEIM: DETR with Improved Matching for Fast Convergence》 （CVPR 2025）](https://arxiv.org/abs/2412.04234)
 |2025.03.28|1. 黄佳隆     <br>  （VLM for WSI） |[《SlideChat: A Large Vision-Language Assistant for Whole-Slide Pathology Image Understanding》 （CVPR 2025）](https://arxiv.org/abs/2410.11761)
 |2025.03.28|2. 许文卓     <br>  （OVOD）  |[《LLMDet: Learning Strong Open-Vocabulary Object Detectors under the Supervision of Large Language Models》 （CVPR 2025）](https://arxiv.org/pdf/2501.18954)
 |2025.03.21|1. 王培福     <br>  （Spatial-Temporal Understanding） |[《LLaVA-ST: A Multimodal Large Language Model for Fine-Grained Spatial-Temporal Understanding》 （CVPR 2025）](https://arxiv.org/abs/2501.08282)

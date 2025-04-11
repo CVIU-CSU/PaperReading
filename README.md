@@ -9,7 +9,7 @@ List shared papers in our group
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
-|2025.04.11|1. 胡逸琛     <br>  （LMM） |[《F-LMM:Grounding Frozen Large Multimodal Models》 （CVPR 2025）](https://arxiv.org/pdf/2406.05821v2)
+|2025.04.11|1. 王培福     <br>  （LMM） |[《F-LMM:Grounding Frozen Large Multimodal Models》 （CVPR 2025）](https://arxiv.org/pdf/2406.05821v2)
 |2025.04.11|2. 郭力睿     <br>  （VLM）  |[《DINOv2 Meets Text: A Unified Framework for Image- and Pixel-Level Vision-Language Alignment》 （CVPR 2025）](https://arxiv.org/abs/2412.16334)
 |2025.04.04|1. 胡逸琛     <br>  （KD for VLMs） |[《MoVE-KD: Knowledge Distillation for VLMs with Mixture of Visual Encoders》 （CVPR 2025）](https://arxiv.org/abs/2501.01709)
 |2025.04.04|2. 房玮潇     <br>  （Object Detection）  |[《DEIM: DETR with Improved Matching for Fast Convergence》 （CVPR 2025）](https://arxiv.org/abs/2412.04234)

@@ -9,6 +9,8 @@ List shared papers in our group
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2025.04.25|1. 张灿     <br>  （Video MLLM） |[《VideoGLaMM : A Large Multimodal Model for Pixel-Level Visual Grounding in Videos》 （CVPR 2025）](https://arxiv.org/html/2411.04923v1)
+|2025.04.25|2. 胡梦云     <br>  （OV Semantic Segmentation）  |[《Exploring Simple Open-Vocabulary Semantic Segmentation》 （CVPR 2025）](https://arxiv.org/pdf/2401.12217)
 |2025.04.19|1. 张浩杰     <br>  （MLLM） |[《From Visuals to Vocabulary: Establishing Equivalence Between Image and Text Token Through Autoregressive Pre-training in MLLMs》 （arXiv 2502）](https://arxiv.org/abs/2502.09093)
 |2025.04.19|2. 刘索妮     <br>  （WSI）  |[《FOCUS: Knowledge-enhanced Adaptive Visual Compression for Few-shot Whole Slide Image Classification》 （CVPR 2025）](https://arxiv.org/pdf/2411.14743)
 |2025.04.11|1. 王培福     <br>  （LMM） |[《F-LMM:Grounding Frozen Large Multimodal Models》 （CVPR 2025）](https://arxiv.org/pdf/2406.05821v2)

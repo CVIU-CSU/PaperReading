@@ -9,6 +9,8 @@ List shared papers in our group
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2025.05.02|1. 黄丽娜     <br>  （OW Object Counting） |[《SDVPT: Semantic-Driven Visual Prompt Tuning for Open-World Object Counting》 （arXiv 2504）](https://arxiv.org/abs/2504.17395)
+|2025.05.02|2. 张伊男     <br>  （Multimodal Learning）  |[《Adaptive Unimodal Regulation for Balanced Multimodal Information Acquisition》 （CVPR 2025）](https://arxiv.org/abs/2503.18595)
 |2025.04.25|1. 张灿     <br>  （Video MLLM） |[《VideoGLaMM : A Large Multimodal Model for Pixel-Level Visual Grounding in Videos》 （CVPR 2025）](https://arxiv.org/html/2411.04923v1)
 |2025.04.25|2. 胡梦云     <br>  （OV Semantic Segmentation）  |[《Exploring Simple Open-Vocabulary Semantic Segmentation》 （CVPR 2025）](https://arxiv.org/pdf/2401.12217)
 |2025.04.19|1. 张浩杰     <br>  （MLLM） |[《From Visuals to Vocabulary: Establishing Equivalence Between Image and Text Token Through Autoregressive Pre-training in MLLMs》 （arXiv 2502）](https://arxiv.org/abs/2502.09093)

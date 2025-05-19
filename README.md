@@ -9,6 +9,10 @@ List shared papers in our group
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2025.05.16|1. 胡逸琛     <br>  （Multi-modal Vision Pre-training） |[《Multi-modal Vision Pre-training for Medical Image Analysis》 （CVPR 2025）](https://arxiv.org/abs/2410.10604)
+|2025.05.16|2. 房玮潇     <br>  （Weakly Supervised Semantic Segmentation）  |[《Exploring CLIP’s Dense Knowledge for Weakly Supervised Semantic Segmentation》 （CVPR 2025）](https://arxiv.org/abs/2503.20826#)
+|2025.05.09|1. 黄佳隆     <br>  （WSI） |[《MExD: An Expert-Infused Diffusion Model for Whole-Slide Image Classification》 （CVPR 2025）](https://arxiv.org/abs/2503.12401)
+|2025.05.09|2. 张骁     <br>  （VLM）  |[《PACT: Pruning and Clustering-Based Token Reduction for Faster Visual Language Models》 （CVPR 2025）](https://arxiv.org/abs/2504.08966)
 |2025.05.02|1. 黄丽娜     <br>  （OW Object Counting） |[《SDVPT: Semantic-Driven Visual Prompt Tuning for Open-World Object Counting》 （arXiv 2504）](https://arxiv.org/abs/2504.17395)
 |2025.05.02|2. 张伊男     <br>  （Multimodal Learning）  |[《Adaptive Unimodal Regulation for Balanced Multimodal Information Acquisition》 （CVPR 2025）](https://arxiv.org/abs/2503.18595)
 |2025.04.25|1. 张灿     <br>  （Video MLLM） |[《VideoGLaMM : A Large Multimodal Model for Pixel-Level Visual Grounding in Videos》 （CVPR 2025）](https://arxiv.org/html/2411.04923v1)

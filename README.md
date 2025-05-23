@@ -9,6 +9,8 @@ List shared papers in our group
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2025.05.23|1. 许文卓     <br>  （Object Detection） |[《MI-DETR: An Object Detection Model with Multi-time Inquiries Mechanism》 （CVPR 2025）](https://arxiv.org/pdf/2503.01463)
+|2025.05.23|2. 张灿     <br>  （Prompt Learning for VLM）  |[《NLPrompt: Noise-Label Prompt Learning for Vision-Language Models》 （CVPR 2025）](https://arxiv.org/abs/2412.01256)
 |2025.05.16|1. 胡逸琛     <br>  （Multi-modal Vision Pre-training） |[《Multi-modal Vision Pre-training for Medical Image Analysis》 （CVPR 2025）](https://arxiv.org/abs/2410.10604)
 |2025.05.16|2. 房玮潇     <br>  （Weakly Supervised Semantic Segmentation）  |[《Exploring CLIP’s Dense Knowledge for Weakly Supervised Semantic Segmentation》 （CVPR 2025）](https://arxiv.org/abs/2503.20826#)
 |2025.05.09|1. 黄佳隆     <br>  （WSI） |[《MExD: An Expert-Infused Diffusion Model for Whole-Slide Image Classification》 （CVPR 2025）](https://arxiv.org/abs/2503.12401)

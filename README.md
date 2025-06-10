@@ -9,6 +9,8 @@ List shared papers in our group
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2025.06.09|1. 张骁     <br>  （LLM Inter-representation） |[《Layer by Layer: Uncovering Hidden Representations in Language Models》 （ICML 2025）](https://arxiv.org/abs/2502.02013)
+|2025.06.09|2. 刘索妮     <br>  （Fast WSI） |[《Fast and Accurate Gigapixel Pathological Image Classification with Hierarchical Distillation Multi-Instance Learning》 （CVPR 2025）](https://arxiv.org/abs/2502.21130)
 |2025.05.30|1. 胡梦云     <br>  （OV Semantic Segmentation） |[《DPSeg: Dual-Prompt Cost Volume Learning for Open-Vocabulary Semantic Segmentation》 （CVPR 2025）](https://arxiv.org/abs/2505.11676)
 |2025.05.30|2. 郭力睿     <br>  （Pre-training for VLM）  |[《FLAME：Frozen Large Language Models Enable Data-Efficient Language-Image Pre-training》 （CVPR 2025）](https://arxiv.org/abs/2411.11927)
 |2025.05.23|1. 许文卓     <br>  （Object Detection） |[《MI-DETR: An Object Detection Model with Multi-time Inquiries Mechanism》 （CVPR 2025）](https://arxiv.org/pdf/2503.01463)

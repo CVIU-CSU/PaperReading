@@ -9,6 +9,8 @@ List shared papers in our group
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2025.06.23|1. 房玮潇     <br>  （Amodal Instance Segmentation） |[《Segment Anything, Even Occluded》 （CVPR 2025）](https://arxiv.org/pdf/2503.06261)
+|2025.06.23|2. 郭力睿     <br>  （Knowledge-Based VQA） |[《Notes-guided MLLM Reasoning: Enhancing MLLM with Knowledge and Visual Notes for Visual Question Answering》 （CVPR 2025）](https://cvpr.thecvf.com/virtual/2025/poster/33913)
 |2025.06.09|1. 张骁     <br>  （LLM Inter-representation） |[《Layer by Layer: Uncovering Hidden Representations in Language Models》 （ICML 2025）](https://arxiv.org/abs/2502.02013)
 |2025.06.09|2. 刘索妮     <br>  （Fast WSI） |[《Fast and Accurate Gigapixel Pathological Image Classification with Hierarchical Distillation Multi-Instance Learning》 （CVPR 2025）](https://arxiv.org/abs/2502.21130)
 |2025.05.30|1. 胡梦云     <br>  （OV Semantic Segmentation） |[《DPSeg: Dual-Prompt Cost Volume Learning for Open-Vocabulary Semantic Segmentation》 （CVPR 2025）](https://arxiv.org/abs/2505.11676)

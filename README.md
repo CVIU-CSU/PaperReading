@@ -9,6 +9,8 @@ List shared papers in our group
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2025.06.30|1. 李文杰     <br>  （Amodal Instance Segmentation） |[《Open-Det: An Efficient Learning Framework for Open-Ended Detection》 （ICML 2025）](https://arxiv.org/abs/2505.20639)
+|2025.06.30|2. 聂正鑫     <br>  （Amodal Instance Segmentation） |[《Few-Shot Learning from Gigapixel Images via Hierarchical Vision-Language Alignment and Modeling》 （arxiv 2505）](https://arxiv.org/abs/2505.17982)
 |2025.06.23|1. 房玮潇     <br>  （Amodal Instance Segmentation） |[《Segment Anything, Even Occluded》 （CVPR 2025）](https://arxiv.org/pdf/2503.06261)
 |2025.06.23|2. 郭力睿     <br>  （Knowledge-Based VQA） |[《Notes-guided MLLM Reasoning: Enhancing MLLM with Knowledge and Visual Notes for Visual Question Answering》 （CVPR 2025）](https://cvpr.thecvf.com/virtual/2025/poster/33913)
 |2025.06.09|1. 张骁     <br>  （LLM Inter-representation） |[《Layer by Layer: Uncovering Hidden Representations in Language Models》 （ICML 2025）](https://arxiv.org/abs/2502.02013)

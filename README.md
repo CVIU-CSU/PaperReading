@@ -9,6 +9,8 @@ List shared papers in our group
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2025.07.07|1. 张灿     <br>  （Spatial-Temperal Vedio Grounding） |[《Knowing Your Target: Target-Aware Transformer Makes Better Spatio-Temporal Video Grounding》 （ICLR 2025）](https://arxiv.org/abs/2502.11168)
+|2025.07.07|2. 胡梦云     <br>  （ViT for Segmentation） |[《Your ViT is Secretly an Image Segmentation Model》 （CVPR 2025）](https://arxiv.org/abs/2503.19108)
 |2025.06.30|1. 李文杰     <br>  （Object Detection with MLLM） |[《Open-Det: An Efficient Learning Framework for Open-Ended Detection》 （ICML 2025）](https://arxiv.org/abs/2505.20639)
 |2025.06.30|2. 聂正鑫     <br>  （Hierarchical MIL for WSI） |[《Few-Shot Learning from Gigapixel Images via Hierarchical Vision-Language Alignment and Modeling》 （arxiv 2505）](https://arxiv.org/abs/2505.17982)
 |2025.06.23|1. 房玮潇     <br>  （Amodal Instance Segmentation） |[《Segment Anything, Even Occluded》 （CVPR 2025）](https://arxiv.org/pdf/2503.06261)

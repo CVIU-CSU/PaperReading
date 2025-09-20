@@ -9,6 +9,8 @@ List shared papers in our group
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2025.09.15|1. 张灿    <br>  （Part-Focused Segmentation） |[《CALICO: Part-Focused Semantic Co-Segmentation with Large Vision-Language Models》（CVPR 2025）](https://arxiv.org/abs/2412.19331)
+|2025.09.01|1. 房玮潇    <br>  （Foreground Segmentation） |[《FOCUS: Towards Universal Foreground Segmentation》 （AAAI 2025）](https://arxiv.org/abs/2501.05238)
 |2025.08.04|1. 刘索妮    <br>  （GigaPixel WSI） |[《Learning Heterogeneous Tissues with Mixture of Experts for Gigapixel Whole Slide Images》 （CVPR 2025）](https://openaccess.thecvf.com/content/CVPR2025/papers/Wu_Learning_Heterogeneous_Tissues_with_Mixture_of_Experts_for_Gigapixel_Whole_CVPR_2025_paper.pdf)
 |2025.07.21|1. 张骁     <br>  （Biomedical Contrastive Learning） |[《BiomedCoOp: Learning to Prompt for Biomedical Vision-Language Models》 （CVPR 2025）](https://arxiv.org/abs/2411.15232)
 |2025.07.07|1. 张灿     <br>  （Spatial-Temperal Vedio Grounding） |[《Knowing Your Target: Target-Aware Transformer Makes Better Spatio-Temporal Video Grounding》 （ICLR 2025）](https://arxiv.org/abs/2502.11168)

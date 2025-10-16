@@ -9,6 +9,9 @@ List shared papers in our group
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2025.10.13|1. 郭潇    <br>  （Anomaly Detection） |[《Improving Multimodal Learning Balance and Sufficiency through Data Remixing》（ICML2025）](https://arxiv.org/abs/2506.11550)
+|2025.09.29|1. 郭力睿    <br>  （Part-Focused Segmentation） |[《SAGE: A Visual Language Model for Anomaly Detection via Fact Enhancement and Entropy-aware Alignment》（ACM MM 2025）](https://arxiv.org/abs/2507.07939)
+|2025.09.22|1. 胡梦云    <br>  （Vision-Language Comprehension） |[《ReMeREC: Relation-aware and Multi-entity Referring Expression Comprehension》（ACM MM 2025）](https://arxiv.org/abs/2507.16877)
 |2025.09.15|1. 张灿    <br>  （Part-Focused Segmentation） |[《CALICO: Part-Focused Semantic Co-Segmentation with Large Vision-Language Models》（CVPR 2025）](https://arxiv.org/abs/2412.19331)
 |2025.09.01|1. 房玮潇    <br>  （Foreground Segmentation） |[《FOCUS: Towards Universal Foreground Segmentation》 （AAAI 2025）](https://arxiv.org/abs/2501.05238)
 |2025.08.04|1. 刘索妮    <br>  （GigaPixel WSI） |[《Learning Heterogeneous Tissues with Mixture of Experts for Gigapixel Whole Slide Images》 （CVPR 2025）](https://openaccess.thecvf.com/content/CVPR2025/papers/Wu_Learning_Heterogeneous_Tissues_with_Mixture_of_Experts_for_Gigapixel_Whole_CVPR_2025_paper.pdf)

@@ -9,7 +9,11 @@ List shared papers in our group
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
-|2025.10.13|1. 刘昀哲    <br>  （Emotion Perception/ Token Purning） |[《Catch Your Emotion: Sharpening Emotion Perception in Multimodal Large Language Models》（ICML2025）](https://openreview.net/forum?id=IYOksPHJKT)
+|2025.11.10|1. 张骁    <br>  （Representation Learning） |[《Conditional Representation Learning for Customized Tasks》（NeurIPS2025)](https://arxiv.org/abs/2510.04564)
+|2025.11.10|1. 洪程鹏    <br>  （Image Editing） |[《IMAGHarmony: Controllable Image Editing with Consistent Object Quantity and Layout》（TPAMI）](https://arxiv.org/abs/2505.24025)
+|2025.11.03|1. 李文杰    <br>  （Visual In-context Reasoning） |[《DINO-R1: Incentivizing Reasoning Capability in Vision Foundation Models》（arxiv2503）](https://arxiv.org/abs/2505.24025)
+|2025.10.27|1. 聂正鑫    <br>  （Multiple Instance Learning） |[《How Effective Can Dropout Be in Multiple Instance Learning ?》（ICML2025）](https://arxiv.org/abs/2504.14783)
+|2025.10.20|1. 刘昀哲    <br>  （Emotion Perception/ Token Purning） |[《Catch Your Emotion: Sharpening Emotion Perception in Multimodal Large Language Models》（ICML2025）](https://openreview.net/forum?id=IYOksPHJKT)
 |2025.10.13|1. 郭潇    <br>  （Anomaly Detection） |[《Improving Multimodal Learning Balance and Sufficiency through Data Remixing》（ICML2025）](https://arxiv.org/abs/2506.11550)
 |2025.09.29|1. 郭力睿    <br>  （Part-Focused Segmentation） |[《SAGE: A Visual Language Model for Anomaly Detection via Fact Enhancement and Entropy-aware Alignment》（ACM MM 2025）](https://arxiv.org/abs/2507.07939)
 |2025.09.22|1. 胡梦云    <br>  （Vision-Language Comprehension） |[《ReMeREC: Relation-aware and Multi-entity Referring Expression Comprehension》（ACM MM 2025）](https://arxiv.org/abs/2507.16877)

@@ -9,7 +9,7 @@ List shared papers in our group
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
-|2025.11.10|1. 张骁    <br>  （Representation Learning） |[《Conditional Representation Learning for Customized Tasks》（NeurIPS2025)](https://arxiv.org/abs/2510.04564)
+|2025.11.17|1. 张骁    <br>  （Representation Learning） |[《Conditional Representation Learning for Customized Tasks》（NeurIPS2025)](https://arxiv.org/abs/2510.04564)
 |2025.11.10|1. 洪程鹏    <br>  （Image Editing） |[《IMAGHarmony: Controllable Image Editing with Consistent Object Quantity and Layout》（TPAMI）](https://arxiv.org/abs/2505.24025)
 |2025.11.03|1. 李文杰    <br>  （Visual In-context Reasoning） |[《DINO-R1: Incentivizing Reasoning Capability in Vision Foundation Models》（arxiv2503）](https://arxiv.org/abs/2505.24025)
 |2025.10.27|1. 聂正鑫    <br>  （Multiple Instance Learning） |[《How Effective Can Dropout Be in Multiple Instance Learning ?》（ICML2025）](https://arxiv.org/abs/2504.14783)

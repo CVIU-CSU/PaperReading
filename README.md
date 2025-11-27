@@ -9,6 +9,7 @@ List shared papers in our group
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2025.11.17|1. 刘翔    <br>  （Action Detection） |[《Scaling Action Detection: AdaTAD++ with Transformer-Enhanced Temporal-Spatial Adaptation》（ICCV 2025）](https://openaccess.thecvf.com/content/ICCV2025/papers/Agrawal_Scaling_Action_Detection_AdaTAD_with_Transformer-Enhanced_Temporal-Spatial_Adaptation_ICCV_2025_paper.pdf)
 |2025.11.17|1. 张骁    <br>  （Representation Learning） |[《Conditional Representation Learning for Customized Tasks》（NeurIPS2025)](https://arxiv.org/abs/2510.04564)
 |2025.11.10|1. 洪程鹏    <br>  （Image Editing） |[《IMAGHarmony: Controllable Image Editing with Consistent Object Quantity and Layout》（TPAMI）](https://arxiv.org/abs/2505.24025)
 |2025.11.03|1. 李文杰    <br>  （Visual In-context Reasoning） |[《DINO-R1: Incentivizing Reasoning Capability in Vision Foundation Models》（arxiv2503）](https://arxiv.org/abs/2505.24025)

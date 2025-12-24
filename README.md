@@ -9,7 +9,6 @@ List shared papers in our group
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
-
 |2025.12.15|1. 张灿    <br>  （Region Representation） |[《FlexiReg: Flexible Urban Region Representation Learning》(KDD 2025)](https://doi.org/10.1145/3711896.3736965)
 |2025.12.08|1. 房玮潇    <br>  （Segmentation prompt） |[《BioSAM: Generating SAM Prompts From Superpixel Graph for Biological Instance Segmentation》(JBHI 2025)](https://ieeexplore.ieee.org/document/10705688)
 |2025.12.01|1. 刘索妮    <br>  （Pathological VLM） |[《Patho-R1: A Multimodal Reinforcement Learning-Based Pathology Expert Reasoner》(AAAI 2026)](https://arxiv.org/pdf/2505.11404)

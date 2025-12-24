@@ -9,6 +9,10 @@ List shared papers in our group
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+
+|2025.12.15|1. 张灿    <br>  （Region Representation） |[《FlexiReg: Flexible Urban Region Representation Learning》(KDD 2025)](https://doi.org/10.1145/3711896.3736965)
+|2025.12.08|1. 房玮潇    <br>  （Segmentation prompt） |[《BioSAM: Generating SAM Prompts From Superpixel Graph for Biological Instance Segmentation》(JBHI 2025)](https://ieeexplore.ieee.org/document/10705688)
+|2025.12.01|1. 刘索妮    <br>  （Pathological VLM） |[《Patho-R1: A Multimodal Reinforcement Learning-Based Pathology Expert Reasoner》(AAAI 2026)](https://arxiv.org/pdf/2505.11404)
 |2025.11.24|1. 刘翔    <br>  （Action Detection） |[《Scaling Action Detection: AdaTAD++ with Transformer-Enhanced Temporal-Spatial Adaptation》（ICCV 2025）](https://openaccess.thecvf.com/content/ICCV2025/papers/Agrawal_Scaling_Action_Detection_AdaTAD_with_Transformer-Enhanced_Temporal-Spatial_Adaptation_ICCV_2025_paper.pdf)
 |2025.11.17|1. 张骁    <br>  （Representation Learning） |[《Conditional Representation Learning for Customized Tasks》（NeurIPS2025)](https://arxiv.org/abs/2510.04564)
 |2025.11.10|1. 洪程鹏    <br>  （Image Editing） |[《IMAGHarmony: Controllable Image Editing with Consistent Object Quantity and Layout》（TPAMI）](https://arxiv.org/abs/2505.24025)

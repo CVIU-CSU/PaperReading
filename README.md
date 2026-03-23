@@ -9,7 +9,7 @@ List shared papers in our group
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
-|2025.03.23| 王培福    <br>  （Unified Visual Perception） |[《Thinking With Videos: Multimodal Tool-Augmented Reinforcement Learning for Long Video Reasoning》(CVPR 2026)](https://arxiv.org/abs/2508.04416) | [Project](https://zhang9302002.github.io/thinkingwithvideos-page/)
+|2025.03.23| 王培福    <br>  （Video Reasoning） |[《Thinking With Videos: Multimodal Tool-Augmented Reinforcement Learning for Long Video Reasoning》(CVPR 2026)](https://arxiv.org/abs/2508.04416) | [Project](https://zhang9302002.github.io/thinkingwithvideos-page/)
 |2025.03.16| 洪程鹏    <br>  （Unified Visual Perception） |[《VisionReasoner: Unified Reasoning-Integrated Visual Perception via Reinforcement Learning》(ICLR 2026)](https://arxiv.org/abs/2505.12081)
 |2025.03.09| 黄丽娜    <br>  （Image Synthesis） |[《PathDiff: Histopathology Image Synthesis with Unpaired Text and Mask Conditions》(ICCV 2025)]( https://arxiv.org/abs/2506.23440)
 |2025.03.02| 李文杰    <br>  （Open-Vocabulary Object Detection） |[《WeDetect: Fast Open-Vocabulary Object Detection as Retrieval》(CVPR 2026)](https://arxiv.org/abs/2512.12309) | [Link](https://github.com/WeChatCV/WeDetect)

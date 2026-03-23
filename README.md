@@ -9,13 +9,13 @@ List shared papers in our group
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
-|2025.03.23| 王培福    <br>  （Unified Visual Perception） |[《Thinking With Videos: Multimodal Tool-Augmented Reinforcement Learning for Long Video Reasoning》(CVPR 2026)](https://arxiv.org/abs/2508.04416) <br> [Project](https://zhang9302002.github.io/thinkingwithvideos-page/)
+|2025.03.23| 王培福    <br>  （Unified Visual Perception） |[《Thinking With Videos: Multimodal Tool-Augmented Reinforcement Learning for Long Video Reasoning》(CVPR 2026)](https://arxiv.org/abs/2508.04416) | [Project](https://zhang9302002.github.io/thinkingwithvideos-page/)
 |2025.03.16| 洪程鹏    <br>  （Unified Visual Perception） |[《VisionReasoner: Unified Reasoning-Integrated Visual Perception via Reinforcement Learning》(ICLR 2026)](https://arxiv.org/abs/2505.12081)
 |2025.03.09| 黄丽娜    <br>  （Image Synthesis） |[《PathDiff: Histopathology Image Synthesis with Unpaired Text and Mask Conditions》(ICCV 2025)]( https://arxiv.org/abs/2506.23440)
-|2025.03.02| 李文杰    <br>  （Open-Vocabulary Object Detection） |[《WeDetect: Fast Open-Vocabulary Object Detection as Retrieval》(CVPR 2026)](https://arxiv.org/abs/2512.12309) <br> [Link](https://github.com/WeChatCV/WeDetect)
-|2025.02.02| 郭力睿    <br>  （MLLM + RL） |[《SRPO: Enhancing Multimodal LLM Reasoning via Reflection-Aware Reinforcement Learning》(NeurIPS 2025)]( https://arxiv.org/abs/2506.01713) <br> [Openreview](https://openreview.net/forum?id=h3lyFa5e1W)
-|2025.01.26| 郭潇    <br>  （Representation Learning） |[《Amplifying Prominent Representations in Multimodal Learning via Variational Dirichlet Process》(NeurIPS 2025)]( https://arxiv.org/abs/2510.20736) <br> [OpenReview](https://openreview.net/forum?id=dC5TWysDsZ)
-|2025.01.19| 刘昀哲    <br>  （Visual CoT） |[《Chain-of-Visual-Thought: Teaching VLMs to See and Think Better with Continuous Visual Tokens》(arxiv 2511)](https://arxiv.org/abs/2511.19418) <br> [Project](https://wakalsprojectpage.github.io/covt-website/)
+|2025.03.02| 李文杰    <br>  （Open-Vocabulary Object Detection） |[《WeDetect: Fast Open-Vocabulary Object Detection as Retrieval》(CVPR 2026)](https://arxiv.org/abs/2512.12309) | [Link](https://github.com/WeChatCV/WeDetect)
+|2025.02.02| 郭力睿    <br>  （MLLM + RL） |[《SRPO: Enhancing Multimodal LLM Reasoning via Reflection-Aware Reinforcement Learning》(NeurIPS 2025)]( https://arxiv.org/abs/2506.01713) | [Openreview](https://openreview.net/forum?id=h3lyFa5e1W)
+|2025.01.26| 郭潇    <br>  （Representation Learning） |[《Amplifying Prominent Representations in Multimodal Learning via Variational Dirichlet Process》(NeurIPS 2025)]( https://arxiv.org/abs/2510.20736) | [OpenReview](https://openreview.net/forum?id=dC5TWysDsZ)
+|2025.01.19| 刘昀哲    <br>  （Visual CoT） |[《Chain-of-Visual-Thought: Teaching VLMs to See and Think Better with Continuous Visual Tokens》(arxiv 2511)](https://arxiv.org/abs/2511.19418) | [Project](https://wakalsprojectpage.github.io/covt-website/)
 |2025.01.12| 杨鑫权    <br>  （Unified Segmentation Model） |[《SAM 3: Segment Anything with Concepts》(ICCV 2025)](https://arxiv.org/abs/2511.16719)
 |2025.01.05|1. 黄佳隆    <br>  （WSI Classification） |[《GMMamba: Group Masking Mamba for Whole Slide Image Classification》(ICCV 2025)](https://openaccess.thecvf.com/content/ICCV2025/papers/Zheng_GMMamba_Group_Masking_Mamba_for_Whole_Slide_Image_Classification_ICCV_2025_paper.pdf)
 |2025.12.28|1. 胡梦云    <br>  （Tool-Augmented LLM） |[《Advancing Tool-Augmented Large Language Models via Meta-Verification and Reflection Learning》(SIGKDD 2025)](https://dl.acm.org/doi/epdf/10.1145/3711896.3736835)

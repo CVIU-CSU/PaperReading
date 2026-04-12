@@ -9,6 +9,8 @@ List shared papers in our group
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2025.04.13| 许文卓    <br>  （Visual Prompt for Object Detection） |[《DETR-ViP: Detection Transformer with Robust Discriminative Visual Prompts》（ICLR 2026）]( https://openreview.net/pdf?id=2KKDWERRm3)
+|2025.03.30| 聂正鑫    <br>  （MIL） |[《ASMIL: Attention-Stabilized Multiple Instance Learning for Whole Slide Imaging》（ICLR 2026）](https://arxiv.org/abs/2603.06658) | [Project](https://github.com/Linfeng-Ye/ASMIL)
 |2025.03.23| 王培福    <br>  （Video Reasoning） |[《Thinking With Videos: Multimodal Tool-Augmented Reinforcement Learning for Long Video Reasoning》(CVPR 2026)](https://arxiv.org/abs/2508.04416) | [Project](https://zhang9302002.github.io/thinkingwithvideos-page/)
 |2025.03.16| 洪程鹏    <br>  （Unified Visual Perception） |[《VisionReasoner: Unified Reasoning-Integrated Visual Perception via Reinforcement Learning》(ICLR 2026)](https://arxiv.org/abs/2505.12081)
 |2025.03.09| 黄丽娜    <br>  （Image Synthesis） |[《PathDiff: Histopathology Image Synthesis with Unpaired Text and Mask Conditions》(ICCV 2025)]( https://arxiv.org/abs/2506.23440)

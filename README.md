@@ -9,6 +9,8 @@ List shared papers in our group
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2025.04.27| 张伊男    <br>  （Incomplete Multimodal Learning） |[《Anchor-Guided Gradient Alignment for Incomplete Multimodal Learning》（CVPR 2026）](http://home.njustkmg.cn:4056/assets/pdf/publications/Conference%20Papers/CVPR26_Anchor-Guided_Gradient_Alignment_for_Incomplete_Multimodal_Learning.pdf) | [Project](https://github.com/guanzh1997/CVPR26-ANGA)
+|2025.04.20| 张浩杰    <br>  （Token Reduction） |[《Rethinking Token Reduction for Large Vision-Language Models》（CVPR 2026）](https://arxiv.org/pdf/2603.21701)
 |2025.04.13| 许文卓    <br>  （Visual Prompt for Object Detection） |[《DETR-ViP: Detection Transformer with Robust Discriminative Visual Prompts》（ICLR 2026）]( https://openreview.net/pdf?id=2KKDWERRm3)
 |2025.03.30| 聂正鑫    <br>  （MIL） |[《ASMIL: Attention-Stabilized Multiple Instance Learning for Whole Slide Imaging》（ICLR 2026）](https://arxiv.org/abs/2603.06658) | [Project](https://github.com/Linfeng-Ye/ASMIL)
 |2025.03.23| 王培福    <br>  （Video Reasoning） |[《Thinking With Videos: Multimodal Tool-Augmented Reinforcement Learning for Long Video Reasoning》(CVPR 2026)](https://arxiv.org/abs/2508.04416) | [Project](https://zhang9302002.github.io/thinkingwithvideos-page/)

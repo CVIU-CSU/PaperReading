@@ -9,6 +9,8 @@ List shared papers in our group
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2025.06.15| 聂正鑫    <br>  （Visual Token Pruning） |[《AgilePruner: An Empirical Study of Attention and Diversity for Adaptive Visual Token Pruning in Large Vision-Language Models》（ICLR2026）]( https://arxiv.org/pdf/2603.01236) |
+|2025.06.08| 郭潇    <br>  （Imbalanced MM Learning） |[《Enhance-then-Balance Modality Collaboration for Robust Multimodal Sentiment Analysis》（CVPR2026）]( https://arxiv.org/abs/2604.12518) |
 |2025.06.01| 张骁    <br>  （ViT Register & VLM Pruning） |[《OccamToken: Efficient VLM Inference with Training-Free and Budget-Adaptive Token Pruning》（arxiv2605）](https://arxiv.org/abs/2605.29657) | [Test-time Register](https://arxiv.org/abs/2506.08010)
 |2025.05.25| 杨鑫权    <br>  （Objective Detection + Diffusion） |[《FSOD-VFM: Few-Shot Object Detection with Vision Foundation Models and Graph Diffusion》（ICLR2026）](https://arxiv.org/pdf/2602.03137) | [OpenReview](https://openreview.net/forum?id=jHlAq2rYUw)
 |2025.05.18| 刘昀哲   <br>  （MM On-Policy Distillation） |[《Uni-OPD: Unifying On-Policy Distillation with a Dual-Perspective Recipe》（arxiv 2605）](https://arxiv.org/abs/2605.03677) | [Project](https://github.com/WenjinHou/Uni-OPD)

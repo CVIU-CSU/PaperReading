@@ -9,6 +9,11 @@ List shared papers in our group
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2026.07.20| 刘晴老师    <br>  （Retinal Disease Screening） |《Partially Supervised Multiple Retinal Disease Screening》 | |
+|2026.07.13| 刘翔    <br>  （Long Video Understanding） |[《Thinking with Drafts: Speculative Temporal Reasoning for Efficient Long Video Understanding》（CVPR2026）](https://arxiv.org/pdf/2512.00805v2) | |
+|2026.07.05| 李文杰    <br>  （Multimodal Agents） |[《XSKILL: Continual Learning from Experience and Skills in Multimodal Agents》（ICML 2026）](https://arxiv.org/abs/2603.12056v2) | |
+|2026.06.29| 洪程鹏    <br>  （Multi-Turn Conversation） |[《LLMs Get Lost In Multi-Turn Conversation》（ICLR 2026）](https://arxiv.org/abs/2505.06120) | [OpenReview](https://openreview.net/forum?id=VKGTGGcwl6) |
+|2026.06.23| 洪程鹏    <br>  （AI-Generated Video Detection） |[《Preserving Forgery Artifacts: AI-Generated Video Detection at Native Scale》（ICLR 2026）](https://arxiv.org/abs/2604.04634) | |
 |2025.06.15| 聂正鑫    <br>  （Visual Token Pruning） |[《AgilePruner: An Empirical Study of Attention and Diversity for Adaptive Visual Token Pruning in Large Vision-Language Models》（ICLR2026）]( https://arxiv.org/pdf/2603.01236) |
 |2025.06.08| 郭潇    <br>  （Imbalanced MM Learning） |[《Enhance-then-Balance Modality Collaboration for Robust Multimodal Sentiment Analysis》（CVPR2026）]( https://arxiv.org/abs/2604.12518) |
 |2025.06.01| 张骁    <br>  （ViT Register & VLM Pruning） |[《OccamToken: Efficient VLM Inference with Training-Free and Budget-Adaptive Token Pruning》（arxiv2605）](https://arxiv.org/abs/2605.29657) | [Test-time Register](https://arxiv.org/abs/2506.08010)

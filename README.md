@@ -9,6 +9,7 @@ List shared papers in our group
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2026.07.27| 杨鑫权    <br>  （Region Proposal Network） |[《Prompt-Free Universal Region Proposal Network》（CVPR2026 Oral）](https://arxiv.org/pdf/2603.17554) | |
 |2026.07.20| 刘晴老师    <br>  （Retinal Disease Screening） |《Partially Supervised Multiple Retinal Disease Screening》 | |
 |2026.07.13| 刘翔    <br>  （Long Video Understanding） |[《Thinking with Drafts: Speculative Temporal Reasoning for Efficient Long Video Understanding》（CVPR2026）](https://arxiv.org/pdf/2512.00805v2) | |
 |2026.07.05| 李文杰    <br>  （Multimodal Agents） |[《XSKILL: Continual Learning from Experience and Skills in Multimodal Agents》（ICML 2026）](https://arxiv.org/abs/2603.12056v2) | |

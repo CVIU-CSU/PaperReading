@@ -9,6 +9,11 @@ List shared papers in our group
 
 |Date|Speaker|Paper|Remark|
 |---|:---:|---|---|
+|2026.10.30| 唐家悦    <br>  （RNN-Based Object Detection） |[《Order Matters: Competition-Guided Query Ordering for RNN-Based Object Detection》(NeurIPS 2026)](https://arxiv.org/html/2610.05191v1) |  |
+|2026.10.23| 聂正鑫    <br>  （Whole-Slide Image VQA） |[《PathNavigate: A Training-Free Pathology Agent with Surprise-Guided Scan and Shared Slide Memory for Whole-Slide Image VQA》(NeurIPS 2026)](https://arxiv.org/abs/2605.23559) | |
+|2026.10.16| 洪程鹏    <br>  （Search Agents） |[《Harness-G: A Graph-Structured Harness for Search Agents》(arxiv2026)](https://arxiv.org/abs/2607.27652) | |
+|2026.09.14| 李文杰    <br>  （Agent Skill Evolution） |[《WikiSkill: Compiling Agent Experience into Persistent Knowledge for Skill Evolution》（arXiv 2026）](https://arxiv.org/abs/2608.15404) | |
+|2026.09.07| 刘昀哲    <br>  （Deep Search Agents） |[《DeepSearch-World: Self-Distillation for Deep Search Agents in a Verifiable Environment》（arXiv 2026）](https://arxiv.org/pdf/2607.07132) | |
 |2026.07.27| 杨鑫权    <br>  （Region Proposal Network） |[《Prompt-Free Universal Region Proposal Network》（CVPR2026 Oral）](https://arxiv.org/pdf/2603.17554) | |
 |2026.07.20| 刘晴老师    <br>  （Retinal Disease Screening） |《Partially Supervised Multiple Retinal Disease Screening》 | |
 |2026.07.13| 刘翔    <br>  （Long Video Understanding） |[《Thinking with Drafts: Speculative Temporal Reasoning for Efficient Long Video Understanding》（CVPR2026）](https://arxiv.org/pdf/2512.00805v2) | |
